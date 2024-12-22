@@ -1,0 +1,3134 @@
+Gender,Age,q1,q2,q3,q4,q5,q6,q7,q8,q9,PHQ9 score,Institute
+Female,22,1,1,3,3,1,1,3,1,0,14,KFUEIT
+Male,19,1,3,3,3,0,3,3,0,0,16,KFUEIT
+Male,18,1,3,0,3,0,3,0,1,0,11,KFUEIT
+Male,18,1,0,1,1,0,0,1,0,0,4,KFUEIT
+Male,20,2,3,1,1,0,3,2,1,0,13,KFUEIT
+Female,19,1,1,1,3,2,0,2,2,0,12,KFUEIT
+Male,18,3,0,0,1,0,1,1,1,0,7,KFUEIT
+Male,21,0,1,1,1,0,0,1,0,0,4,KFUEIT
+Male,21,0,3,2,2,0,2,2,1,0,12,KFUEIT
+Male,19,3,1,0,2,3,1,1,1,0,12,KFUEIT
+Male,22,1,1,0,2,2,3,3,3,0,15,KFUEIT
+Female,19,1,1,2,2,1,0,1,0,0,8,KFUEIT
+Male,20,1,3,2,3,3,3,3,0,1,19,KFUEIT
+Male,17,2,3,1,2,0,3,1,0,1,13,KFUEIT
+Female,22,2,1,3,2,3,0,0,2,3,16,KFUEIT
+Male,20,1,0,3,3,3,0,1,0,0,11,KFUEIT
+Male,20,3,1,3,1,3,1,3,0,0,15,KFUEIT
+Male,20,1,2,2,2,0,2,2,1,2,14,KFUEIT
+Male,19,0,0,0,1,1,0,1,0,0,3,KFUEIT
+Male,22,0,3,0,3,1,2,1,1,1,12,KFUEIT
+Male,20,1,1,1,1,2,2,3,2,2,15,KFUEIT
+Male,22,1,1,1,2,1,1,1,0,1,9,KFUEIT
+Male,22,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Female,13,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Male,22,2,3,0,0,3,2,0,2,0,12,KFUEIT
+Male,17,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,19,1,3,2,3,3,3,3,3,3,24,KFUEIT
+Male,17,1,3,2,2,0,3,3,0,3,17,KFUEIT
+Male,23,1,3,3,3,3,3,3,3,0,22,KFUEIT
+Female,18,0,1,0,2,0,0,3,2,1,9,KFUEIT
+Female,19,1,2,3,1,0,3,2,3,1,16,KFUEIT
+Male,21,3,0,1,1,2,0,1,0,0,8,KFUEIT
+Female,18,0,1,1,3,2,0,3,0,0,10,KFUEIT
+Male,20,2,0,0,0,0,0,2,0,0,4,KFUEIT
+Female,19,3,2,2,2,0,2,3,0,3,17,KFUEIT
+Male,21,1,2,3,1,1,2,3,1,3,17,KFUEIT
+Female,19,0,3,2,2,2,3,0,3,2,17,KFUEIT
+Female,21,1,1,3,2,0,0,1,1,0,9,KFUEIT
+Male,20,3,1,1,1,3,0,0,1,0,10,KFUEIT
+Female,20,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Female,22,1,2,3,2,0,3,3,1,2,17,KFUEIT
+Male,21,1,0,0,1,1,3,1,1,1,9,KFUEIT
+Male,19,3,1,1,1,3,1,3,3,1,17,KFUEIT
+Male,19,1,1,1,1,3,1,3,3,1,15,KFUEIT
+Male,19,1,2,3,2,3,3,2,2,0,18,KFUEIT
+Female,21,1,3,0,2,0,2,1,0,3,12,KFUEIT
+Female,23,3,0,1,1,0,0,0,0,0,5,KFUEIT
+Female,19,2,3,0,3,1,3,3,1,0,16,KFUEIT
+Male,17,3,0,3,3,1,3,0,1,3,17,KFUEIT
+Female,20,1,1,1,3,0,0,0,2,3,11,KFUEIT
+Male,23,2,1,0,2,2,0,0,2,2,11,KFUEIT
+Male,19,3,1,0,1,0,0,1,1,0,7,KFUEIT
+Male,18,3,3,2,1,2,3,1,1,1,17,KFUEIT
+Female,13,3,3,2,2,3,3,2,2,3,23,KFUEIT
+Male,20,0,3,3,3,3,3,3,3,3,24,KFUEIT
+Female,18,3,1,0,1,0,0,0,0,0,5,KFUEIT
+Male,21,1,3,0,3,2,0,0,3,3,15,KFUEIT
+Male,20,0,3,3,3,3,3,3,3,3,24,KFUEIT
+Female,20,2,0,2,0,3,0,0,1,0,8,KFUEIT
+Male,18,0,1,1,0,0,2,1,1,2,8,KFUEIT
+Male,18,0,1,1,1,1,1,1,2,2,10,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,22,0,1,1,2,1,0,1,0,0,6,KFUEIT
+Male,19,1,1,0,3,1,0,0,0,0,6,KFUEIT
+Male,19,3,1,0,1,1,1,2,1,0,10,KFUEIT
+Female,21,0,0,1,0,0,0,0,0,0,1,KFUEIT
+Female,17,3,3,1,1,0,3,3,3,3,20,KFUEIT
+Male,19,0,0,1,2,0,1,0,0,2,6,KFUEIT
+Female,13,0,1,2,2,2,2,0,0,2,11,KFUEIT
+Male,21,3,2,0,0,0,0,2,0,0,7,KFUEIT
+Male,23,2,3,1,1,1,1,2,3,0,14,KFUEIT
+Male,19,1,1,3,3,3,2,2,2,2,19,KFUEIT
+Female,19,2,1,0,1,1,2,1,0,1,9,KFUEIT
+Male,23,1,1,0,1,2,1,2,3,0,11,KFUEIT
+Male,21,1,1,0,1,3,3,2,3,0,14,KFUEIT
+Female,22,1,1,1,3,1,1,3,3,1,15,KFUEIT
+Female,21,3,1,1,3,0,1,0,0,3,12,KFUEIT
+Male,20,3,1,2,1,1,3,2,3,3,19,KFUEIT
+Male,23,1,1,3,3,0,3,1,1,0,13,KFUEIT
+Male,22,2,3,1,3,2,2,2,1,2,18,KFUEIT
+Male,21,3,1,3,3,0,1,3,0,1,15,KFUEIT
+Male,21,1,1,2,2,2,3,3,3,1,18,KFUEIT
+Female,18,1,1,1,1,1,1,0,0,0,6,KFUEIT
+Male,15,3,2,0,1,1,0,3,0,0,10,KFUEIT
+Male,15,3,0,0,1,1,1,0,0,0,6,KFUEIT
+Male,15,2,3,3,2,3,2,2,1,1,19,KFUEIT
+Male,14,1,2,3,3,0,2,3,1,0,15,KFUEIT
+Male,14,2,2,3,3,0,2,3,1,0,16,KFUEIT
+Female,22,1,1,3,2,1,2,1,1,2,14,KFUEIT
+Female,15,3,1,1,1,2,1,1,1,1,12,KFUEIT
+Male,17,1,2,3,3,3,0,3,3,0,18,KFUEIT
+Male,14,3,1,1,1,1,2,1,1,1,12,KFUEIT
+Female,20,3,2,1,1,1,3,1,3,1,16,KFUEIT
+Female,15,0,3,1,3,2,1,1,1,2,14,KFUEIT
+Male,15,3,0,0,0,2,1,2,0,0,8,KFUEIT
+Male,13,2,0,0,2,0,0,0,0,0,4,KFUEIT
+Male,16,0,2,0,0,0,3,0,0,1,6,KFUEIT
+Male,13,1,1,3,1,1,0,2,0,1,10,KFUEIT
+Male,13,1,1,0,0,0,1,0,1,3,7,KFUEIT
+Female,14,1,1,3,3,3,2,1,0,2,16,KFUEIT
+Female,15,1,3,2,3,2,3,3,0,3,20,KFUEIT
+Female,15,2,3,3,3,0,3,3,0,3,20,KFUEIT
+Male,15,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,17,0,3,0,3,3,3,3,1,3,19,KFUEIT
+Male,16,0,1,0,0,0,1,1,0,1,4,KFUEIT
+Male,16,1,3,3,3,2,3,1,3,3,22,KFUEIT
+Male,15,3,0,3,0,0,0,0,0,0,6,KFUEIT
+Male,18,0,3,3,3,2,3,1,3,3,21,KFUEIT
+Male,18,0,0,0,0,0,0,2,3,3,8,KFUEIT
+Male,16,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Female,14,3,3,1,1,3,0,0,1,0,12,KFUEIT
+Female,13,1,3,2,2,1,2,3,0,3,17,KFUEIT
+Male,16,2,3,1,2,3,1,3,2,1,18,KFUEIT
+Male,16,2,1,1,3,1,3,2,2,1,16,KFUEIT
+Male,20,0,3,1,1,2,3,0,3,2,15,KFUEIT
+Female,14,3,2,2,3,2,2,3,2,2,21,KFUEIT
+Female,14,1,3,3,3,2,1,1,0,0,14,KFUEIT
+Male,15,3,0,0,2,0,0,3,0,0,8,KFUEIT
+Female,16,1,1,0,1,2,1,3,0,0,9,KFUEIT
+Male,15,3,1,2,1,0,0,1,0,0,8,KFUEIT
+Male,18,3,1,2,1,0,2,3,1,0,13,KFUEIT
+Male,13,3,0,0,2,1,1,3,3,1,14,KFUEIT
+Male,16,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Female,14,1,1,0,1,0,1,0,0,0,4,KFUEIT
+Female,14,1,3,2,2,1,3,2,0,3,17,KFUEIT
+Female,14,1,3,0,1,1,3,2,0,3,14,KFUEIT
+Female,13,2,2,1,1,0,1,2,0,3,12,KFUEIT
+Male,21,0,0,1,0,2,1,2,1,1,8,KFUEIT
+Male,21,1,3,1,3,2,3,3,2,1,19,KFUEIT
+Male,19,3,3,0,3,0,0,1,2,3,15,KFUEIT
+Male,22,3,0,0,0,1,0,0,0,0,4,KFUEIT
+Male,20,1,2,3,2,2,2,3,3,2,20,KFUEIT
+Female,19,2,1,1,3,0,1,1,0,3,12,KFUEIT
+Female,20,3,0,1,2,3,1,3,3,0,16,KFUEIT
+Male,23,2,1,1,3,1,3,0,0,3,14,KFUEIT
+Male,23,2,1,3,1,0,1,0,0,0,8,KFUEIT
+Male,22,1,1,2,0,0,1,1,0,0,6,KFUEIT
+Male,19,1,3,3,2,3,0,2,1,1,16,KFUEIT
+Male,21,3,0,0,0,3,0,1,0,0,7,KFUEIT
+Male,20,2,1,3,1,3,3,2,1,1,17,KFUEIT
+Female,22,1,2,1,3,2,1,1,0,1,12,KFUEIT
+Female,21,1,3,3,1,0,3,3,3,3,20,KFUEIT
+Female,20,3,0,0,0,1,0,0,0,0,4,KFUEIT
+Male,22,1,1,2,1,1,3,2,2,0,13,KFUEIT
+Male,22,2,0,0,0,0,1,0,1,0,4,KFUEIT
+Male,21,1,1,1,1,1,2,0,0,2,9,KFUEIT
+Female,21,3,1,0,1,2,1,3,0,0,11,KFUEIT
+Male,20,1,0,1,0,2,0,0,0,0,4,KFUEIT
+Male,23,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,19,1,0,3,2,2,0,1,1,1,11,KFUEIT
+Female,20,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,18,3,2,3,3,0,3,3,3,0,20,KFUEIT
+Female,20,2,3,3,1,3,3,2,3,3,23,KFUEIT
+Male,22,2,0,0,2,0,0,1,1,1,7,KFUEIT
+Female,20,0,0,0,1,2,0,0,0,0,3,KFUEIT
+Male,21,1,1,0,3,3,3,3,3,0,17,KFUEIT
+Male,20,3,0,1,1,0,0,1,1,0,7,KFUEIT
+Male,18,1,3,1,0,3,3,2,0,3,16,KFUEIT
+Female,20,1,2,2,0,1,3,3,1,1,14,KFUEIT
+Male,20,2,2,0,2,3,0,0,1,0,10,KFUEIT
+Female,19,2,0,2,2,1,1,2,0,0,10,KFUEIT
+Male,18,3,0,1,1,0,1,0,0,0,6,KFUEIT
+Male,18,1,1,3,0,1,1,0,0,1,8,KFUEIT
+Male,23,1,2,0,1,1,2,2,1,1,11,KFUEIT
+Male,19,3,0,0,0,2,0,0,0,0,5,KFUEIT
+Male,21,0,3,3,3,0,3,3,3,3,21,KFUEIT
+Male,19,3,0,1,0,3,0,0,0,0,7,KFUEIT
+Male,20,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,21,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,19,0,3,3,2,0,3,1,3,1,16,KFUEIT
+Male,21,1,1,0,2,1,3,2,0,0,10,KFUEIT
+Male,19,1,0,3,3,0,0,3,3,0,13,KFUEIT
+Female,19,1,0,1,1,1,1,0,1,1,7,KFUEIT
+Female,20,3,1,2,3,3,1,1,1,0,15,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,3,2,3,1,1,1,0,1,1,13,KFUEIT
+Male,23,1,3,2,3,1,3,2,2,2,19,KFUEIT
+Male,22,1,3,0,2,0,3,1,0,1,11,KFUEIT
+Male,20,1,0,0,0,0,1,1,2,1,6,KFUEIT
+Male,20,3,0,0,2,1,0,0,0,0,6,KFUEIT
+Male,21,2,1,2,1,1,3,2,3,0,15,KFUEIT
+Female,20,1,2,2,3,3,1,2,1,0,15,KFUEIT
+Male,21,3,0,0,1,0,1,1,0,0,6,KFUEIT
+Male,20,1,1,2,2,2,1,2,0,0,11,KFUEIT
+Male,21,1,1,0,1,3,2,1,1,0,10,KFUEIT
+Male,20,1,1,1,1,1,1,1,0,0,7,KFUEIT
+Female,24,1,2,2,2,2,0,1,0,0,10,KFUEIT
+Male,19,1,1,1,0,0,1,1,0,0,5,KFUEIT
+Male,21,0,3,1,1,0,3,3,1,0,12,KFUEIT
+Male,24,1,1,0,1,1,0,0,0,0,4,KFUEIT
+Male,23,3,0,1,1,1,0,0,0,0,6,KFUEIT
+Male,21,3,0,1,1,3,0,3,0,1,12,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,1,1,1,3,0,1,1,1,1,10,KFUEIT
+Female,18,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,21,1,1,1,1,1,3,2,0,2,12,KFUEIT
+Female,17,3,0,1,0,0,1,3,0,0,8,KFUEIT
+Female,19,2,1,1,2,0,0,2,0,0,8,KFUEIT
+Male,21,1,3,2,1,3,3,0,1,1,15,KFUEIT
+Female,20,2,2,2,2,0,2,2,0,0,12,KFUEIT
+Female,18,2,1,1,2,2,1,0,0,0,9,KFUEIT
+Female,19,3,3,3,3,3,3,3,0,1,22,KFUEIT
+Female,18,3,1,0,0,1,1,1,0,1,8,KFUEIT
+Female,20,3,2,3,3,1,3,3,3,0,21,KFUEIT
+Male,19,1,1,1,2,0,0,2,0,0,7,KFUEIT
+Male,20,3,1,1,1,0,3,2,2,0,13,KFUEIT
+Female,20,1,3,1,1,2,2,1,0,1,12,KFUEIT
+Female,21,1,0,2,1,0,0,1,0,0,5,KFUEIT
+Male,21,1,2,2,2,2,2,2,3,0,16,KFUEIT
+Female,19,3,1,0,0,0,1,3,0,0,8,KFUEIT
+Female,21,1,1,0,0,1,0,3,1,1,8,KFUEIT
+Male,21,1,0,3,1,3,0,3,1,0,12,KFUEIT
+Female,21,3,3,3,0,0,3,3,1,0,16,KFUEIT
+Female,19,2,1,0,1,2,0,0,0,0,6,KFUEIT
+Female,22,0,3,1,0,1,0,0,0,0,5,KFUEIT
+Male,21,1,1,2,0,0,0,0,0,0,4,KFUEIT
+Female,21,1,1,2,0,2,0,0,0,0,6,KFUEIT
+Female,21,3,1,2,2,1,3,1,1,1,15,KFUEIT
+Male,17,2,1,0,0,0,0,0,0,0,3,KFUEIT
+Male,21,0,1,0,0,3,2,0,0,0,6,KFUEIT
+Female,22,0,2,1,0,0,0,0,0,2,5,KFUEIT
+Male,20,0,2,3,2,0,0,0,0,0,7,SZPS
+Female,21,3,0,0,0,3,0,0,0,0,6,SZPS
+Male,20,0,1,2,1,0,0,0,0,0,4,SZPS
+Female,20,0,1,2,3,2,1,3,0,1,13,SZPS
+Female,20,0,2,3,0,1,3,1,2,1,13,SZPS
+Female,19,3,0,3,2,3,3,3,0,3,20,SZPS
+Female,21,1,1,3,3,3,0,3,3,0,17,SZPS
+Male,23,1,3,2,1,3,1,3,0,1,15,SZPS
+Male,23,0,3,2,0,1,0,1,0,0,7,SZPS
+Male,22,0,2,0,0,0,0,0,0,0,2,SZPS
+Male,21,1,0,1,3,2,0,0,2,1,10,SZPS
+Male,16,1,2,0,0,1,1,0,0,0,5,SZPS
+Male,16,1,3,0,0,1,1,0,0,0,6,SZPS
+Male,20,0,0,0,1,1,0,0,0,0,2,SZPS
+Male,16,1,3,2,3,0,3,1,0,3,16,SZPS
+Male,15,2,3,2,0,0,1,3,2,0,13,SZPS
+Male,15,1,2,1,0,1,3,1,2,0,11,SZPS
+Male,16,0,1,0,0,0,0,0,0,0,1,SZPS
+Male,16,0,2,0,1,0,0,2,0,1,6,SZPS
+Male,15,1,0,0,0,2,2,2,0,0,7,SZPS
+Male,16,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,16,2,2,0,1,1,0,1,1,0,8,SZPS
+Male,16,1,2,0,0,0,0,3,2,2,10,SZPS
+Female,18,1,0,3,1,0,0,0,0,0,5,SZPS
+Female,19,2,1,2,2,2,1,1,1,1,13,SZPS
+Male,14,0,1,0,0,0,0,0,0,0,1,SZPS
+Male,15,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,16,0,2,0,2,1,0,3,3,0,11,SZPS
+Male,16,0,1,0,0,0,0,1,0,0,2,SZPS
+Male,16,0,1,3,1,3,0,1,3,0,12,SZPS
+Male,15,1,2,2,0,2,2,3,0,0,12,SZPS
+Male,16,1,2,1,2,1,0,3,2,0,12,SZPS
+Male,15,0,1,0,0,1,0,1,0,0,3,SZPS
+Male,18,1,0,1,0,0,0,0,0,0,2,SZPS
+Male,16,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,16,1,1,0,2,1,0,0,0,0,5,SZPS
+Male,16,1,2,3,0,1,1,1,1,1,11,SZPS
+Male,21,3,1,0,0,0,2,3,0,3,12,SZPS
+Male,16,2,0,1,0,1,1,3,2,3,13,SZPS
+Male,20,0,1,2,2,0,0,1,3,3,12,SZPS
+Male,17,1,0,1,0,1,2,3,1,3,12,SZPS
+Male,17,2,2,1,1,1,1,1,1,1,11,SZPS
+Male,16,2,2,0,1,3,0,1,1,1,11,SZPS
+Male,17,1,3,0,0,0,0,2,0,0,6,SZPS
+Male,17,3,0,2,2,2,1,2,3,0,15,SZPS
+Male,16,1,3,1,0,0,0,0,0,1,6,SZPS
+Male,17,3,0,3,3,3,3,2,3,3,23,SZPS
+Male,18,1,0,0,3,1,2,1,1,1,10,SZPS
+Male,18,3,0,0,0,0,1,1,2,3,10,SZPS
+Male,16,3,1,3,0,3,0,3,1,2,16,SZPS
+Male,16,0,2,0,0,0,0,1,0,0,3,SZPS
+Male,16,0,2,2,1,0,3,0,3,1,12,SZPS
+Male,17,3,0,3,3,3,3,0,0,1,16,SZPS
+Male,17,0,1,0,0,0,1,1,0,0,3,SZPS
+Male,17,3,0,2,0,2,0,2,0,3,12,SZPS
+Male,18,1,2,3,0,0,1,3,2,3,15,SZPS
+Male,16,1,2,0,0,1,0,2,0,0,6,SZPS
+Male,17,2,2,1,1,2,3,2,1,0,14,SZPS
+Male,17,3,3,0,0,3,0,0,0,3,12,SZPS
+Male,16,1,3,3,3,0,1,3,3,0,17,SZPS
+Male,17,2,1,2,2,1,3,1,1,1,14,SZPS
+Male,17,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,17,3,3,3,0,2,1,2,1,2,17,SZPS
+Male,15,0,1,0,0,1,0,1,1,0,4,SZPS
+Male,17,2,1,2,0,2,3,2,2,3,17,SZPS
+Male,15,0,2,1,1,1,0,3,0,0,8,SZPS
+Male,16,2,0,0,0,2,1,2,0,0,7,KFUEIT
+Male,16,2,2,1,0,0,0,0,0,0,5,KFUEIT
+Male,19,1,1,0,2,0,0,1,0,0,5,KFUEIT
+Female,20,1,1,2,2,1,1,1,1,0,10,KFUEIT
+Male,19,1,1,0,1,3,0,0,0,0,6,KFUEIT
+Female,16,0,3,0,0,0,3,3,3,3,15,KFUEIT
+Male,19,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,2,0,1,1,0,0,0,1,0,5,KFUEIT
+Female,18,2,1,0,3,0,1,1,3,0,11,KFUEIT
+Female,18,2,2,0,1,0,1,2,0,2,10,KFUEIT
+Male,23,3,0,3,0,1,0,1,1,0,9,KFUEIT
+Female,18,1,1,1,2,1,1,2,1,1,11,KFUEIT
+Male,22,3,0,0,0,2,0,0,1,3,9,KFUEIT
+Male,20,3,0,0,1,0,0,2,1,0,7,KFUEIT
+Male,19,1,1,1,1,1,0,1,0,0,6,KFUEIT
+Male,18,0,0,0,1,0,0,0,0,0,1,KFUEIT
+Female,19,1,2,0,3,0,2,0,0,0,8,KFUEIT
+Female,17,3,3,1,2,3,1,3,1,1,18,KFUEIT
+Female,17,3,1,0,1,1,1,3,0,1,11,KFUEIT
+Male,18,0,0,3,3,2,2,3,2,1,16,KFUEIT
+Male,20,2,1,0,1,0,1,0,0,1,6,KFUEIT
+Male,19,2,0,3,0,0,3,1,0,0,9,KFUEIT
+Male,14,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,22,1,0,3,1,0,1,3,0,0,9,KFUEIT
+Male,16,0,0,0,3,1,0,1,0,0,5,KFUEIT
+Male,18,0,2,3,3,2,1,3,2,1,17,KFUEIT
+Male,16,0,0,0,0,0,0,0,1,0,1,KFUEIT
+Male,14,1,1,0,0,1,0,0,0,1,4,KFUEIT
+Male,14,3,1,2,2,2,3,2,0,0,15,KFUEIT
+Male,14,1,1,3,1,0,1,1,0,1,9,KFUEIT
+Male,16,2,1,3,2,3,0,0,0,0,11,KFUEIT
+Female,19,1,0,3,1,1,1,1,0,1,9,KFUEIT
+Male,15,1,0,1,0,0,0,3,0,3,8,KFUEIT
+Female,19,3,3,1,1,1,3,3,3,3,21,KFUEIT
+Male,19,3,3,0,0,0,1,3,0,3,13,KFUEIT
+Male,15,1,3,0,0,0,2,1,3,3,13,KFUEIT
+Male,15,2,0,0,3,1,0,0,0,1,7,KFUEIT
+Male,14,1,1,1,1,0,0,2,1,0,7,KFUEIT
+Male,15,2,2,2,3,2,2,3,0,3,19,KFUEIT
+Male,15,1,2,1,1,0,2,2,0,1,10,KFUEIT
+Male,20,2,1,0,0,1,0,1,3,2,10,KFUEIT
+Male,15,1,1,1,0,0,0,1,0,0,4,KFUEIT
+Male,15,1,0,0,0,0,2,1,1,3,8,KFUEIT
+Male,16,1,1,0,0,0,0,0,0,0,2,KFUEIT
+Female,19,0,3,3,3,0,3,1,0,3,16,KFUEIT
+Female,22,2,3,3,1,3,3,2,3,3,23,KFUEIT
+Male,19,1,0,2,1,3,3,0,3,0,13,KFUEIT
+Male,19,1,1,0,2,1,1,1,2,2,11,KFUEIT
+Male,19,0,0,3,1,1,0,1,3,0,9,KFUEIT
+Male,20,1,2,1,2,0,3,1,0,0,10,KFUEIT
+Male,19,1,3,3,3,3,3,3,3,3,25,KFUEIT
+Female,18,1,2,0,2,1,3,2,0,1,12,KFUEIT
+Male,20,2,2,1,1,3,0,1,1,0,11,KFUEIT
+Male,20,1,3,3,2,3,2,3,2,3,22,KFUEIT
+Male,19,0,3,0,3,0,3,3,2,1,15,KFUEIT
+Male,19,1,1,1,1,2,2,1,1,1,11,KFUEIT
+Male,19,2,0,0,1,0,0,0,0,0,3,KFUEIT
+Male,19,2,3,1,1,0,0,0,0,0,7,KFUEIT
+Female,18,3,3,1,1,1,1,3,0,3,16,KFUEIT
+Male,19,1,0,1,0,0,1,1,0,0,4,KFUEIT
+Female,18,1,1,3,2,1,1,3,1,1,14,KFUEIT
+Male,16,3,0,0,2,0,0,0,0,0,5,KFUEIT
+Male,20,3,2,0,0,0,0,0,0,0,5,KFUEIT
+Male,16,2,0,0,2,0,0,0,0,0,4,KFUEIT
+Female,18,1,1,2,2,2,1,1,0,0,10,KFUEIT
+Female,19,2,2,2,3,1,1,2,2,2,17,KFUEIT
+Female,19,0,1,1,1,2,0,1,1,0,7,KFUEIT
+Male,19,1,0,1,3,0,1,0,1,1,8,KFUEIT
+Female,19,1,1,2,1,1,2,1,1,3,13,KFUEIT
+Female,18,3,0,0,1,1,0,0,0,0,5,KFUEIT
+Male,18,1,1,2,1,0,1,0,0,0,6,KFUEIT
+Male,17,1,3,0,0,3,0,1,1,1,10,KFUEIT
+Female,20,2,2,3,3,3,2,3,1,3,22,KFUEIT
+Female,18,1,3,1,1,0,1,1,0,1,9,KFUEIT
+Female,17,1,1,1,1,0,1,2,1,0,8,KFUEIT
+Male,21,1,1,0,3,0,1,0,0,0,6,KFUEIT
+Female,18,1,1,0,1,0,2,3,0,1,9,KFUEIT
+Female,15,1,2,3,3,2,3,3,2,0,19,KFUEIT
+Female,17,1,1,3,3,3,1,1,2,3,18,KFUEIT
+Male,20,3,1,3,1,3,3,3,3,3,23,KFUEIT
+Female,19,3,1,0,1,0,0,1,0,0,6,KFUEIT
+Female,18,1,1,3,1,3,0,1,0,0,10,KFUEIT
+Female,18,1,2,1,3,1,0,1,3,1,13,KFUEIT
+Female,18,1,3,3,3,3,3,3,3,3,25,KFUEIT
+Male,18,1,2,1,2,2,3,1,2,0,14,KFUEIT
+Male,19,1,1,1,1,0,0,1,1,1,7,KFUEIT
+Male,19,0,0,0,1,1,0,0,0,0,2,KFUEIT
+Female,17,0,3,1,1,0,0,3,0,1,9,KFUEIT
+Female,19,1,1,2,3,1,3,2,3,0,16,KFUEIT
+Male,18,2,1,0,1,1,1,1,1,0,8,KFUEIT
+Male,19,3,0,0,0,0,0,0,1,0,4,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,22,0,1,0,1,1,1,1,0,0,5,KFUEIT
+Female,18,0,3,0,3,3,3,3,3,3,21,KFUEIT
+Male,19,1,1,2,2,1,1,1,2,1,12,KFUEIT
+Female,22,0,2,2,3,2,1,3,0,2,15,KFUEIT
+Female,21,3,0,0,0,0,0,1,0,0,4,KFUEIT
+Female,19,1,3,1,3,1,1,1,0,0,11,KFUEIT
+Female,18,0,1,3,2,2,3,3,3,1,18,KFUEIT
+Male,23,1,1,1,1,1,1,1,0,0,7,KFUEIT
+Female,17,3,3,2,1,1,1,3,3,2,19,KFUEIT
+Male,19,1,1,1,1,1,0,1,0,0,6,KFUEIT
+Female,19,2,1,2,2,1,1,0,0,0,9,KFUEIT
+Female,13,1,1,3,3,0,0,1,0,0,9,KFUEIT
+Female,18,0,0,0,1,0,0,1,1,0,3,KFUEIT
+Female,20,1,1,1,2,0,1,3,1,2,12,KFUEIT
+Female,19,1,2,1,0,0,0,1,0,1,6,KFUEIT
+Female,19,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Male,15,0,1,0,2,0,1,1,0,1,6,KFUEIT
+Female,20,1,0,1,1,0,0,0,0,0,3,KFUEIT
+Male,15,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,2,0,0,3,3,0,3,0,0,11,KFUEIT
+Male,19,2,0,0,2,0,0,2,0,0,6,KFUEIT
+Male,23,3,3,1,2,3,3,1,0,0,16,KFUEIT
+Male,17,2,2,1,3,0,1,1,0,0,10,KFUEIT
+Female,19,2,3,1,2,1,2,1,3,2,17,KFUEIT
+Male,18,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Female,19,1,1,2,2,1,1,1,1,0,10,KFUEIT
+Female,20,1,0,3,1,0,0,2,2,0,9,KFUEIT
+Female,19,2,0,3,3,0,3,1,3,3,18,KFUEIT
+Female,21,1,0,3,1,0,0,3,0,0,8,KFUEIT
+Female,19,3,3,3,3,1,0,1,0,0,14,KFUEIT
+Male,19,1,0,0,0,0,1,1,0,0,3,KFUEIT
+Male,18,1,0,0,0,3,1,0,0,0,5,KFUEIT
+Female,20,3,3,3,3,3,3,1,0,0,19,KFUEIT
+Female,18,1,0,3,0,0,1,2,0,0,7,KFUEIT
+Female,20,2,0,3,2,0,0,0,2,0,9,KFUEIT
+Male,21,2,3,1,1,2,0,0,1,1,11,KFUEIT
+Male,18,3,0,1,1,0,0,3,2,1,11,KFUEIT
+Male,20,1,1,0,0,3,1,1,1,0,8,KFUEIT
+Male,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,2,3,3,1,3,0,1,0,13,KFUEIT
+Male,20,0,3,1,2,3,0,0,1,3,13,SZPS
+Female,20,0,0,0,3,0,0,0,0,0,3,SZPS
+Female,19,1,3,0,2,1,1,1,0,1,10,SZPS
+Male,19,1,1,1,1,1,0,1,0,0,6,SZPS
+Male,20,0,2,3,0,3,3,0,3,3,17,SZPS
+Female,20,1,3,0,1,3,3,3,1,1,16,SZPS
+Female,20,1,3,0,3,3,3,1,1,1,16,SZPS
+Male,18,0,1,1,1,0,2,2,0,2,9,SZPS
+Male,20,2,0,0,0,0,0,0,0,2,4,SZPS
+Male,18,1,0,0,0,0,0,0,0,0,1,SZPS
+Female,18,1,0,2,1,0,1,2,0,0,7,SZPS
+Male,22,2,0,0,0,0,0,0,0,0,2,SZPS
+Female,19,1,1,2,2,3,1,2,0,1,13,SZPS
+Male,18,0,0,0,1,1,0,3,3,3,11,SZPS
+Male,18,3,3,2,2,2,3,3,3,1,22,SZPS
+Male,15,3,1,1,2,0,3,3,1,3,17,SZPS
+Male,17,0,2,1,3,2,3,3,3,3,20,SZPS
+Male,15,3,0,2,0,3,3,0,0,1,12,SZPS
+Male,15,0,1,1,2,1,1,1,0,1,8,SZPS
+Male,16,0,0,3,2,0,0,0,1,2,8,SZPS
+Male,16,0,0,1,2,0,0,1,3,0,7,SZPS
+Male,15,1,2,1,1,3,3,2,1,3,17,SZPS
+Male,15,1,0,0,3,1,0,0,2,0,7,SZPS
+Male,16,0,0,1,0,0,0,0,0,0,1,SZPS
+Male,15,2,1,0,1,0,1,0,0,0,5,SZPS
+Male,16,1,0,0,1,0,0,1,1,0,4,SZPS
+Male,16,2,1,2,2,0,1,3,2,1,14,SZPS
+Male,14,3,3,3,3,3,3,3,3,3,27,SZPS
+Male,15,1,0,0,0,1,2,3,1,2,10,SZPS
+Male,14,3,0,0,0,0,1,1,0,0,5,SZPS
+Male,16,1,0,0,0,1,0,0,1,0,3,SZPS
+Male,17,1,0,1,1,2,2,0,1,0,8,SZPS
+Male,16,1,0,2,0,0,1,3,0,1,8,SZPS
+Male,16,3,2,0,1,0,3,3,1,3,16,SZPS
+Male,14,2,1,0,2,0,0,0,0,0,5,SZPS
+Male,14,2,3,1,3,0,2,1,1,3,16,SZPS
+Male,14,0,0,3,0,0,0,3,0,0,6,SZPS
+Male,16,0,1,2,0,3,0,0,1,0,7,SZPS
+Male,17,1,0,2,1,3,3,3,3,0,16,SZPS
+Male,15,2,1,1,3,0,1,1,0,1,10,SZPS
+Male,14,0,1,0,2,0,0,1,0,3,7,SZPS
+Male,14,3,2,0,1,0,3,2,0,0,11,SZPS
+Male,14,1,0,3,1,0,0,3,0,3,11,SZPS
+Male,14,0,2,0,0,1,0,2,3,0,8,SZPS
+Male,19,3,1,1,1,1,3,2,2,1,15,SZPS
+Female,19,2,1,2,2,3,3,1,0,1,15,SZPS
+Female,19,2,3,1,1,1,0,0,0,0,8,SZPS
+Male,23,1,0,2,1,0,1,3,1,0,9,SZPS
+Female,18,0,1,1,1,1,1,1,1,1,8,SZPS
+Male,20,3,0,0,0,3,3,0,0,0,9,SZPS
+Male,14,1,1,3,2,3,1,3,1,3,18,SZPS
+Male,15,0,2,0,2,0,0,3,1,2,10,SZPS
+Male,17,0,0,0,0,0,0,1,0,0,1,SZPS
+Male,16,2,1,1,2,0,0,1,0,0,7,SZPS
+Male,14,0,1,0,2,0,1,0,1,3,8,SZPS
+Male,14,1,2,1,2,1,1,1,3,0,12,SZPS
+Male,15,3,1,0,3,0,0,1,0,0,8,SZPS
+Male,17,3,1,0,3,0,0,1,0,0,8,SZPS
+Male,15,1,0,0,0,0,0,0,1,0,2,SZPS
+Female,15,2,3,0,2,0,0,0,0,1,8,SZPS
+Female,15,1,2,2,1,0,1,3,1,1,12,SZPS
+Female,14,1,2,3,2,2,0,2,1,2,15,SZPS
+Female,15,0,2,0,3,2,3,0,0,2,12,SZPS
+Female,14,0,2,3,0,0,0,1,2,3,11,SZPS
+Female,14,1,1,0,0,0,2,1,0,1,6,SZPS
+Female,13,0,1,0,0,0,2,0,0,3,6,SZPS
+Female,14,0,3,0,1,1,3,1,0,2,11,SZPS
+Female,14,3,0,2,0,0,0,0,0,0,5,SZPS
+Male,16,2,1,3,2,0,0,3,1,0,12,SZPS
+Male,14,3,3,3,0,0,0,3,0,1,13,SZPS
+Male,15,1,3,2,1,0,2,3,0,0,12,SZPS
+Male,16,0,0,0,0,0,0,1,0,0,1,SZPS
+Male,15,0,1,0,0,0,0,0,0,0,1,SZPS
+Male,15,3,1,0,1,0,1,2,0,0,8,SZPS
+Male,15,1,1,1,1,0,1,0,1,1,7,SZPS
+Male,15,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,14,1,3,2,2,3,0,1,0,3,15,SZPS
+Male,15,2,0,0,1,0,1,1,0,0,5,SZPS
+Male,15,0,0,0,1,0,1,1,2,1,6,SZPS
+Male,13,0,1,0,1,0,1,0,0,0,3,SZPS
+Male,15,0,0,0,0,0,0,0,0,0,0,SZPS
+Male,16,3,0,1,2,0,0,1,0,2,9,SZPS
+Male,16,2,0,3,1,0,0,3,0,2,11,SZPS
+Male,16,1,0,0,1,0,1,1,2,0,6,SZPS
+Male,17,0,2,0,2,1,1,0,0,0,6,SZPS
+Male,15,3,1,2,1,0,2,0,0,0,9,SZPS
+Male,17,1,1,0,0,0,0,1,1,0,4,SZPS
+Male,17,0,0,1,3,1,0,3,0,0,8,SZPS
+Male,18,1,0,3,0,0,0,3,0,0,7,SZPS
+Male,16,3,2,0,1,0,0,0,0,0,6,SZPS
+Male,16,3,2,0,1,0,0,0,0,0,6,SZPS
+Male,16,1,0,0,0,1,1,0,0,0,3,SZPS
+Male,17,0,0,0,0,0,0,0,0,0,0,SZPS
+Female,13,1,0,1,1,0,0,0,0,0,3,SZPS
+Female,15,1,1,1,2,1,1,2,3,3,15,SZPS
+Female,14,1,2,3,2,3,3,3,3,1,21,SZPS
+Female,14,1,2,0,2,2,3,1,1,0,12,SZPS
+Female,15,0,2,1,2,2,2,1,1,1,12,SZPS
+Female,13,1,2,2,3,0,2,3,0,0,13,SZPS
+Female,15,3,0,2,3,1,0,2,1,3,15,SZPS
+Female,15,1,1,2,1,2,1,1,0,0,9,SZPS
+Female,14,2,1,3,2,1,1,1,0,3,14,SZPS
+Female,14,3,2,1,0,3,0,1,2,3,15,SZPS
+Male,20,1,1,0,0,0,1,3,1,0,7,SZPS
+Male,18,0,3,3,3,1,3,3,1,3,20,Oxbridge College
+Female,15,2,0,1,3,0,0,1,0,0,7,Oxbridge College
+Female,15,3,0,0,3,1,0,1,0,0,8,Oxbridge College
+Female,15,1,3,1,3,3,1,1,0,0,13,Oxbridge College
+Female,14,1,0,0,3,0,3,3,3,3,16,Oxbridge College
+Female,15,3,1,0,3,0,2,1,1,0,11,Oxbridge College
+Female,15,0,2,3,2,1,0,2,3,0,13,Oxbridge College
+Female,14,3,1,1,2,1,1,1,0,0,10,Oxbridge College
+Female,13,1,0,0,3,3,0,0,3,3,13,Oxbridge College
+Female,14,2,1,1,3,0,0,2,1,0,10,Oxbridge College
+Female,14,1,0,0,3,1,1,1,0,1,8,Oxbridge College
+Male,23,3,1,1,3,0,0,1,1,1,11,Oxbridge College
+Female,14,3,1,0,2,0,0,0,0,1,7,Oxbridge College
+Female,14,3,2,1,1,2,0,2,0,0,11,Oxbridge College
+Female,14,2,0,0,3,0,2,3,1,3,14,Oxbridge College
+Female,15,3,3,0,1,1,1,2,1,2,14,Oxbridge College
+Female,13,1,0,0,0,1,0,2,0,0,4,Oxbridge College
+Female,16,1,2,1,3,0,3,3,1,0,14,Oxbridge College
+Female,16,1,2,2,3,0,3,3,3,0,17,Oxbridge College
+Female,16,1,1,2,3,1,0,2,0,0,10,Oxbridge College
+Female,16,1,1,2,3,1,0,2,0,0,10,Oxbridge College
+Female,15,3,2,3,1,0,1,0,0,3,13,Oxbridge College
+Female,15,3,2,3,3,1,1,2,0,3,18,Oxbridge College
+Female,14,2,1,1,1,0,1,2,2,0,10,Oxbridge College
+Female,14,0,1,2,1,1,0,1,2,0,8,Oxbridge College
+Female,13,3,0,3,0,0,0,1,0,0,7,Oxbridge College
+Female,15,2,0,1,3,0,0,1,0,0,7,Oxbridge College
+Female,15,2,0,1,3,0,0,1,0,0,7,Oxbridge College
+Female,16,0,3,3,3,3,3,0,3,0,18,Oxbridge College
+Female,15,3,1,1,1,3,0,3,0,2,14,Oxbridge College
+Female,16,3,3,3,3,2,3,3,1,3,24,Oxbridge College
+Female,16,1,2,1,1,0,0,2,1,0,8,Oxbridge College
+Female,16,3,1,3,2,0,2,3,1,0,15,Oxbridge College
+Female,16,3,3,3,1,3,3,1,3,2,22,Oxbridge College
+Female,13,2,0,0,2,0,0,3,1,1,9,Oxbridge College
+Female,19,2,2,3,3,3,3,3,3,3,25,Oxbridge College
+Female,23,2,1,3,1,1,3,3,0,0,14,Oxbridge College
+Female,20,3,1,0,3,0,0,0,0,0,7,Oxbridge College
+Male,19,3,1,0,1,0,0,2,1,1,9,Oxbridge College
+Male,19,0,0,1,1,1,1,1,1,2,8,Oxbridge College
+Female,14,3,1,2,3,3,3,3,2,1,21,Oxbridge College
+Female,14,3,3,3,3,3,3,3,3,3,27,Oxbridge College
+Female,14,2,3,0,0,2,3,2,0,3,15,Oxbridge College
+Female,14,2,3,0,1,0,3,0,0,3,12,Oxbridge College
+Female,14,1,1,1,2,0,1,1,0,0,7,Oxbridge College
+Female,14,0,1,0,0,2,1,2,0,3,9,Oxbridge College
+Female,16,1,1,1,2,2,0,1,0,0,8,Oxbridge College
+Female,16,2,1,1,3,2,0,3,0,1,13,Oxbridge College
+Female,16,2,0,1,2,0,0,1,0,0,6,Oxbridge College
+Male,14,3,0,3,0,0,0,0,0,3,9,Oxbridge College
+Female,19,2,1,2,2,3,2,2,2,2,18,Oxbridge College
+Male,15,3,0,1,0,2,0,3,1,0,10,Oxbridge College
+Male,16,3,0,1,1,0,2,3,0,0,10,Oxbridge College
+Male,16,3,1,3,3,0,3,3,3,3,22,Oxbridge College
+Male,16,2,1,0,2,3,2,3,1,1,15,Oxbridge College
+Female,19,2,2,1,1,2,1,0,1,1,11,Oxbridge College
+Male,21,1,0,0,2,0,0,1,1,0,5,Oxbridge College
+Male,16,2,1,0,2,2,1,3,1,2,14,Oxbridge College
+Male,15,2,1,0,1,0,2,3,1,0,10,Oxbridge College
+Male,16,3,0,1,1,0,2,3,1,2,13,Oxbridge College
+Male,15,3,0,1,1,0,0,3,1,0,9,Oxbridge College
+Male,14,3,0,1,0,3,0,0,1,0,8,Oxbridge College
+Male,16,3,0,1,1,3,2,3,0,0,13,Oxbridge College
+Male,16,3,0,1,0,0,0,3,3,3,13,Oxbridge College
+Male,15,3,0,0,0,0,0,0,0,0,3,Oxbridge College
+Male,17,1,2,2,0,0,1,2,0,0,8,Oxbridge College
+Male,14,3,0,1,0,1,0,3,0,0,8,Oxbridge College
+Male,14,3,0,0,0,0,0,1,2,0,6,Oxbridge College
+Male,14,3,0,3,2,0,2,1,0,0,11,Oxbridge College
+Male,16,3,2,1,1,3,0,1,3,1,15,Oxbridge College
+Male,16,2,3,1,1,2,3,3,3,1,19,Oxbridge College
+Male,16,3,1,0,1,1,2,3,1,0,12,Oxbridge College
+Male,16,2,3,1,2,2,1,3,2,1,17,Oxbridge College
+Male,16,3,1,0,0,0,0,3,0,0,7,Oxbridge College
+Male,16,3,1,0,2,0,1,3,0,0,10,Oxbridge College
+Male,14,3,1,0,1,2,2,1,0,1,11,Oxbridge College
+Male,15,3,1,0,2,1,2,3,0,1,13,Oxbridge College
+Male,16,2,1,1,1,2,1,3,1,1,13,Oxbridge College
+Male,16,0,1,1,2,0,3,0,3,3,13,Oxbridge College
+Male,16,1,0,1,3,1,2,1,0,0,9,Oxbridge College
+Male,17,3,1,1,1,1,3,1,2,1,14,Oxbridge College
+Male,16,0,2,1,1,2,1,0,2,0,9,Oxbridge College
+Male,14,2,2,1,2,0,0,0,0,0,7,Oxbridge College
+Male,16,2,2,1,1,1,1,3,2,0,13,Oxbridge College
+Male,15,2,1,2,2,1,1,2,3,2,16,Oxbridge College
+Male,18,1,2,0,3,2,0,3,2,3,16,Oxbridge College
+Male,16,2,2,0,0,0,2,1,0,1,8,Oxbridge College
+Male,17,1,2,2,1,0,1,2,1,2,12,Oxbridge College
+Male,16,1,2,0,0,0,0,1,3,0,7,Oxbridge College
+Male,16,2,1,0,2,2,0,3,1,1,12,Oxbridge College
+Male,17,2,2,0,1,0,2,1,1,0,9,Oxbridge College
+Male,18,1,2,0,0,0,1,0,0,2,6,Oxbridge College
+Male,18,1,1,3,2,2,1,3,2,1,16,Oxbridge College
+Male,17,1,1,0,2,0,0,3,0,1,8,KIPS College
+Male,17,0,1,0,0,0,0,3,0,0,4,KIPS College
+Male,17,0,2,0,0,0,0,3,0,0,5,KIPS College
+Male,17,2,1,1,0,0,0,2,2,0,8,KIPS College
+Male,17,2,1,0,1,0,0,1,0,0,5,KIPS College
+Male,17,2,1,1,2,0,0,1,0,0,7,KIPS College
+Male,17,1,1,3,3,3,0,1,0,0,12,KIPS College
+Male,17,1,1,0,1,0,2,2,0,0,7,KIPS College
+Male,16,2,3,3,1,0,2,3,1,0,15,KIPS College
+Male,17,1,1,3,1,0,0,3,0,0,9,KIPS College
+Male,16,1,2,3,2,0,0,0,1,3,12,KIPS College
+Male,17,2,1,1,2,0,0,2,0,2,10,KIPS College
+Male,16,1,1,3,3,0,3,1,1,0,13,KIPS College
+Male,16,1,1,2,2,1,3,2,0,0,12,KIPS College
+Male,17,2,0,1,1,0,1,1,0,0,6,KIPS College
+Male,16,0,0,0,0,0,0,0,0,0,0,KIPS College
+Male,17,2,2,0,3,0,2,3,2,3,17,KIPS College
+Male,17,2,2,0,3,0,2,3,1,3,16,KIPS College
+Male,17,2,1,2,2,1,1,3,2,3,17,KIPS College
+Male,17,0,2,3,3,2,1,2,1,3,17,KIPS College
+Male,18,0,0,1,1,0,0,3,2,0,7,KIPS College
+Male,16,2,1,2,1,1,0,1,0,0,8,KIPS College
+Male,16,0,1,0,0,0,0,0,0,0,1,KIPS College
+Male,16,3,2,1,1,0,1,1,1,0,10,KIPS College
+Male,20,0,0,0,0,0,0,0,0,0,0,KIPS College
+Male,16,3,0,0,0,0,0,1,0,0,4,KIPS College
+Male,15,3,0,0,0,0,0,0,0,0,3,KIPS College
+Male,16,2,2,3,3,0,0,1,0,0,11,KIPS College
+Male,16,2,2,3,3,0,0,1,3,0,14,KIPS College
+Male,17,1,2,2,3,0,1,2,0,2,13,KIPS College
+Male,16,1,1,0,0,0,0,0,0,0,2,KIPS College
+Female,17,0,1,3,0,2,1,1,1,2,11,KIPS College
+Female,17,1,0,2,0,1,1,1,1,2,9,KIPS College
+Female,17,2,2,3,2,3,3,2,3,0,20,KIPS College
+Female,16,0,1,0,3,1,0,1,0,0,6,KIPS College
+Female,16,3,3,3,1,0,0,3,2,0,15,KIPS College
+Female,15,0,3,0,0,3,0,3,0,0,9,KIPS College
+Female,16,1,1,2,1,2,0,3,1,0,11,KIPS College
+Female,16,1,2,2,1,2,1,3,1,2,15,KIPS College
+Female,16,0,2,3,1,0,0,1,1,0,8,KIPS College
+Female,16,0,2,2,1,1,0,0,0,0,6,KIPS College
+Female,17,1,0,1,3,1,1,1,0,0,8,KIPS College
+Female,16,0,3,3,0,1,2,1,0,0,10,KIPS College
+Female,15,1,1,2,0,1,1,0,0,1,7,KIPS College
+Female,16,0,1,0,0,0,1,3,0,0,5,KIPS College
+Female,15,0,0,0,0,1,1,1,0,0,3,KIPS College
+Female,16,0,1,1,0,0,0,0,0,0,2,KIPS College
+Female,17,1,1,2,1,1,0,0,1,0,7,KIPS College
+Female,16,1,2,0,0,1,0,1,1,0,6,KIPS College
+Female,16,0,1,2,1,0,0,0,0,0,4,KIPS College
+Female,16,1,1,2,1,0,1,0,0,0,6,KIPS College
+Female,17,0,2,2,1,2,0,0,0,0,7,KIPS College
+Female,18,1,2,1,0,0,3,2,1,0,10,KIPS College
+Female,16,0,1,0,3,0,1,0,0,0,5,KIPS College
+Female,16,1,0,0,1,0,1,1,0,0,4,KIPS College
+Female,16,0,3,0,2,0,0,1,0,0,6,KIPS College
+Female,17,1,2,2,2,1,3,3,2,2,18,KIPS College
+Female,17,1,1,0,2,0,1,3,0,0,8,KIPS College
+Female,16,1,1,3,0,0,1,2,2,1,11,KIPS College
+Female,17,1,2,1,2,1,0,0,0,0,7,KIPS College
+Female,17,1,0,1,1,0,2,0,0,0,5,KIPS College
+Female,16,1,1,0,1,0,1,0,0,0,4,KIPS College
+Female,16,1,1,2,2,0,0,2,0,0,8,KIPS College
+Female,17,1,3,1,1,0,0,2,0,0,8,KIPS College
+Female,17,1,2,0,1,0,1,1,1,0,7,KIPS College
+Female,18,2,0,0,3,1,0,3,0,0,9,KIPS College
+Female,18,3,2,0,2,2,2,2,1,0,14,KIPS College
+Female,18,3,2,2,3,0,0,1,3,0,14,KIPS College
+Female,18,2,2,3,1,2,2,1,1,0,14,KIPS College
+Female,18,1,2,3,0,2,0,0,0,0,8,KIPS College
+Female,17,1,3,2,3,2,1,3,0,1,16,KIPS College
+Female,17,1,1,3,1,3,3,2,0,1,15,KIPS College
+Female,18,2,1,1,2,3,0,1,0,2,12,KIPS College
+Female,17,2,1,0,3,1,1,2,0,0,10,KIPS College
+Female,17,1,2,0,1,0,0,1,0,0,5,KIPS College
+Female,18,1,0,2,1,0,1,1,0,0,6,KIPS College
+Female,17,3,2,0,1,1,3,0,1,0,11,KIPS College
+Female,17,3,1,0,2,0,3,1,0,2,12,KIPS College
+Female,17,1,3,0,2,0,3,1,0,0,10,KIPS College
+Female,18,3,1,3,1,0,3,1,0,0,12,KIPS College
+Female,17,1,2,1,1,3,3,1,3,1,16,KIPS College
+Female,18,1,1,1,0,0,0,0,0,0,3,KIPS College
+Female,17,1,1,1,1,1,0,2,1,0,8,KIPS College
+Female,17,2,1,1,2,2,0,1,0,2,11,KIPS College
+Female,17,1,1,3,1,2,2,1,2,3,16,KIPS College
+Female,16,0,1,1,3,3,0,3,1,0,12,KIPS College
+Female,17,2,1,0,1,2,2,0,0,0,8,KIPS College
+Female,18,3,1,0,2,2,2,0,0,0,10,KIPS College
+Female,17,1,2,0,1,3,1,2,0,0,10,KIPS College
+Female,17,2,3,1,2,0,2,1,3,2,16,KIPS College
+Female,17,2,1,1,1,0,3,1,1,2,12,KIPS College
+Female,18,1,0,2,1,0,2,0,0,1,7,KIPS College
+Female,17,1,0,0,1,1,1,0,1,1,6,KIPS College
+Female,18,1,2,0,3,0,1,1,1,0,9,KIPS College
+Female,18,2,1,3,1,1,2,3,2,1,16,KIPS College
+Female,18,3,3,1,1,3,1,1,0,1,14,KIPS College
+Female,18,1,2,0,2,0,0,1,0,0,6,KIPS College
+Female,17,1,3,2,1,0,1,2,0,1,11,KIPS College
+Female,18,1,2,0,0,0,0,1,2,0,6,KIPS College
+Female,17,1,1,3,2,0,0,0,0,0,7,KIPS College
+Female,19,3,1,0,1,2,0,0,1,0,8,KFUEIT
+Female,20,1,1,0,2,0,3,1,2,0,10,KFUEIT
+Female,18,1,1,3,3,3,0,3,3,0,17,KFUEIT
+Female,19,3,3,3,0,3,0,1,0,0,13,KFUEIT
+Female,20,3,2,2,0,3,2,1,0,0,13,KFUEIT
+Female,20,2,2,2,2,3,3,2,3,2,21,KFUEIT
+Female,19,0,0,1,0,0,0,2,1,0,4,KFUEIT
+Female,19,1,2,3,2,1,0,1,1,0,11,KFUEIT
+Female,21,3,3,2,2,0,2,2,0,1,15,KFUEIT
+Female,21,1,2,3,2,1,0,1,0,3,13,KFUEIT
+Female,19,1,2,0,0,2,1,2,2,0,10,KFUEIT
+Female,20,1,3,1,2,2,3,2,2,3,19,KFUEIT
+Female,19,1,1,3,1,1,1,2,0,1,11,KFUEIT
+Female,19,1,1,3,1,2,0,1,1,0,10,KFUEIT
+Male,18,0,1,2,0,3,1,1,1,1,10,KFUEIT
+Male,19,1,3,0,0,0,1,0,0,1,6,KFUEIT
+Male,20,2,3,0,3,3,3,3,0,0,17,KFUEIT
+Male,20,3,0,1,1,1,0,1,0,0,7,KFUEIT
+Male,20,3,1,1,1,1,0,1,0,0,8,KFUEIT
+Male,18,0,2,0,0,0,3,1,0,1,7,KFUEIT
+Male,20,2,2,2,0,1,3,2,2,1,15,KFUEIT
+Male,21,1,1,2,1,2,3,2,0,1,13,KFUEIT
+Male,20,1,1,2,1,2,3,2,0,1,13,KFUEIT
+Male,20,1,0,1,0,0,0,2,1,2,7,KFUEIT
+Male,20,1,0,2,1,1,0,1,1,0,7,KFUEIT
+Male,17,3,0,0,0,1,0,0,0,1,5,KFUEIT
+Male,19,3,2,1,0,2,1,1,2,1,13,KFUEIT
+Male,19,1,1,2,3,1,1,2,2,0,13,KFUEIT
+Male,19,3,0,0,0,1,3,1,1,0,9,KFUEIT
+Male,19,1,3,1,1,3,2,3,2,0,16,KFUEIT
+Male,20,2,1,0,1,3,1,1,0,0,9,KFUEIT
+Male,21,3,1,0,0,2,1,1,3,0,11,KFUEIT
+Female,19,1,0,1,2,1,2,1,0,0,8,KFUEIT
+Female,19,3,1,1,3,3,2,2,2,1,18,KFUEIT
+Female,19,1,2,2,0,0,2,1,0,0,8,KFUEIT
+Female,19,1,2,1,3,3,1,3,2,1,17,KFUEIT
+Female,19,2,1,3,3,3,3,3,3,3,24,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,21,1,1,3,0,1,3,2,0,1,12,KFUEIT
+Female,20,2,3,3,3,3,3,1,2,0,20,KFUEIT
+Female,20,3,3,3,3,3,2,2,3,0,22,KFUEIT
+Female,20,3,1,0,0,0,2,1,3,2,12,KFUEIT
+Male,21,0,0,1,0,0,0,2,0,0,3,KFUEIT
+Male,19,1,2,3,0,0,2,3,1,0,12,KFUEIT
+Male,18,0,1,1,1,1,2,1,0,0,7,KFUEIT
+Male,19,1,2,1,1,1,1,1,2,3,13,KFUEIT
+Male,18,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Male,20,1,1,0,2,0,1,2,2,2,11,KFUEIT
+Male,20,0,1,0,0,2,3,3,0,0,9,KFUEIT
+Female,16,3,1,0,0,2,0,1,0,0,7,KFUEIT
+Female,22,1,3,0,0,1,2,1,0,2,10,KFUEIT
+Female,21,1,2,0,0,1,2,1,1,0,8,KFUEIT
+Male,22,3,2,2,1,2,0,0,1,1,12,KFUEIT
+Male,24,2,1,3,1,2,0,0,1,0,10,KFUEIT
+Male,22,1,1,0,0,0,3,1,0,3,9,KFUEIT
+Male,22,0,0,0,0,0,0,0,1,0,1,KFUEIT
+Male,23,1,1,1,1,1,1,0,0,0,6,KFUEIT
+Male,19,3,0,0,0,2,0,3,1,2,11,KFUEIT
+Male,21,1,0,1,0,0,1,1,1,0,5,KFUEIT
+Male,22,1,3,1,0,3,3,3,2,0,16,KFUEIT
+Female,22,0,0,1,2,1,0,0,0,0,4,KFUEIT
+Male,21,2,0,1,0,1,0,1,0,0,5,KFUEIT
+Male,20,0,1,0,0,1,0,1,1,2,6,KFUEIT
+Male,19,2,3,3,2,1,0,1,1,2,15,KFUEIT
+Female,20,2,0,0,0,0,1,0,0,0,3,KFUEIT
+Male,21,2,3,0,3,3,1,1,0,0,13,KFUEIT
+Female,20,0,0,0,1,1,0,0,0,0,2,KFUEIT
+Male,20,0,1,0,3,2,3,3,1,2,15,KFUEIT
+Female,19,0,0,1,1,0,0,1,0,0,3,KFUEIT
+Male,21,3,0,1,0,0,0,0,0,0,4,KFUEIT
+Male,21,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,19,1,2,3,2,2,1,0,1,0,12,KFUEIT
+Male,21,0,0,0,0,1,0,0,0,0,1,KFUEIT
+Female,21,1,2,0,2,0,0,1,0,3,9,KFUEIT
+Male,21,1,2,1,2,2,0,1,0,3,12,KFUEIT
+Female,20,0,1,2,2,1,1,2,2,1,12,KFUEIT
+Female,19,1,0,1,2,0,0,1,1,2,8,KFUEIT
+Male,21,2,0,0,0,0,0,2,1,0,5,KFUEIT
+Male,20,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,22,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,22,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,21,3,0,0,0,1,0,1,0,0,5,KFUEIT
+Male,23,1,1,2,0,0,3,2,1,2,12,KFUEIT
+Male,21,3,1,1,3,2,0,0,0,0,10,KFUEIT
+Male,20,0,1,2,3,1,0,3,2,3,15,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,24,1,0,1,1,1,0,1,0,0,5,KFUEIT
+Male,22,0,0,2,3,1,2,1,0,0,9,KFUEIT
+Male,21,2,0,0,0,1,0,1,0,1,5,KFUEIT
+Male,23,1,2,0,0,2,1,0,3,1,10,KFUEIT
+Male,20,0,0,0,0,1,0,0,0,0,1,KFUEIT
+Female,23,0,0,0,0,1,0,0,1,0,2,KFUEIT
+Female,21,0,2,3,0,1,2,1,2,3,14,KFUEIT
+Female,21,1,1,0,1,1,1,1,0,0,6,KFUEIT
+Female,24,0,0,0,1,1,0,1,0,1,4,KFUEIT
+Male,23,0,0,0,1,0,0,1,0,1,3,KFUEIT
+Male,22,0,1,0,1,0,3,1,2,0,8,KFUEIT
+Male,21,0,2,0,0,0,0,0,0,0,2,KFUEIT
+Male,22,2,1,2,3,0,2,2,1,2,15,KFUEIT
+Female,21,1,2,3,0,3,1,1,1,0,12,KFUEIT
+Male,23,3,0,1,0,0,0,3,0,1,8,KFUEIT
+Female,20,0,1,0,1,2,2,3,1,2,12,KFUEIT
+Male,21,0,3,0,0,0,0,1,0,0,4,KFUEIT
+Female,20,0,1,1,1,0,0,2,0,0,5,KFUEIT
+Male,20,1,2,1,1,1,0,0,2,0,8,KFUEIT
+Male,18,1,1,2,1,0,0,1,2,0,8,KFUEIT
+Male,20,1,2,3,1,1,3,0,1,1,13,KFUEIT
+Male,20,3,2,0,2,0,3,1,3,0,14,KFUEIT
+Male,19,0,3,1,1,0,0,1,0,1,7,KFUEIT
+Male,21,3,1,0,3,0,3,3,1,0,14,KFUEIT
+Male,18,3,1,3,3,1,1,2,1,0,15,KFUEIT
+Male,21,1,1,3,1,3,1,1,1,2,14,KFUEIT
+Female,19,3,0,3,2,3,2,3,1,3,20,KFUEIT
+Female,19,3,0,2,1,0,3,0,0,0,9,KFUEIT
+Female,19,3,0,3,2,3,2,3,1,3,20,KFUEIT
+Male,18,0,3,0,0,2,3,3,2,1,14,KFUEIT
+Female,18,3,1,3,3,1,3,3,3,3,23,KFUEIT
+Female,19,1,2,2,2,2,0,2,2,0,13,KFUEIT
+Female,19,1,1,1,1,0,1,0,1,1,7,KFUEIT
+Female,20,1,1,1,2,1,2,2,1,1,12,KFUEIT
+Male,22,0,1,2,2,1,1,2,1,2,12,KFUEIT
+Male,22,1,0,3,1,3,1,2,1,2,14,KFUEIT
+Female,21,0,1,3,1,0,0,0,0,0,5,KFUEIT
+Female,22,2,1,3,2,1,1,3,2,0,15,KFUEIT
+Male,21,1,0,2,1,1,1,2,3,1,12,KFUEIT
+Male,22,0,3,1,0,0,0,1,0,0,5,KFUEIT
+Female,21,1,1,2,1,1,0,0,0,0,6,KFUEIT
+Male,22,1,1,3,2,0,3,3,1,3,17,KFUEIT
+Male,18,1,1,0,3,0,0,0,0,0,5,KFUEIT
+Female,20,1,2,0,2,2,2,1,0,0,10,KFUEIT
+Male,19,2,0,0,0,0,3,1,0,0,6,KFUEIT
+Male,19,0,1,1,0,1,2,0,1,1,7,KFUEIT
+Female,17,0,1,3,0,3,1,0,2,0,10,KFUEIT
+Female,19,1,1,0,3,0,1,0,0,0,6,KFUEIT
+Male,18,3,1,0,1,1,3,1,0,0,10,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,17,0,1,3,1,1,0,0,0,1,7,KFUEIT
+Female,18,2,3,1,3,3,3,3,2,3,23,KFUEIT
+Female,19,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,20,2,1,1,0,0,2,0,0,0,6,KFUEIT
+Female,19,3,1,0,1,0,0,1,1,0,7,KFUEIT
+Female,18,1,3,3,3,3,3,3,3,3,25,KFUEIT
+Male,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,19,1,1,1,0,0,1,1,0,2,7,KFUEIT
+Male,20,1,1,0,2,0,0,2,0,0,6,KFUEIT
+Female,19,1,1,3,1,1,1,1,2,1,12,KFUEIT
+Female,18,2,0,0,1,3,0,0,0,0,6,KFUEIT
+Female,19,2,0,0,3,0,0,0,0,1,6,KFUEIT
+Male,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,2,0,0,2,0,0,0,2,0,6,KFUEIT
+Female,17,1,1,2,1,2,0,1,1,0,9,KFUEIT
+Female,17,2,1,0,1,1,0,1,1,3,10,KFUEIT
+Male,20,0,0,1,1,1,0,1,1,0,5,KFUEIT
+Female,19,3,0,0,1,0,0,0,0,0,4,KFUEIT
+Female,18,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,1,2,0,1,2,2,1,0,0,9,KFUEIT
+Male,18,3,1,0,1,1,1,3,2,0,12,KFUEIT
+Female,18,3,1,0,3,1,3,3,0,0,14,KFUEIT
+Male,19,3,1,1,1,1,1,1,1,1,11,KFUEIT
+Female,19,1,1,0,1,0,0,0,0,0,3,KFUEIT
+Male,22,3,0,0,0,0,0,2,2,0,7,KFUEIT
+Male,18,1,1,1,1,1,0,0,0,0,5,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,19,1,0,1,2,0,3,1,1,2,11,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,17,3,0,3,0,2,0,0,0,0,8,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,20,1,1,0,0,0,0,0,0,0,2,KFUEIT
+Female,19,0,0,2,2,1,0,3,2,3,13,KFUEIT
+Male,21,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,21,0,1,0,1,0,1,1,1,1,6,KFUEIT
+Female,19,2,1,1,0,0,0,0,1,2,7,KFUEIT
+Male,20,3,2,1,0,0,2,1,1,0,10,KFUEIT
+Female,19,1,1,1,0,0,1,1,0,0,5,KFUEIT
+Female,22,1,1,3,3,1,1,1,1,1,13,KFUEIT
+Male,20,3,1,0,0,1,0,0,0,0,5,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,22,1,3,2,2,3,3,0,0,0,14,KFUEIT
+Male,20,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,17,3,3,0,0,0,0,0,1,0,7,KFUEIT
+Female,20,0,0,0,0,1,0,0,0,0,1,KFUEIT
+Female,19,1,0,1,2,0,0,1,0,0,5,KFUEIT
+Female,21,2,1,0,1,0,3,0,1,0,8,KFUEIT
+Male,20,0,1,0,0,0,1,0,0,0,2,KFUEIT
+Female,19,1,2,1,2,0,1,0,0,0,7,KFUEIT
+Female,18,1,1,0,1,0,0,1,1,1,6,KFUEIT
+Female,19,1,0,1,0,0,0,0,0,0,2,KFUEIT
+Female,19,1,2,1,1,1,2,2,1,0,11,KFUEIT
+Female,19,1,0,0,1,2,1,0,1,0,6,KFUEIT
+Female,18,3,1,0,1,0,0,1,0,0,6,KFUEIT
+Female,21,1,1,0,1,0,0,0,0,1,4,KFUEIT
+Male,17,0,3,0,3,2,3,3,3,3,20,KFUEIT
+Female,20,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,17,0,3,0,3,1,3,3,3,3,19,KFUEIT
+Female,18,1,3,0,1,1,1,3,0,0,10,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,21,1,1,1,0,0,1,2,0,1,7,KFUEIT
+Female,19,2,3,2,2,1,3,2,1,3,19,KFUEIT
+Male,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,1,1,1,2,2,2,1,0,0,10,KFUEIT
+Male,18,1,2,0,1,2,0,2,0,1,9,KFUEIT
+Female,18,3,1,0,1,1,0,0,1,0,7,KFUEIT
+Female,20,3,1,1,2,0,1,1,1,1,11,KFUEIT
+Male,20,2,3,1,3,1,1,1,0,1,13,KFUEIT
+Female,21,1,0,1,1,1,1,1,1,3,10,KFUEIT
+Female,19,0,0,0,1,0,1,0,0,0,2,KFUEIT
+Female,17,2,1,1,2,0,1,0,0,0,7,KFUEIT
+Female,20,0,3,3,3,0,3,2,0,1,15,KFUEIT
+Female,20,0,3,3,3,0,3,3,0,1,16,KFUEIT
+Male,22,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,1,3,0,0,1,2,0,1,8,KFUEIT
+Female,17,1,1,1,1,0,1,0,0,0,5,KFUEIT
+Female,18,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,2,3,3,1,3,1,0,1,14,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,19,3,0,0,1,3,1,0,0,0,8,KFUEIT
+Male,20,1,0,0,0,0,2,1,0,0,4,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,2,1,0,1,1,0,1,0,0,6,KFUEIT
+Male,18,1,0,1,1,1,0,1,0,0,5,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,1,1,3,1,3,1,1,0,11,KFUEIT
+Male,18,3,0,0,0,0,0,0,1,0,4,KFUEIT
+Male,20,3,0,0,3,1,3,0,1,0,11,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,1,0,1,1,0,1,0,2,0,6,KFUEIT
+Female,17,1,1,1,3,2,1,2,1,1,13,KFUEIT
+Female,20,1,2,1,0,0,0,0,0,0,4,KFUEIT
+Female,20,3,0,0,1,0,1,0,0,0,5,KFUEIT
+Male,22,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,18,1,2,0,1,1,2,3,0,0,10,KFUEIT
+Male,19,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Female,17,1,0,0,1,0,0,1,0,0,3,KFUEIT
+Male,20,3,2,1,1,0,0,2,1,0,10,KFUEIT
+Male,22,3,0,1,0,0,0,1,0,0,5,KFUEIT
+Male,18,1,3,2,1,0,1,1,1,0,10,KFUEIT
+Female,18,3,0,1,2,1,0,0,0,0,7,KFUEIT
+Female,18,3,0,0,0,0,0,2,0,0,5,KFUEIT
+Male,18,1,0,1,0,0,0,0,0,0,2,KFUEIT
+Female,17,3,0,0,2,0,0,1,1,1,8,KFUEIT
+Female,18,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Female,19,1,3,0,1,0,0,1,0,1,7,KFUEIT
+Male,18,0,0,0,1,0,0,0,0,0,1,KFUEIT
+Female,22,1,3,3,3,3,2,3,0,0,18,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,20,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,19,1,1,1,0,0,0,1,0,0,4,KFUEIT
+Male,20,1,0,2,3,0,0,0,0,0,6,KFUEIT
+Female,19,1,1,1,1,0,1,2,1,0,8,KFUEIT
+Female,19,1,0,1,1,1,0,1,1,1,7,KFUEIT
+Male,17,0,1,1,1,1,3,1,1,1,10,KFUEIT
+Female,19,1,0,0,1,0,1,0,0,0,3,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,2,1,1,3,0,3,3,0,1,14,KFUEIT
+Female,18,2,3,2,2,2,2,1,1,2,17,KFUEIT
+Female,20,1,3,1,1,1,3,1,1,1,13,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,19,2,0,0,0,0,0,1,0,0,3,KFUEIT
+Female,20,1,0,0,0,0,1,0,0,0,2,KFUEIT
+Male,20,2,1,0,2,3,3,0,0,0,11,KFUEIT
+Male,21,2,1,1,1,1,0,0,0,0,6,KFUEIT
+Female,19,1,0,1,1,1,0,1,1,1,7,KFUEIT
+Female,19,2,1,2,2,1,1,1,1,0,11,KFUEIT
+Female,19,2,1,2,1,1,1,1,1,0,10,KFUEIT
+Female,20,3,0,2,0,0,0,1,1,3,10,KFUEIT
+Female,19,1,1,1,1,0,0,1,0,0,5,KFUEIT
+Female,21,1,1,0,1,0,0,0,0,0,3,KFUEIT
+Female,18,3,1,0,0,0,1,0,1,0,6,KFUEIT
+Male,19,2,3,2,3,2,3,3,1,3,22,KFUEIT
+Male,21,1,0,3,1,0,0,0,1,0,6,KFUEIT
+Male,19,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Female,18,1,0,1,1,1,1,0,1,1,7,KFUEIT
+Male,20,1,0,0,0,1,0,0,1,1,4,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,18,1,1,1,1,1,0,1,1,1,8,KFUEIT
+Male,19,3,0,0,1,0,0,0,0,0,4,KFUEIT
+Male,19,2,0,1,0,0,0,0,0,0,3,KFUEIT
+Female,20,2,3,2,3,2,1,3,1,0,17,KFUEIT
+Female,18,3,1,1,1,0,1,0,0,1,8,KFUEIT
+Female,19,2,3,1,2,0,3,0,2,3,16,KFUEIT
+Female,18,3,0,0,1,0,0,0,1,0,5,KFUEIT
+Female,19,3,1,1,1,0,0,0,1,0,7,KFUEIT
+Female,19,3,1,1,1,1,1,1,1,0,10,KFUEIT
+Female,20,1,1,2,2,0,0,0,1,0,7,KFUEIT
+Female,19,1,3,2,3,1,3,2,1,2,18,KFUEIT
+Female,17,3,1,0,1,0,1,0,0,0,6,KFUEIT
+Female,17,3,1,0,1,0,1,0,1,0,7,KFUEIT
+Female,19,0,2,2,2,3,1,3,1,0,14,KFUEIT
+Female,18,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,19,2,1,3,0,1,0,0,0,0,7,KFUEIT
+Female,19,0,1,1,0,0,2,0,1,0,5,KFUEIT
+Male,19,0,1,1,0,0,0,0,3,0,5,KFUEIT
+Female,19,1,3,1,3,3,3,3,3,3,23,KFUEIT
+Female,19,0,1,3,3,1,1,3,1,1,14,KFUEIT
+Female,18,3,3,3,3,3,1,3,1,1,21,KFUEIT
+Female,19,0,2,1,0,0,0,0,0,0,3,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,1,0,3,1,0,0,3,1,0,9,KFUEIT
+Female,18,1,1,2,1,1,1,2,1,1,11,KFUEIT
+Female,19,3,2,2,0,0,0,0,0,0,7,KFUEIT
+Male,19,3,0,2,0,0,0,0,0,0,5,KFUEIT
+Male,19,3,0,0,1,0,0,1,1,0,6,KFUEIT
+Female,19,0,3,1,3,2,3,3,1,1,17,KFUEIT
+Female,20,2,0,2,2,0,0,0,0,0,6,KFUEIT
+Female,17,3,0,0,0,2,0,0,0,0,5,KFUEIT
+Female,19,1,3,1,3,1,0,1,0,0,10,KFUEIT
+Male,17,1,0,1,0,0,1,0,0,0,3,KFUEIT
+Female,17,1,1,0,1,0,0,0,0,0,3,KFUEIT
+Female,20,1,0,1,1,2,0,0,1,1,7,KFUEIT
+Female,18,0,0,0,1,0,0,1,0,0,2,KFUEIT
+Female,19,2,1,3,1,2,3,0,1,1,14,KFUEIT
+Female,19,1,0,0,0,0,0,0,1,1,3,KFUEIT
+Female,22,3,1,2,0,0,2,2,3,0,13,KFUEIT
+Female,18,1,0,0,1,0,0,1,0,0,3,KFUEIT
+Female,17,2,2,0,0,1,0,0,0,0,5,KFUEIT
+Female,18,1,2,0,1,2,0,0,1,1,8,KFUEIT
+Female,17,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,17,1,0,2,3,0,0,1,1,0,8,KFUEIT
+Female,20,1,2,1,3,1,0,1,1,1,11,KFUEIT
+Male,22,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,19,1,3,3,3,3,1,0,3,0,17,KFUEIT
+Female,18,1,0,0,2,0,0,3,0,0,6,KFUEIT
+Male,18,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,19,3,0,0,2,0,2,3,0,2,12,KFUEIT
+Female,19,3,1,1,1,0,0,0,0,0,6,KFUEIT
+Female,19,1,1,0,1,0,3,0,0,0,6,KFUEIT
+Female,18,3,0,2,1,0,0,1,0,2,9,KFUEIT
+Male,18,1,0,0,0,0,0,0,0,1,2,KFUEIT
+Female,18,1,2,3,3,0,3,0,2,3,17,KFUEIT
+Female,18,1,1,1,1,1,2,0,0,1,8,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,19,3,0,2,2,3,0,0,0,0,10,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,3,3,3,3,1,3,3,0,3,22,KFUEIT
+Female,17,1,2,1,3,0,0,1,0,1,9,KFUEIT
+Female,19,1,2,1,3,0,0,2,1,1,11,KFUEIT
+Female,19,1,1,3,0,0,0,1,0,1,7,KFUEIT
+Male,19,3,0,0,0,0,0,1,0,0,4,KFUEIT
+Female,18,3,1,3,3,1,0,1,1,0,13,KFUEIT
+Female,19,2,1,1,1,0,1,3,2,0,11,KFUEIT
+Female,17,2,0,1,2,0,0,0,0,3,8,KFUEIT
+Female,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,3,3,3,3,0,2,0,3,17,KFUEIT
+Female,18,3,0,0,2,3,0,0,0,0,8,KFUEIT
+Female,18,2,1,0,1,0,2,1,0,0,7,KFUEIT
+Female,18,3,2,1,2,2,0,2,1,2,15,KFUEIT
+Female,18,3,1,1,1,1,1,1,1,1,11,KFUEIT
+Female,19,1,0,3,3,1,3,1,0,0,12,KFUEIT
+Male,18,0,2,1,0,0,0,0,0,0,3,KFUEIT
+Female,17,2,1,0,1,0,0,0,0,0,4,KFUEIT
+Female,17,2,1,0,1,0,0,0,0,0,4,KFUEIT
+Female,20,3,2,0,2,0,0,2,2,2,13,KFUEIT
+Female,20,2,1,3,3,3,1,1,0,0,14,KFUEIT
+Female,19,1,0,0,3,0,0,0,0,0,4,KFUEIT
+Female,18,0,0,1,1,0,0,0,0,0,2,KFUEIT
+Female,20,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,20,3,1,1,0,1,0,1,0,1,8,KFUEIT
+Female,21,3,1,0,2,3,3,0,0,1,13,KFUEIT
+Female,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,2,3,2,2,3,3,3,2,3,23,KFUEIT
+Male,20,1,1,0,2,3,3,3,0,0,13,KFUEIT
+Female,21,2,2,2,2,0,3,2,2,1,16,KFUEIT
+Female,18,1,1,1,3,1,1,1,0,0,9,KFUEIT
+Male,18,3,0,1,1,0,0,0,1,0,6,KFUEIT
+Female,18,1,0,0,0,1,0,0,0,0,2,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,0,0,2,0,0,2,0,0,7,KFUEIT
+Female,18,1,1,0,2,1,0,2,2,0,9,KFUEIT
+Female,20,2,1,2,1,1,1,1,1,1,11,KFUEIT
+Male,20,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Female,18,2,1,1,3,2,1,1,0,0,11,KFUEIT
+Female,18,1,1,0,2,0,1,0,0,1,6,KFUEIT
+Female,18,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,2,1,0,1,1,2,2,0,1,10,KFUEIT
+Female,19,2,1,3,2,3,1,1,0,1,14,KFUEIT
+Female,19,1,1,2,1,0,2,0,0,1,8,KFUEIT
+Female,18,2,3,3,2,0,0,0,0,3,13,KFUEIT
+Female,19,1,1,2,1,0,1,0,1,1,8,KFUEIT
+Female,19,1,1,2,2,0,3,0,1,2,12,KFUEIT
+Female,20,3,0,2,3,0,0,3,0,0,11,KFUEIT
+Female,18,3,1,0,1,1,1,1,1,1,10,KFUEIT
+Female,19,3,1,0,1,0,0,2,0,0,7,KFUEIT
+Male,21,3,0,0,0,0,1,1,1,0,6,KFUEIT
+Female,19,1,2,1,1,2,3,0,0,1,11,KFUEIT
+Female,18,1,0,0,0,1,0,0,0,0,2,KFUEIT
+Female,19,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,19,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,1,1,3,2,0,2,0,1,1,11,KFUEIT
+Male,19,0,0,0,1,2,2,1,2,1,9,KFUEIT
+Female,20,2,1,3,3,1,2,2,2,2,18,KFUEIT
+Female,21,1,1,1,3,3,3,3,0,1,16,KFUEIT
+Female,18,1,0,1,0,0,0,0,1,0,3,KFUEIT
+Female,20,1,1,0,1,0,0,0,1,0,4,KFUEIT
+Male,20,2,1,0,1,2,0,0,1,0,7,KFUEIT
+Female,19,3,0,0,0,0,1,0,0,0,4,KFUEIT
+Female,19,0,1,0,1,0,1,0,0,0,3,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,3,3,3,3,3,3,1,1,20,KFUEIT
+Male,21,3,0,2,1,0,3,2,0,0,11,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,1,0,0,0,0,0,1,0,1,3,KFUEIT
+Female,18,1,3,0,1,0,1,0,1,0,7,KFUEIT
+Female,19,1,3,1,1,0,0,0,0,0,6,KFUEIT
+Male,20,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Female,18,3,3,3,0,0,0,0,2,2,13,KFUEIT
+Female,18,3,3,0,3,3,3,3,2,3,23,KFUEIT
+Female,18,0,0,0,1,0,0,0,0,0,1,KFUEIT
+Male,21,0,0,1,0,0,0,0,0,0,1,KFUEIT
+Female,20,3,1,3,1,1,0,0,0,0,9,KFUEIT
+Female,18,1,2,1,1,0,1,2,0,1,9,KFUEIT
+Female,18,3,0,2,0,0,0,0,0,0,5,KFUEIT
+Female,20,2,1,0,3,0,0,2,0,0,8,KFUEIT
+Female,19,0,0,0,0,0,0,1,1,0,2,KFUEIT
+Female,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,16,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Male,23,3,0,1,1,1,0,1,0,0,7,KFUEIT
+Male,24,0,0,0,0,0,0,3,0,0,3,KFUEIT
+Female,20,2,1,3,3,0,1,0,0,0,10,KFUEIT
+Male,20,2,2,0,1,0,3,3,0,0,11,KFUEIT
+Male,21,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,0,1,3,2,0,0,0,0,0,6,KFUEIT
+Female,23,3,0,0,2,0,1,0,0,0,6,KFUEIT
+Female,19,1,0,3,3,3,2,3,1,0,16,KFUEIT
+Female,20,1,1,1,3,3,3,2,3,1,18,KFUEIT
+Female,21,0,2,3,3,0,1,1,2,0,12,KFUEIT
+Female,19,1,1,2,1,0,0,1,0,0,6,KFUEIT
+Male,17,1,1,0,1,0,0,3,0,0,6,KFUEIT
+Male,19,1,1,0,0,0,0,0,1,0,3,KFUEIT
+Male,22,1,3,3,3,3,0,1,3,1,18,KFUEIT
+Female,19,0,1,1,3,1,1,1,0,0,8,KFUEIT
+Female,21,1,1,1,1,1,1,1,0,1,8,KFUEIT
+Female,19,1,2,1,1,0,0,2,1,0,8,KFUEIT
+Male,18,3,2,1,1,3,1,1,2,1,15,KFUEIT
+Female,20,1,1,1,2,0,0,1,1,1,8,KFUEIT
+Female,19,3,0,0,2,0,0,2,0,0,7,KFUEIT
+Female,20,0,3,3,3,3,3,3,1,3,22,KFUEIT
+Female,20,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,1,2,0,0,1,0,0,2,0,6,KFUEIT
+Female,19,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,3,2,2,2,2,2,2,2,2,19,KFUEIT
+Female,21,1,1,2,2,1,1,1,1,1,11,KFUEIT
+Male,21,2,2,0,0,1,1,2,1,1,10,KFUEIT
+Female,17,1,3,3,1,1,1,1,1,1,13,KFUEIT
+Female,18,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,1,1,1,0,1,0,0,0,7,KFUEIT
+Female,20,1,0,1,1,0,0,0,0,2,5,KFUEIT
+Female,18,1,1,2,2,1,1,1,1,2,12,KFUEIT
+Female,19,2,0,1,1,1,0,0,0,0,5,KFUEIT
+Male,24,0,1,1,0,1,0,0,0,1,4,KFUEIT
+Male,22,2,0,2,2,2,2,2,2,2,16,KFUEIT
+Female,17,1,2,1,1,2,2,2,0,2,13,KFUEIT
+Female,23,1,1,1,1,0,0,0,0,0,4,KFUEIT
+Female,20,2,1,3,3,3,1,1,1,1,16,KFUEIT
+Female,21,3,0,1,1,0,0,2,0,0,7,KFUEIT
+Female,20,1,3,3,3,1,3,2,1,2,19,KFUEIT
+Female,18,0,0,2,1,0,1,1,0,0,5,KFUEIT
+Female,18,1,2,0,1,2,1,0,0,1,8,KFUEIT
+Female,19,1,1,2,1,1,2,1,1,0,10,KFUEIT
+Male,18,3,1,0,0,0,0,0,0,0,4,KFUEIT
+Male,19,3,1,1,1,1,1,1,0,0,9,KFUEIT
+Male,18,3,3,1,1,2,1,1,0,0,12,KFUEIT
+Female,19,1,1,1,2,1,1,1,0,1,9,KFUEIT
+Male,21,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,18,2,1,1,0,0,0,1,0,0,5,KFUEIT
+Female,19,1,1,1,1,2,0,2,0,0,8,KFUEIT
+Male,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,18,2,1,3,1,2,2,1,2,1,15,KFUEIT
+Male,18,1,1,1,1,1,0,0,0,0,5,KFUEIT
+Female,18,1,1,2,2,1,0,1,0,0,8,KFUEIT
+Male,20,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Female,17,1,1,0,1,0,0,0,0,0,3,KFUEIT
+Female,17,2,2,1,1,1,1,2,1,2,13,KFUEIT
+Female,18,2,1,1,1,2,0,0,0,0,7,KFUEIT
+Male,18,1,0,1,1,1,0,1,1,0,6,KFUEIT
+Female,19,2,1,2,1,3,2,1,1,2,15,KFUEIT
+Male,19,2,0,0,0,0,0,1,0,0,3,KFUEIT
+Female,18,3,1,1,1,0,0,1,0,0,7,KFUEIT
+Female,17,3,1,0,1,0,1,1,1,0,8,KFUEIT
+Male,19,2,3,3,3,3,3,2,1,3,23,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,1,3,1,1,1,2,1,1,1,12,KFUEIT
+Female,20,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Female,18,0,0,0,0,0,1,0,0,1,2,KFUEIT
+Female,17,1,0,1,1,0,0,1,1,0,5,KFUEIT
+Male,19,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,20,3,1,1,1,1,3,1,1,1,13,KFUEIT
+Male,18,0,1,1,2,1,2,1,1,1,10,KFUEIT
+Male,18,1,1,0,2,2,0,1,2,0,9,KFUEIT
+Male,18,0,3,0,3,0,0,0,0,0,6,KFUEIT
+Male,21,2,0,0,0,1,0,1,0,3,7,KFUEIT
+Male,18,1,1,0,2,2,0,1,2,0,9,KFUEIT
+Female,18,1,1,1,1,1,1,1,1,0,8,KFUEIT
+Male,19,1,1,0,2,2,0,1,2,0,9,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,2,1,1,2,1,2,1,0,1,11,KFUEIT
+Female,18,2,1,1,1,1,2,1,1,2,12,KFUEIT
+Male,22,1,1,2,2,0,0,1,2,1,10,KFUEIT
+Female,19,3,2,2,1,0,1,1,1,3,14,KFUEIT
+Female,18,2,1,2,3,2,1,1,2,2,16,KFUEIT
+Male,22,0,0,1,0,0,0,0,0,0,1,KFUEIT
+Male,22,1,0,2,2,2,0,0,0,1,8,KFUEIT
+Male,20,2,0,0,0,0,0,1,1,0,4,KFUEIT
+Female,21,1,1,1,1,1,2,3,1,1,12,KFUEIT
+Female,22,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,20,3,0,0,2,0,0,2,0,0,7,KFUEIT
+Male,21,3,1,0,1,0,1,1,1,1,9,KFUEIT
+Female,17,3,0,0,2,0,0,0,2,0,7,KFUEIT
+Male,18,1,3,0,2,3,3,1,0,2,15,KFUEIT
+Female,18,3,1,1,3,0,0,0,0,1,9,KFUEIT
+Female,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,1,0,0,0,0,1,0,0,5,KFUEIT
+Female,19,0,1,1,1,1,1,1,1,1,8,KFUEIT
+Female,18,1,2,1,3,0,3,1,1,2,14,KFUEIT
+Female,19,3,0,0,3,1,0,0,0,1,8,KFUEIT
+Female,17,2,0,1,0,0,0,0,1,1,5,KFUEIT
+Male,22,2,0,0,1,0,0,0,0,0,3,KFUEIT
+Male,20,1,0,1,0,0,3,0,2,0,7,KFUEIT
+Female,18,1,0,2,1,0,0,0,0,0,4,KFUEIT
+Male,18,2,0,0,1,0,0,1,0,0,4,KFUEIT
+Female,19,1,2,2,0,0,1,0,0,1,7,KFUEIT
+Female,20,1,0,3,3,0,1,2,0,1,11,KFUEIT
+Male,19,3,2,1,0,0,0,1,0,0,7,KFUEIT
+Female,18,1,0,0,1,0,0,0,0,0,2,KFUEIT
+Male,19,3,0,0,0,0,1,3,2,1,10,KFUEIT
+Female,18,1,0,0,1,0,1,1,0,0,4,KFUEIT
+Male,18,2,0,0,0,0,1,0,0,0,3,KFUEIT
+Female,19,3,0,1,2,0,0,0,0,1,7,KFUEIT
+Male,18,1,1,1,0,0,1,0,0,1,5,KFUEIT
+Male,18,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,17,3,0,0,2,0,0,0,2,0,7,KFUEIT
+Female,19,3,0,0,2,0,0,0,0,1,6,KFUEIT
+Male,18,1,1,0,0,0,1,1,0,1,5,KFUEIT
+Female,20,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,19,2,0,1,1,1,0,0,0,0,5,KFUEIT
+Female,18,3,1,0,1,1,0,1,1,1,9,KFUEIT
+Female,17,1,1,3,0,0,0,0,0,0,5,KFUEIT
+Male,18,2,0,0,0,0,0,2,2,0,6,KFUEIT
+Male,19,1,0,0,0,0,2,0,0,0,3,KFUEIT
+Female,18,1,0,0,1,0,0,1,0,1,4,KFUEIT
+Female,19,3,0,1,3,0,0,0,3,0,10,KFUEIT
+Male,18,3,2,0,2,1,1,2,0,0,11,KFUEIT
+Male,18,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,18,3,1,0,1,0,0,1,0,0,6,KFUEIT
+Male,20,3,0,0,0,0,0,1,0,0,4,KFUEIT
+Male,19,3,0,2,1,0,0,0,2,0,8,KFUEIT
+Male,18,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Male,19,3,1,2,2,0,0,3,1,3,15,KFUEIT
+Male,17,3,0,0,0,1,0,0,0,0,4,KFUEIT
+Male,20,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Male,18,3,1,0,0,0,2,0,0,0,6,KFUEIT
+Female,18,2,0,0,0,1,0,1,0,0,4,KFUEIT
+Female,17,0,1,0,1,3,0,0,0,0,5,KFUEIT
+Female,21,3,0,1,1,0,0,0,0,0,5,KFUEIT
+Female,21,1,0,1,1,0,0,0,0,0,3,KFUEIT
+Female,18,3,0,0,2,0,0,0,0,0,5,KFUEIT
+Female,17,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,21,1,2,3,1,0,3,3,1,2,16,KFUEIT
+Female,22,1,2,1,2,0,2,1,1,0,10,KFUEIT
+Female,22,3,1,1,2,1,0,0,0,1,9,KFUEIT
+Female,22,3,1,1,2,2,0,0,0,1,10,KFUEIT
+Female,17,3,1,2,1,1,3,0,1,1,13,KFUEIT
+Male,20,0,0,0,0,3,1,0,0,1,5,KFUEIT
+Female,21,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,20,3,1,0,2,3,1,3,1,1,15,KFUEIT
+Female,18,2,2,3,3,1,1,2,2,2,18,KFUEIT
+Male,18,1,0,0,1,0,0,2,1,0,5,KFUEIT
+Male,18,1,1,1,1,1,2,1,2,2,12,KFUEIT
+Male,18,1,1,1,0,1,1,2,2,3,12,KFUEIT
+Female,20,1,2,0,0,3,1,0,2,3,12,UCP RYK
+Female,20,0,3,3,1,0,0,0,1,0,8,UCP RYK
+Female,18,0,1,1,1,0,0,0,0,0,3,UCP RYK
+Female,22,0,2,1,1,2,1,3,2,0,12,UCP RYK
+Female,20,1,3,3,0,3,0,0,2,3,15,UCP RYK
+Female,20,1,2,3,3,0,2,2,3,3,19,UCP RYK
+Female,20,2,1,2,0,0,0,0,0,0,5,UCP RYK
+Female,20,2,0,1,0,2,2,0,2,0,9,UCP RYK
+Female,19,0,0,1,0,2,0,0,0,0,3,UCP RYK
+Female,22,1,0,2,2,1,3,2,2,0,13,UCP RYK
+Female,19,1,0,3,2,2,2,0,2,0,12,UCP RYK
+Female,19,1,0,3,2,1,2,1,2,0,12,UCP RYK
+Female,22,3,0,3,0,1,1,0,3,3,14,UCP RYK
+Female,16,2,1,0,1,0,1,0,0,0,5,PGC Ryk
+Male,18,3,0,3,3,0,0,2,0,0,11,KFUEIT
+Male,18,3,0,3,3,0,0,2,0,0,11,KFUEIT
+Male,19,3,0,0,2,1,0,1,0,0,7,SZPS
+Male,20,1,2,1,0,2,2,2,1,0,11,KFUEIT
+Female,21,1,1,1,2,2,0,1,0,0,8,KFUEIT
+Female,21,1,1,1,1,2,0,0,0,0,6,KFUEIT
+Female,18,3,0,1,0,0,3,0,0,0,7,KFUEIT
+Male,18,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Male,19,3,0,1,0,0,0,1,0,0,5,SZPS
+Female,19,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,18,3,1,1,1,0,1,1,0,0,8,KFUEIT
+Male,20,1,0,0,0,0,1,0,2,0,4,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,18,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,17,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Female,21,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,18,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,1,1,0,0,0,0,1,1,0,4,UCP RYK
+Female,19,3,2,2,2,3,0,1,0,3,16,UCP RYK
+Female,19,3,0,0,0,0,0,0,0,0,3,UCP RYK
+Female,20,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,17,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,18,1,0,0,0,0,0,0,1,0,2,UCP RYK
+Male,19,0,0,0,0,0,0,2,3,1,6,UCP RYK
+Male,21,0,1,2,2,1,1,1,1,2,11,UCP RYK
+Male,20,0,1,0,0,1,0,0,0,0,2,UCP RYK
+Female,19,0,3,0,2,0,2,0,0,2,9,UCP RYK
+Female,20,1,1,1,2,2,1,0,1,0,9,UCP RYK
+Female,20,1,2,2,2,2,3,1,1,1,15,UCP RYK
+Male,20,2,3,0,0,3,0,0,1,0,9,UCP RYK
+Male,22,1,0,0,2,0,0,0,0,0,3,UCP RYK
+Male,14,0,0,0,1,0,1,1,2,1,6,UCP RYK
+Male,16,0,3,3,3,3,0,3,1,1,17,UCP RYK
+Male,21,3,0,0,1,3,3,3,3,0,16,UCP RYK
+Female,20,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Female,18,3,2,1,2,0,1,2,1,3,15,UCP RYK
+Female,19,2,1,2,1,1,2,1,1,1,12,UCP RYK
+Female,18,3,1,0,0,0,1,0,0,0,5,UCP RYK
+Male,22,3,2,3,2,0,0,1,0,0,11,UCP RYK
+Male,19,3,0,1,2,3,1,1,2,1,14,UCP RYK
+Female,20,1,0,2,3,3,0,0,0,0,9,UCP RYK
+Female,18,3,1,0,2,2,1,3,1,1,14,UCP RYK
+Female,19,1,2,3,1,2,0,2,1,3,15,UCP RYK
+Female,19,2,1,1,3,1,3,3,1,0,15,UCP RYK
+Female,18,3,1,0,1,2,0,0,0,1,8,UCP RYK
+Female,18,2,0,0,0,1,1,3,3,3,13,UCP RYK
+Male,20,0,1,1,3,0,3,3,1,3,15,UCP RYK
+Female,17,1,3,3,2,1,0,1,1,0,12,UCP RYK
+Male,21,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Female,19,3,3,0,3,0,3,3,0,0,15,UCP RYK
+Female,20,3,2,0,3,2,3,0,0,0,13,UCP RYK
+Male,17,1,3,2,0,0,1,1,1,2,11,UCP RYK
+Male,15,1,1,1,2,0,1,0,0,0,6,UCP RYK
+Male,19,1,0,0,0,0,0,0,0,0,1,UCP RYK
+Female,17,0,0,1,2,3,3,0,2,3,14,UCP RYK
+Male,19,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Female,19,3,2,0,3,2,0,2,0,2,14,UCP RYK
+Female,18,2,2,3,1,1,3,2,1,2,17,UCP RYK
+Female,20,1,1,0,0,2,0,1,3,0,8,UCP RYK
+Female,18,3,3,1,0,3,0,3,0,0,13,UCP RYK
+Female,19,2,1,1,1,2,1,1,1,0,10,UCP RYK
+Female,18,2,2,3,0,0,0,2,0,0,9,UCP RYK
+Female,20,1,0,3,1,1,3,3,0,1,13,UCP RYK
+Female,22,3,1,2,3,0,0,1,1,1,12,UCP RYK
+Female,21,3,3,1,0,3,0,2,0,0,12,UCP RYK
+Female,20,1,1,1,0,1,0,0,2,1,7,UCP RYK
+Male,19,3,3,3,3,3,3,3,3,3,27,UCP RYK
+Male,19,0,2,0,0,3,0,0,2,0,7,UCP RYK
+Female,21,1,1,0,1,0,0,1,0,2,6,UCP RYK
+Male,21,1,1,3,0,2,1,2,1,1,12,UCP RYK
+Female,19,2,0,3,0,0,0,0,1,2,8,UCP RYK
+Female,20,2,0,3,0,2,3,0,2,3,15,UCP RYK
+Female,20,1,1,1,1,0,0,0,2,1,7,UCP RYK
+Female,20,1,2,0,1,0,1,2,1,0,8,UCP RYK
+Male,22,1,2,2,3,2,1,1,1,1,14,UCP RYK
+Male,21,0,2,2,1,0,3,1,2,1,12,UCP RYK
+Male,20,3,1,0,3,1,3,3,3,3,20,UCP RYK
+Male,19,0,0,2,1,3,0,3,3,3,15,UCP RYK
+Male,18,0,1,0,0,0,0,0,0,0,1,UCP RYK
+Female,16,0,1,3,1,1,1,1,1,1,10,UCP RYK
+Female,18,1,0,2,3,0,0,1,1,0,8,UCP RYK
+Male,19,1,0,1,0,3,3,3,3,1,15,UCP RYK
+Female,22,0,0,1,3,1,3,3,3,3,17,UCP RYK
+Male,21,0,3,2,1,1,0,2,0,1,10,UCP RYK
+Male,18,0,3,0,0,0,0,0,0,0,3,KFUEIT
+Male,19,3,0,2,1,0,3,1,1,1,12,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,3,0,1,0,2,0,1,0,0,7,KFUEIT
+Male,21,1,3,2,1,1,0,2,0,1,11,UCP RYK
+Male,20,2,0,2,3,3,0,0,0,0,10,UCP RYK
+Female,18,1,2,0,3,0,3,1,1,3,14,UCP RYK
+Female,18,1,3,2,3,3,3,3,3,3,24,UCP RYK
+Female,18,1,1,1,0,2,0,0,0,0,5,UCP RYK
+Female,18,1,1,1,0,2,0,0,0,0,5,UCP RYK
+Female,19,3,3,2,3,3,3,3,3,3,26,UCP RYK
+Male,19,1,0,0,0,0,0,0,1,0,2,UCP RYK
+Male,18,3,3,0,0,0,0,3,1,0,10,UCP RYK
+Female,19,1,3,3,3,0,3,3,3,3,22,UCP RYK
+Male,18,0,0,2,2,3,1,0,1,2,11,UCP RYK
+Male,19,3,3,3,3,3,3,3,3,3,27,UCP RYK
+Male,20,1,2,2,2,1,1,2,1,2,14,UCP RYK
+Male,19,3,1,1,3,2,1,0,0,1,12,UCP RYK
+Male,20,1,0,1,1,1,1,2,2,3,12,UCP RYK
+Female,21,1,1,1,2,2,1,0,1,2,11,UCP RYK
+Female,20,1,0,2,2,3,1,0,1,2,12,UCP RYK
+Female,20,0,0,1,3,2,3,2,3,1,15,UCP RYK
+Female,19,2,0,1,2,1,0,0,0,0,6,UCP RYK
+Female,20,2,0,1,2,1,0,0,0,0,6,UCP RYK
+Male,19,3,0,3,0,1,0,3,1,0,11,UCP RYK
+Female,19,0,3,2,1,1,3,2,1,1,14,KFUEIT
+Female,18,1,0,0,1,0,1,1,1,1,6,GCW
+Female,16,2,1,1,3,2,3,2,2,0,16,GCW
+Female,17,2,1,0,1,1,1,1,2,0,9,GCW
+Female,18,0,0,1,1,1,0,3,2,0,8,GCW
+Female,19,2,1,1,0,1,0,2,0,0,7,GCW
+Female,18,1,0,1,0,1,0,1,0,0,4,GCW
+Female,16,2,1,2,3,0,0,3,0,3,14,GCW
+Female,16,3,2,1,0,1,0,3,2,2,14,GCW
+Female,16,1,2,0,0,3,0,0,1,0,7,GCW
+Female,17,1,1,0,1,1,3,2,3,3,15,GCW
+Female,16,0,1,1,2,1,1,2,3,1,12,GCW
+Female,17,1,1,1,3,3,0,1,1,1,12,GCW
+Female,16,1,1,2,3,3,3,2,1,0,16,GCW
+Female,16,3,0,1,0,0,0,3,3,0,10,GCW
+Female,16,0,1,0,0,0,1,0,1,0,3,GCW
+Female,16,0,1,0,0,0,1,0,1,1,4,GCW
+Female,17,0,1,0,0,0,1,0,1,1,4,GCW
+Female,17,3,1,1,0,0,0,3,3,0,11,GCW
+Female,16,0,0,0,0,0,0,0,0,0,0,GCW
+Female,19,2,1,2,3,2,3,3,2,2,20,GCW
+Female,16,0,0,0,1,0,0,0,0,0,1,GCW
+Female,14,0,0,0,0,0,0,0,0,0,0,GCW
+Female,17,1,0,1,1,2,0,3,0,0,8,GCW
+Female,17,0,0,1,0,0,0,2,0,0,3,GCW
+Female,17,1,0,0,2,0,0,1,0,0,4,GCW
+Female,18,0,1,0,0,2,0,1,0,0,4,GCW
+Female,18,0,1,2,0,0,1,0,0,0,4,GCW
+Female,18,1,1,0,2,0,0,1,0,0,5,GCW
+Female,16,0,1,0,2,0,0,0,0,0,3,GCW
+Female,19,3,1,2,1,2,0,0,1,0,10,GCW
+Female,20,2,2,0,0,0,0,0,0,0,4,GCW
+Female,17,1,2,0,2,0,1,0,3,0,9,GCW
+Female,18,1,1,0,1,0,2,1,1,0,7,GCW
+Female,20,3,0,0,2,0,0,0,0,0,5,GCW
+Female,19,1,0,0,1,0,0,0,0,2,4,GCW
+Female,16,1,1,0,0,0,0,0,0,0,2,GCW
+Female,19,1,0,0,0,0,0,0,0,0,1,GCW
+Female,18,0,0,0,0,0,0,0,0,0,0,GCW
+Female,20,1,3,3,2,0,0,1,0,0,10,GCW
+Female,19,0,0,0,0,0,0,0,0,0,0,GCW
+Female,21,1,1,2,1,0,1,2,1,2,11,GCW
+Female,18,1,0,2,2,0,0,0,0,0,5,GCW
+Female,18,1,1,2,2,0,0,2,0,3,11,GCW
+Female,19,2,1,1,1,1,2,2,1,1,12,GCW
+Female,19,3,0,2,2,2,2,2,0,0,13,GCW
+Female,22,0,0,0,0,0,0,0,0,0,0,GCW
+Female,19,0,0,3,3,0,0,3,0,0,9,GCW
+Female,20,0,0,0,0,0,0,0,0,0,0,GCW
+Female,18,0,0,0,1,0,0,0,0,0,1,GCW
+Female,19,3,2,2,3,1,0,1,2,0,14,GCW
+Female,19,1,0,1,2,2,2,2,3,2,15,GCW
+Female,19,1,2,0,1,3,0,1,2,0,10,GCW
+Female,18,2,1,3,0,0,2,3,0,3,14,GCW
+Female,20,2,1,0,0,1,3,0,0,3,10,GCW
+Female,19,2,1,0,0,3,0,3,0,3,12,GCW
+Female,18,2,1,3,3,1,1,3,0,0,14,GCW
+Female,19,0,2,2,1,3,2,0,1,0,11,GCW
+Female,21,2,3,2,1,3,0,1,3,1,16,GCW
+Female,21,0,3,0,0,2,3,0,0,3,11,GCW
+Female,21,1,0,3,0,0,0,1,1,0,6,GCW
+Female,20,3,3,2,3,1,3,3,2,1,21,GCW
+Female,18,0,1,0,0,1,0,2,1,0,5,GCW
+Female,19,1,2,3,2,3,1,2,0,3,17,GCW
+Female,18,2,0,1,0,1,0,2,0,0,6,GCW
+Female,18,3,1,2,0,2,3,0,1,0,12,GCW
+Female,20,1,2,1,2,3,1,2,0,0,12,GCW
+Female,20,2,3,0,3,0,3,3,3,0,17,GCW
+Female,17,2,1,3,1,1,3,2,3,1,17,GCW
+Female,18,1,2,0,1,1,0,2,0,0,7,GCW
+Female,18,3,0,0,0,0,1,3,0,0,7,GCW
+Female,17,0,0,0,1,0,0,0,1,0,2,GCW
+Female,18,1,2,0,0,0,0,1,0,0,4,GCW
+Female,16,2,1,3,0,1,0,0,0,0,7,GCW
+Female,16,0,0,1,2,0,0,0,0,0,3,GCW
+Female,17,2,0,0,2,0,2,0,0,0,6,GCW
+Female,17,0,0,0,0,0,0,0,0,0,0,GCW
+Female,18,0,1,0,2,1,2,1,3,0,10,GCW
+Female,15,0,0,1,0,0,0,0,0,0,1,GCW
+Female,16,0,1,0,1,0,0,0,0,0,2,GCW
+Female,17,0,1,3,1,1,0,1,3,0,10,GCW
+Female,16,0,2,1,0,1,0,3,0,1,8,GCW
+Female,19,2,1,2,3,0,0,3,0,0,11,GCW
+Female,19,1,0,0,1,1,1,0,2,3,9,GCW
+Female,16,0,0,1,2,1,0,3,1,3,11,GCW
+Female,18,0,1,2,0,2,1,2,3,1,12,GCW
+Female,18,1,2,0,2,1,3,3,0,3,15,GCW
+Female,18,0,0,0,3,1,0,1,0,0,5,GCW
+Female,17,1,0,3,2,2,3,2,0,0,13,GCW
+Female,17,0,1,3,0,1,3,2,0,0,10,GCW
+Female,20,3,3,1,3,0,3,2,1,3,19,GCW
+Female,18,1,0,0,3,0,0,0,3,0,7,GCW
+Female,19,1,0,0,3,0,0,2,3,0,9,GCW
+Female,22,1,3,0,2,0,0,3,0,0,9,GCW
+Female,22,0,2,0,2,0,3,0,2,2,11,GCW
+Female,21,1,1,0,1,0,1,1,0,0,5,GCW
+Female,20,2,1,1,3,1,1,0,0,1,10,GCW
+Female,22,1,0,2,2,1,3,1,2,3,15,GCW
+Female,20,0,1,0,1,2,3,0,2,0,9,GCW
+Female,20,3,1,0,1,0,0,0,0,1,6,GCW
+Female,21,1,1,3,1,1,0,0,0,0,7,GCW
+Female,20,0,1,2,0,0,0,3,3,1,10,GCW
+Female,18,1,0,0,0,2,1,2,1,0,7,GCW
+Female,19,1,0,1,0,0,1,0,0,1,4,GCW
+Female,20,1,0,1,0,1,1,1,0,1,6,GCW
+Female,19,1,2,3,2,2,1,0,2,3,16,GCW
+Female,19,3,2,2,2,2,3,3,0,2,19,GCW
+Female,18,0,3,1,3,2,0,0,0,1,10,GCW
+Female,19,1,3,3,0,0,0,1,1,1,10,GCW
+Female,20,0,3,3,0,0,1,2,1,0,10,GCW
+Female,18,0,1,0,0,0,1,1,0,1,4,GCW
+Female,19,2,1,2,0,0,0,2,0,0,7,GCW
+Female,19,0,3,0,2,3,3,3,1,0,15,GCW
+Female,19,1,1,0,0,0,0,0,0,0,2,GCW
+Female,19,3,1,0,2,0,2,0,0,0,8,GCW
+Female,18,1,1,0,3,2,0,1,0,0,8,GCW
+Female,18,2,3,3,1,3,3,1,0,0,16,GCW
+Female,17,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Male,20,3,0,0,0,1,0,1,1,0,6,KFUEIT
+Female,19,1,1,2,3,3,0,3,2,1,16,GCW
+Female,20,1,3,2,0,2,0,0,0,0,8,GCW
+Female,21,1,2,3,3,1,1,1,3,1,16,GCW
+Female,19,2,1,0,0,1,1,0,0,0,5,GCW
+Female,20,3,0,3,3,3,1,0,0,2,15,GCW
+Female,18,0,0,0,0,0,1,1,0,0,2,GCW
+Female,20,1,0,3,1,1,2,1,2,1,12,GCW
+Female,19,0,1,0,0,0,3,2,3,1,10,GCW
+Female,19,1,1,0,0,1,0,0,1,0,4,GCW
+Female,19,1,1,0,0,1,0,0,1,0,4,GCW
+Female,17,3,1,0,0,1,1,0,0,0,6,GCW
+Female,18,2,1,1,2,1,1,1,2,1,12,GCW
+Female,17,2,1,1,2,1,1,2,2,1,13,GCW
+Female,19,1,2,1,2,2,1,2,1,0,12,GCW
+Female,21,1,1,0,3,1,0,3,1,2,12,GCW
+Female,20,0,1,3,0,3,3,3,1,2,16,GCW
+Female,18,1,1,2,2,1,1,1,1,2,12,GCW
+Female,18,1,1,0,0,1,0,0,0,0,3,GCW
+Female,16,0,1,0,2,0,1,2,0,0,6,GCW
+Female,17,0,1,0,2,1,0,2,0,0,6,GCW
+Female,15,0,3,0,1,1,0,0,0,0,5,GCW
+Female,17,2,2,2,0,3,0,0,0,0,9,GCW
+Female,17,1,3,2,1,0,0,0,3,0,10,GCW
+Female,17,0,3,2,1,3,0,3,0,1,13,GCW
+Female,17,0,1,1,0,2,0,1,0,0,5,GCW
+Female,18,2,0,1,0,0,0,0,0,0,3,GCW
+Female,16,3,1,3,3,0,0,1,1,0,12,GCW
+Female,18,3,2,3,3,0,0,1,1,0,13,GCW
+Female,16,2,1,3,2,1,0,1,0,0,10,GCW
+Female,16,0,0,0,0,1,0,0,0,0,1,GCW
+Female,19,0,0,1,0,1,0,0,0,0,2,GCW
+Female,16,0,1,3,1,1,0,2,3,1,12,GCW
+Female,16,0,1,3,1,1,2,2,3,1,14,GCW
+Female,16,0,0,0,0,0,0,0,0,0,0,GCW
+Female,17,1,0,0,2,2,3,3,0,0,11,GCW
+Female,17,2,3,2,3,0,3,2,2,3,20,GCW
+Female,17,3,0,1,0,3,3,3,2,3,18,GCW
+Female,17,2,0,2,0,0,0,0,3,0,7,GCW
+Female,16,1,0,0,1,0,1,2,0,0,5,GCW
+Female,18,1,0,0,1,0,0,1,0,0,3,GCW
+Female,17,0,0,1,2,1,0,0,0,3,7,GCW
+Female,20,1,0,1,2,0,0,1,0,1,6,GCW
+Female,18,3,1,0,3,0,2,0,2,3,14,GCW
+Female,19,0,0,0,0,1,0,0,0,0,1,GCW
+Female,17,0,1,0,2,0,1,2,0,0,6,GCW
+Female,19,0,1,0,0,2,1,3,0,1,8,GCW
+Female,19,0,1,0,1,0,0,0,0,0,2,GCW
+Female,19,3,2,3,2,3,0,1,3,0,17,GCW
+Female,18,0,1,2,1,3,3,2,0,0,12,GCW
+Female,20,2,0,0,2,0,3,2,0,0,9,GCW
+Female,20,0,3,2,1,0,0,2,0,0,8,GCW
+Female,18,0,2,3,0,2,0,3,1,0,11,GCW
+Female,18,1,0,2,3,1,2,3,0,1,13,GCW
+Female,21,0,1,1,3,2,1,3,2,0,13,GCW
+Female,22,2,1,3,2,1,0,1,2,3,15,GCW
+Female,17,1,0,0,0,0,3,3,0,0,7,GCW
+Female,20,1,0,2,0,0,0,2,1,0,6,GCW
+Female,18,2,1,1,3,0,0,1,1,1,10,GCW
+Female,19,1,0,0,1,0,2,2,1,0,7,GCW
+Female,17,3,0,0,0,0,0,3,0,0,6,GCW
+Female,17,3,2,3,2,3,0,1,3,0,17,GCW
+Female,18,1,0,0,1,0,2,2,1,0,7,GCW
+Female,17,1,0,0,0,0,1,2,0,0,4,GCW
+Female,19,0,1,1,2,1,0,1,1,1,8,GCW
+Female,18,3,1,0,2,0,0,0,0,0,6,GCW
+Female,20,0,0,2,2,2,0,0,0,0,6,GCW
+Female,20,1,0,0,0,0,0,0,0,0,1,GCW
+Female,19,0,1,0,1,0,0,0,0,0,2,GCW
+Female,19,2,1,0,1,0,1,2,2,0,9,GCW
+Female,17,3,1,1,2,1,1,3,0,2,14,GCW
+Female,20,0,0,0,0,0,0,0,0,0,0,GCW
+Female,19,2,1,1,0,0,0,0,0,0,4,GCW
+Female,20,1,0,0,0,0,0,0,0,0,1,GCW
+Female,20,0,1,1,1,2,0,3,1,0,9,GCW
+Female,19,0,1,2,0,0,1,3,1,0,8,GCW
+Female,18,3,0,2,3,1,0,3,3,2,17,GCW
+Female,19,3,0,0,3,2,1,1,0,3,13,GCW
+Female,19,3,1,2,3,0,3,0,1,3,16,GCW
+Female,19,0,0,0,0,0,0,0,0,0,0,GCW
+Female,20,0,0,0,0,0,0,0,0,0,0,GCW
+Female,17,0,1,3,0,1,1,2,3,0,11,GCW
+Female,18,0,3,2,0,1,3,0,1,0,10,GCW
+Female,18,3,0,2,1,0,0,1,1,1,9,GCW
+Female,17,0,2,1,0,0,2,2,0,0,7,GCW
+Female,18,0,0,0,0,0,1,0,0,0,1,GCW
+Female,17,0,2,3,1,2,2,3,1,0,14,GCW
+Female,18,2,2,2,2,2,2,2,0,2,16,GCW
+Female,17,2,2,1,2,2,1,2,2,3,17,GCW
+Female,22,1,0,0,0,2,3,0,0,0,6,GCW
+Female,17,1,0,2,1,3,1,2,0,0,10,GCW
+Female,18,0,2,3,1,2,2,1,3,0,14,GCW
+Female,17,1,3,2,3,1,3,2,1,3,19,GCW
+Female,18,1,3,0,2,2,3,2,2,1,16,GCW
+Female,18,0,0,1,2,1,2,1,0,0,7,GCW
+Female,18,0,0,0,1,2,1,0,1,1,6,GCW
+Female,18,3,1,0,3,0,3,2,0,0,12,GCW
+Female,18,3,2,0,1,0,0,0,0,0,6,GCW
+Female,18,2,1,3,3,0,3,3,3,2,20,GCW
+Female,17,1,2,2,3,3,3,1,0,3,18,GCW
+Female,19,1,0,0,0,2,3,0,1,2,9,GCW
+Female,17,1,1,0,0,2,1,0,1,0,6,GCW
+Female,17,0,0,1,3,0,0,3,0,0,7,GCW
+Female,18,0,0,1,1,2,0,3,0,1,8,GCW
+Female,17,1,0,1,2,3,1,0,0,2,10,GCW
+Female,18,0,2,0,2,0,2,1,0,2,9,GCW
+Female,17,0,0,0,2,0,2,1,0,2,7,GCW
+Female,17,0,0,2,0,2,2,0,0,2,8,GCW
+Female,23,1,1,1,3,1,2,3,3,1,16,KFUEIT
+Female,18,0,2,1,3,0,0,1,0,0,7,GCW
+Female,19,0,0,0,1,0,0,1,0,0,2,GCW
+Female,18,0,0,1,0,0,0,0,0,1,2,GCW
+Female,18,0,1,1,1,1,0,0,0,0,4,GCW
+Female,17,1,0,3,1,0,0,1,0,0,6,GCW
+Female,19,1,0,0,0,2,3,0,1,2,9,GCW
+Female,17,1,1,0,1,2,0,1,0,0,6,GCW
+Female,17,0,0,1,3,0,0,3,0,0,7,GCW
+Female,18,0,0,1,1,2,0,3,0,1,8,GCW
+Female,17,1,0,1,2,3,1,0,0,2,10,GCW
+Female,18,0,2,0,2,0,2,1,0,2,9,GCW
+Female,17,0,0,0,2,0,2,1,0,2,7,GCW
+Female,17,0,0,2,0,2,2,0,0,2,8,GCW
+Female,18,1,0,2,3,3,3,3,0,0,15,GCW
+Female,18,0,0,0,0,0,0,0,0,0,0,GCW
+Female,18,2,3,1,1,0,2,3,2,1,15,GCW
+Female,17,2,3,1,1,0,3,2,2,1,15,GCW
+Female,18,1,0,1,0,0,0,0,0,3,5,GCW
+Female,18,1,0,1,0,2,1,2,0,1,8,GCW
+Female,18,3,1,0,2,2,0,3,0,1,12,GCW
+Female,18,3,1,0,3,0,2,1,0,3,13,GCW
+Female,17,0,0,0,1,0,0,0,0,0,1,GCW
+Female,18,1,1,0,1,0,1,3,3,0,10,GCW
+Female,18,0,0,2,2,1,3,1,0,0,9,GCW
+Female,18,0,3,2,2,0,3,1,0,3,14,GCW
+Female,19,1,0,0,1,2,0,3,0,0,7,GCW
+Female,18,1,0,0,0,0,2,1,0,1,5,GCW
+Female,19,0,0,0,0,0,0,0,0,0,0,GCW
+Female,20,0,0,0,0,0,0,0,0,0,0,GCW
+Female,21,0,1,0,2,2,0,0,0,1,6,GCW
+Female,20,0,2,0,3,0,0,0,0,0,5,GCW
+Female,20,1,0,0,2,0,0,1,0,1,5,GCW
+Female,20,0,1,0,0,0,0,0,0,0,1,GCW
+Female,20,0,1,0,0,1,0,1,0,0,3,GCW
+Female,20,0,1,0,0,1,2,0,1,0,5,GCW
+Female,19,0,0,0,1,0,0,0,0,0,1,GCW
+Female,20,2,1,3,1,0,2,0,3,0,12,GCW
+Female,19,2,1,3,0,0,0,0,0,0,6,GCW
+Female,20,0,1,0,0,0,0,0,0,0,1,GCW
+Female,19,2,1,3,0,0,0,0,0,0,6,GCW
+Female,21,3,2,2,3,1,3,3,2,2,21,GCW
+Female,20,0,3,1,1,2,0,1,2,0,10,GCW
+Female,20,0,3,1,0,1,1,1,0,3,10,GCW
+Female,20,0,3,0,0,0,0,0,0,0,3,GCW
+Female,20,0,0,0,1,0,1,1,1,0,4,GCW
+Female,20,2,3,0,0,1,0,0,0,1,7,GCW
+Female,20,2,2,1,1,1,1,1,2,1,12,GCW
+Female,19,2,0,3,0,0,0,0,0,0,5,GCW
+Female,21,2,3,0,1,1,2,0,1,0,10,GCW
+Female,19,0,1,2,1,2,3,0,0,0,9,GCW
+Female,20,1,3,0,0,1,0,2,1,1,9,GCW
+Female,18,3,2,1,0,0,0,1,1,0,8,GCW
+Female,18,1,3,1,0,0,2,1,1,0,9,GCW
+Female,20,1,3,2,3,3,1,0,2,1,16,GCW
+Female,20,0,3,0,2,1,1,0,2,3,12,GCW
+Female,18,1,2,0,1,2,2,1,0,3,12,GCW
+Female,20,0,3,0,1,0,0,0,0,0,4,GCW
+Female,19,0,0,1,0,2,0,2,0,0,5,GCW
+Female,19,0,0,1,2,0,0,1,0,0,4,GCW
+Female,20,0,1,0,0,0,0,2,1,0,4,GCW
+Female,19,0,1,0,0,0,0,2,2,0,5,GCW
+Female,20,0,1,0,0,2,0,1,1,0,5,GCW
+Female,19,1,0,0,0,1,0,0,2,3,7,GCW
+Female,20,0,2,0,0,0,2,0,0,0,4,GCW
+Female,18,1,3,1,1,0,0,1,0,1,8,GCW
+Female,18,3,2,1,2,2,3,3,3,0,19,PGC Ryk
+Female,17,1,1,1,0,0,1,2,0,1,7,PGC Ryk
+Female,17,0,1,2,1,2,0,1,0,1,8,PGC Ryk
+Male,22,2,1,2,1,1,1,1,2,3,14,PGC Ryk
+Male,17,2,0,2,3,1,1,2,0,1,12,PGC Ryk
+Male,18,0,3,1,3,3,3,3,1,3,20,PGC Ryk
+Male,19,2,0,0,0,3,3,3,3,1,15,PGC Ryk
+Female,18,0,0,1,0,0,0,0,0,0,1,PGC Ryk
+Female,16,3,0,1,1,1,1,1,1,1,10,PGC Ryk
+Female,18,2,1,0,0,1,1,1,3,0,9,PGC Ryk
+Male,17,1,1,0,3,3,1,3,3,0,15,PGC Ryk
+Female,18,1,0,0,3,3,3,3,1,3,17,PGC Ryk
+Female,18,2,1,2,0,0,0,0,0,0,5,PGC Ryk
+Female,17,3,2,0,3,0,3,2,2,0,15,PGC Ryk
+Female,16,3,2,0,0,0,2,1,0,0,8,PGC Ryk
+Female,16,3,1,1,1,2,1,1,2,0,12,PGC Ryk
+Female,18,0,1,1,0,1,2,0,0,1,6,PGC Ryk
+Male,19,0,2,0,0,0,0,2,0,3,7,PGC Ryk
+Female,19,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,17,1,3,3,0,2,0,0,0,3,12,PGC Ryk
+Female,18,2,1,3,0,1,1,1,3,0,12,PGC Ryk
+Female,17,3,0,1,3,3,1,0,1,1,13,PGC Ryk
+Female,18,3,2,2,0,2,0,0,0,0,9,PGC Ryk
+Female,19,1,1,2,1,1,0,1,1,2,10,PGC Ryk
+Female,18,1,3,3,0,3,0,0,0,3,13,PGC Ryk
+Female,19,0,1,3,0,2,2,0,3,2,13,PGC Ryk
+Female,18,3,2,2,3,2,2,1,1,1,17,PGC Ryk
+Female,17,0,1,1,0,1,0,3,0,2,8,PGC Ryk
+Male,18,1,0,0,2,1,1,0,2,3,10,PGC Ryk
+Male,17,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Male,18,2,1,2,1,2,2,1,1,2,14,PGC Ryk
+Male,16,1,3,1,1,0,1,0,2,3,12,PGC Ryk
+Male,17,1,1,0,1,2,3,2,1,1,12,PGC Ryk
+Male,16,1,1,1,1,0,1,1,2,2,10,PGC Ryk
+Male,18,2,1,0,1,0,2,1,3,2,12,PGC Ryk
+Male,17,1,0,0,3,2,1,3,2,3,15,PGC Ryk
+Male,19,1,2,0,0,0,0,0,1,2,6,PGC Ryk
+Male,17,1,2,0,0,0,0,0,1,2,6,PGC Ryk
+Male,16,3,3,0,3,1,0,1,1,0,12,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,20,0,3,2,0,0,0,1,0,3,9,PGC Ryk
+Male,17,2,2,1,3,1,1,1,2,2,15,PGC Ryk
+Male,17,0,1,1,0,1,0,1,0,0,4,PGC Ryk
+Female,20,1,1,1,1,0,0,1,2,2,9,PGC Ryk
+Female,19,3,1,0,2,1,0,2,1,2,12,PGC Ryk
+Female,18,3,1,0,2,0,0,2,2,2,12,PGC Ryk
+Male,16,2,1,0,3,2,0,2,1,2,13,PGC Ryk
+Male,19,1,0,0,2,0,0,0,0,0,3,PGC Ryk
+Male,17,1,0,2,2,0,0,2,0,2,9,PGC Ryk
+Female,20,3,3,1,0,2,1,3,0,3,16,PGC Ryk
+Female,22,1,2,0,1,3,0,2,1,2,12,PGC Ryk
+Female,18,1,1,0,0,0,0,0,1,0,3,PGC Ryk
+Female,20,3,3,0,0,1,1,0,1,0,9,PGC Ryk
+Male,20,0,2,1,1,0,3,2,0,3,12,PGC Ryk
+Male,22,3,3,0,1,0,3,3,1,0,14,PGC Ryk
+Male,18,0,1,1,0,1,1,1,0,0,5,PGC Ryk
+Male,19,2,2,3,0,1,3,0,2,3,16,PGC Ryk
+Male,19,0,0,3,0,0,0,0,0,0,3,PGC Ryk
+Male,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,17,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,18,0,0,1,0,0,0,1,0,0,2,PGC Ryk
+Male,18,0,0,0,2,3,0,2,0,0,7,PGC Ryk
+Male,21,2,1,0,1,1,2,1,2,1,11,PGC Ryk
+Male,20,0,1,0,0,0,0,0,0,1,2,PGC Ryk
+Male,19,0,3,0,2,0,2,0,2,0,9,PGC Ryk
+Male,21,2,0,3,0,2,1,0,1,1,10,PGC Ryk
+Male,20,2,3,0,0,0,0,0,3,3,11,PGC Ryk
+Male,18,0,1,2,3,1,3,1,0,3,14,PGC Ryk
+Male,18,2,1,3,3,3,3,3,3,3,24,PGC Ryk
+Female,18,1,1,1,0,0,0,0,2,0,5,PGC Ryk
+Female,18,1,1,1,0,0,0,0,2,0,5,PGC Ryk
+Female,19,2,3,3,3,3,3,3,3,3,26,PGC Ryk
+Male,19,0,1,0,0,1,0,0,0,0,2,PGC Ryk
+Male,18,0,3,3,0,3,0,1,0,0,10,PGC Ryk
+Female,19,3,1,3,3,3,3,3,0,3,22,PGC Ryk
+Male,21,2,0,3,0,2,1,0,1,1,10,PGC Ryk
+Female,20,0,0,0,1,1,0,1,0,1,4,GCW
+Female,20,0,2,1,0,0,1,0,1,0,5,GCW
+Female,20,1,2,2,1,1,1,2,1,1,12,GCW
+Female,19,3,2,0,0,0,0,0,0,0,5,GCW
+Female,22,0,2,3,2,0,0,1,1,1,10,GCW
+Female,19,2,0,1,3,0,0,0,2,1,9,GCW
+Female,20,0,1,3,0,2,1,1,1,0,9,GCW
+Female,18,1,3,2,0,1,0,1,0,0,8,GCW
+Female,18,1,1,3,2,1,0,1,0,0,9,GCW
+Female,18,1,1,3,0,2,3,1,3,1,15,GCW
+Female,20,1,0,3,0,2,3,2,2,1,14,GCW
+Female,18,0,1,2,2,1,3,0,2,1,12,GCW
+Female,20,0,0,3,0,0,0,0,0,0,3,GCW
+Female,19,1,0,0,0,1,0,0,0,2,4,GCW
+Female,20,0,0,1,0,2,0,1,0,0,4,GCW
+Female,19,0,0,1,0,2,0,2,0,0,5,GCW
+Female,20,0,0,1,0,1,0,1,2,0,5,GCW
+Female,19,0,1,0,0,0,3,2,1,0,7,GCW
+Female,20,0,0,2,0,0,0,0,0,2,4,GCW
+Female,18,1,1,3,1,0,0,1,1,0,8,GCW
+Female,19,0,0,0,0,0,0,0,0,0,0,GCW
+Female,20,0,0,0,0,0,0,0,0,0,0,GCW
+Female,21,2,0,1,0,0,1,0,2,0,6,GCW
+Female,20,0,0,2,0,0,0,0,0,3,5,GCW
+Female,18,0,1,0,2,0,0,1,0,0,4,GCW
+Female,20,0,0,1,0,0,0,0,0,0,1,GCW
+Female,20,0,0,1,0,1,0,0,1,0,3,GCW
+Female,20,0,0,1,2,0,0,1,1,0,5,GCW
+Female,19,0,0,0,1,0,0,0,0,0,1,GCW
+Female,20,3,2,1,2,0,1,3,0,1,13,GCW
+Female,19,3,0,0,0,0,0,0,2,0,5,UCP RYK
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,1,1,2,3,3,1,1,1,0,13,KFUEIT
+Female,17,0,0,3,3,3,0,0,0,1,10,KFUEIT
+Female,17,0,0,0,0,1,1,1,0,0,3,KFUEIT
+Female,19,3,2,1,0,0,0,0,0,0,6,GCW
+Male,18,2,0,1,0,2,2,2,2,1,12,KFUEIT
+Female,20,0,0,1,0,0,0,0,0,0,1,GCW
+Female,19,3,2,1,0,0,0,0,0,0,6,GCW
+Female,21,2,3,2,3,3,2,2,1,3,21,GCW
+Female,20,1,0,3,1,2,1,0,2,0,10,GCW
+Female,19,1,0,0,1,1,0,0,0,1,4,KFUEIT
+Male,22,1,1,0,1,1,0,1,0,0,5,KFUEIT
+Male,24,3,3,0,3,3,3,3,3,0,21,KFUEIT
+Male,21,2,2,1,3,2,2,1,2,2,17,KFUEIT
+Female,20,1,0,3,1,1,3,0,1,0,10,GCW
+Female,19,1,1,1,3,1,1,3,2,1,14,Oxbridge College
+Female,20,0,3,0,0,0,0,0,0,0,3,GCW
+Female,18,2,1,0,3,3,0,0,3,3,15,GCW
+Female,18,0,0,0,0,0,0,0,0,0,0,GCW
+Female,18,1,2,3,2,3,1,2,0,1,15,GCW
+Female,17,1,2,3,3,2,1,2,0,1,15,GCW
+Female,18,1,1,0,0,0,0,0,0,0,2,GCW
+Female,18,2,1,0,2,2,0,2,1,1,11,KFUEIT
+Female,19,0,1,1,1,0,0,0,1,0,4,KFUEIT
+Female,18,1,1,0,1,2,1,0,2,0,8,GCW
+Female,20,3,0,2,3,3,2,3,3,0,19,KFUEIT
+Male,21,3,0,2,3,2,1,3,0,0,14,KFUEIT
+Male,19,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Female,17,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,20,3,1,0,2,0,0,1,0,0,7,KFUEIT
+Female,21,0,2,1,1,1,1,1,2,0,9,GCW
+Female,18,2,0,0,3,0,2,1,2,0,10,GCW
+Female,18,0,3,1,2,1,3,0,0,3,13,GCW
+Female,17,0,0,0,1,0,0,0,0,1,2,GCW
+Female,18,0,1,1,1,3,0,0,0,1,7,GCW
+Female,18,2,0,0,3,1,0,0,1,2,9,GCW
+Female,18,2,0,3,3,1,3,0,0,2,14,GCW
+Female,17,0,1,0,0,3,0,0,2,1,7,GCW
+Female,19,0,0,0,3,1,0,1,0,1,6,KFUEIT
+Female,18,0,1,0,2,1,0,0,0,0,4,GCW
+Female,19,0,1,0,3,0,2,1,2,0,9,GCW
+Female,19,1,0,0,1,1,0,0,3,1,7,KFUEIT
+Female,17,0,1,1,0,1,0,0,2,1,6,GCW
+Female,17,1,0,0,0,3,0,0,0,3,7,GCW
+Female,18,1,0,0,0,3,0,0,2,1,7,GCW
+Female,17,1,1,0,1,0,2,0,3,2,10,GCW
+Female,18,0,0,2,2,1,2,0,0,2,9,GCW
+Female,17,0,0,0,2,1,2,0,0,2,7,GCW
+Female,17,2,0,0,2,0,2,0,2,0,8,GCW
+Female,18,1,0,2,0,1,0,0,0,3,7,GCW
+Female,19,0,0,0,0,1,0,0,0,1,2,GCW
+Female,18,1,0,0,0,0,1,0,0,0,2,GCW
+Female,18,1,0,1,0,0,0,0,1,1,4,GCW
+Female,17,3,1,0,0,1,0,0,0,0,5,GCW
+Male,22,1,0,3,0,0,0,1,1,0,6,KFUEIT
+Male,19,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,21,3,0,3,0,3,3,3,0,0,15,KFUEIT
+Male,22,0,0,0,1,0,0,0,0,1,2,KFUEIT
+Female,21,0,1,3,3,3,0,1,1,0,12,KFUEIT
+Male,22,1,0,1,2,0,2,0,1,1,8,KFUEIT
+Male,18,2,3,0,3,1,3,1,0,0,13,KFUEIT
+Female,19,1,3,1,2,0,3,3,2,1,16,KFUEIT
+Female,21,2,3,2,3,0,1,1,2,0,14,KFUEIT
+Female,19,3,1,1,0,1,0,0,0,1,7,KFUEIT
+Male,16,2,3,0,0,3,0,3,0,0,11,PGC Ryk
+Male,16,0,0,1,1,0,0,1,0,0,3,PGC Ryk
+Male,16,0,0,1,1,0,1,1,0,0,4,PGC Ryk
+Male,17,0,0,1,1,0,1,1,0,0,4,PGC Ryk
+Male,19,1,3,1,1,0,0,0,2,0,8,KFUEIT
+Male,17,1,3,1,0,3,0,3,0,0,11,PGC Ryk
+Female,20,2,3,1,1,1,3,0,1,3,15,KFUEIT
+Male,16,0,0,1,0,0,0,0,0,0,1,PGC Ryk
+Male,19,2,2,1,3,3,2,2,2,3,20,PGC Ryk
+Male,16,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,18,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Male,14,0,0,1,0,1,0,0,0,0,2,PGC Ryk
+Male,17,1,1,0,0,3,0,0,2,1,8,PGC Ryk
+Female,18,3,1,1,1,2,1,2,0,1,12,KFUEIT
+Male,17,1,0,0,0,2,0,0,0,0,3,PGC Ryk
+Male,17,0,1,1,0,1,0,0,0,2,5,PGC Ryk
+Male,18,0,0,1,0,1,0,0,2,0,4,PGC Ryk
+Male,18,2,0,1,1,0,0,0,0,0,4,PGC Ryk
+Male,18,0,0,1,0,1,0,0,0,2,4,PGC Ryk
+Female,18,0,2,1,0,1,0,3,1,1,9,KFUEIT
+Female,17,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,19,2,3,3,2,3,3,3,0,0,19,KFUEIT
+Male,16,0,0,1,0,0,0,0,0,2,3,PGC Ryk
+Male,18,0,1,0,1,1,1,1,0,1,6,PGC Ryk
+Male,16,1,2,1,3,2,0,2,2,3,16,PGC Ryk
+Male,18,1,0,0,0,3,0,2,1,1,8,PGC Ryk
+Male,19,1,2,1,0,2,0,0,1,0,7,PGC Ryk
+Male,18,1,1,0,0,1,0,0,1,0,4,PGC Ryk
+Male,16,2,2,1,0,3,3,0,1,3,15,PGC Ryk
+Male,16,1,3,2,0,3,2,2,1,0,14,PGC Ryk
+Male,17,3,0,0,0,0,1,1,0,0,5,KFUEIT
+Female,18,3,1,0,1,0,0,2,0,1,8,KFUEIT
+Male,16,0,1,2,0,0,0,1,3,0,7,PGC Ryk
+Male,17,0,1,1,3,2,3,3,1,1,15,PGC Ryk
+Female,18,1,0,0,1,1,1,1,0,0,5,KFUEIT
+Male,16,1,0,1,2,2,1,3,2,1,13,PGC Ryk
+Female,19,0,0,1,1,0,0,0,0,0,2,KFUEIT
+Male,17,0,1,1,3,3,1,0,1,0,10,PGC Ryk
+Male,18,3,0,0,0,1,1,0,0,0,5,KFUEIT
+Male,16,2,1,1,3,2,0,1,3,3,16,PGC Ryk
+Male,16,3,1,1,0,0,0,1,2,1,9,PGC Ryk
+Male,20,0,2,1,0,0,0,0,0,0,3,PGC Ryk
+Male,17,0,1,2,1,0,0,3,0,2,9,PGC Ryk
+Male,18,0,1,1,2,1,0,1,0,1,7,PGC Ryk
+Male,18,0,0,0,1,0,0,0,0,0,1,KFUEIT
+Male,20,0,3,0,0,0,0,0,0,2,5,PGC Ryk
+Male,19,0,1,0,0,0,3,0,0,1,5,PGC Ryk
+Male,16,0,1,1,0,0,0,0,0,0,2,PGC Ryk
+Male,19,0,1,0,0,0,0,0,0,0,1,PGC Ryk
+Male,18,0,0,0,0,0,3,1,0,0,4,PGC Ryk
+Male,17,3,0,0,1,1,0,1,0,0,6,KFUEIT
+Male,20,3,1,3,0,1,0,0,0,2,10,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,18,2,1,1,1,2,2,1,0,1,11,PGC Ryk
+Male,18,2,1,0,0,0,0,0,0,2,5,PGC Ryk
+Male,18,2,1,1,0,3,1,1,0,2,11,PGC Ryk
+Male,19,1,2,1,2,2,1,1,1,1,12,PGC Ryk
+Male,19,3,1,0,0,0,0,0,0,0,4,KFUEIT
+Male,19,2,3,0,2,2,0,0,2,2,13,PGC Ryk
+Male,17,0,0,0,0,0,1,0,0,0,1,PGC Ryk
+Male,17,0,0,0,2,0,3,1,2,0,8,PGC Ryk
+Male,18,0,0,0,0,0,0,0,0,1,1,PGC Ryk
+Female,18,3,0,0,2,0,3,1,0,0,9,KFUEIT
+Male,19,2,1,1,0,3,1,2,3,3,16,PGC Ryk
+Male,20,2,1,3,0,0,1,1,2,0,10,PGC Ryk
+Male,17,3,1,0,3,1,3,1,0,1,13,PGC Ryk
+Male,19,0,2,1,1,0,0,0,1,0,5,PGC Ryk
+Male,19,0,2,1,1,0,0,0,1,0,5,PGC Ryk
+Male,20,3,3,0,0,0,1,2,3,1,13,PGC Ryk
+Male,18,0,0,0,1,1,0,0,0,0,2,PGC Ryk
+Male,20,3,1,0,2,0,2,1,1,1,11,PGC Ryk
+Male,19,0,0,1,3,2,1,3,0,0,10,PGC Ryk
+Male,19,0,1,1,0,0,0,1,1,0,4,PGC Ryk
+Male,17,0,3,1,1,0,0,0,1,0,6,PGC Ryk
+Male,18,1,2,1,1,1,1,2,1,2,12,PGC Ryk
+Male,17,1,2,1,1,2,1,2,1,2,13,PGC Ryk
+Male,19,1,1,2,1,2,0,1,2,2,12,PGC Ryk
+Male,18,0,1,1,3,0,2,1,1,3,12,PGC Ryk
+Male,19,3,0,1,3,3,2,1,3,0,16,PGC Ryk
+Male,18,2,1,1,1,1,2,1,1,2,12,PGC Ryk
+Male,18,0,1,1,0,0,0,0,1,0,3,PGC Ryk
+Male,18,0,0,0,0,0,0,1,0,0,1,KFUEIT
+Male,18,0,0,0,0,0,0,1,0,0,1,KFUEIT
+Male,18,0,0,1,0,2,0,1,1,0,5,PGC Ryk
+Male,19,3,1,2,1,2,3,0,3,2,17,PGC Ryk
+Male,18,1,2,0,0,2,0,0,1,0,6,PGC Ryk
+Male,18,2,3,1,3,0,0,1,2,0,12,PGC Ryk
+Male,20,1,1,2,1,2,0,0,3,2,12,PGC Ryk
+Male,20,0,2,3,3,3,0,3,0,3,17,PGC Ryk
+Male,17,3,2,1,3,2,1,3,1,1,17,PGC Ryk
+Male,18,0,1,2,0,2,0,0,1,1,7,PGC Ryk
+Male,19,0,3,0,1,3,0,0,0,0,7,PGC Ryk
+Male,17,0,0,0,0,1,0,0,0,1,2,PGC Ryk
+Male,18,0,1,2,0,1,0,0,0,0,4,PGC Ryk
+Female,17,3,0,1,1,2,0,3,1,0,11,PGC Ryk
+Female,18,2,0,3,3,0,0,1,1,0,10,PGC Ryk
+Female,18,2,3,0,0,1,1,0,0,1,8,PGC Ryk
+Female,17,1,0,2,2,2,0,3,0,0,10,PGC Ryk
+Female,18,0,0,0,0,1,0,0,0,0,1,PGC Ryk
+Female,17,3,0,2,2,3,0,1,2,1,14,PGC Ryk
+Female,18,2,2,2,2,3,2,0,2,2,17,PGC Ryk
+Female,17,1,2,2,1,2,3,2,2,2,17,PGC Ryk
+Female,17,0,1,0,3,0,1,0,2,0,7,PGC Ryk
+Female,17,2,1,0,1,2,0,0,3,1,10,PGC Ryk
+Female,20,3,0,0,0,0,0,1,1,0,5,KFUEIT
+Female,18,3,0,2,2,3,1,0,2,1,14,PGC Ryk
+Female,17,2,1,3,3,2,3,1,1,3,19,PGC Ryk
+Female,17,3,1,0,3,0,0,0,0,0,7,KFUEIT
+Female,17,2,1,3,3,2,3,1,1,3,19,PGC Ryk
+Female,18,0,1,3,3,2,0,0,2,2,13,PGC Ryk
+Female,18,1,0,0,1,0,0,0,1,2,5,PGC Ryk
+Female,18,0,0,0,1,0,1,1,2,1,6,PGC Ryk
+Female,18,0,3,1,3,2,0,0,0,3,12,PGC Ryk
+Female,18,0,3,2,1,0,0,0,0,1,7,PGC Ryk
+Female,18,3,2,1,3,3,2,3,0,3,20,PGC Ryk
+Female,17,2,1,2,3,1,3,0,3,3,18,PGC Ryk
+Female,19,0,0,1,1,3,1,0,2,0,8,PGC Ryk
+Female,19,0,0,1,0,0,0,0,0,1,2,PGC Ryk
+Female,19,3,3,2,0,1,0,3,3,2,17,PGC Ryk
+Female,18,2,0,1,3,2,0,0,3,1,12,PGC Ryk
+Female,20,0,2,0,3,2,0,0,0,2,9,PGC Ryk
+Female,21,0,1,1,0,0,0,0,0,0,2,KFUEIT
+Female,20,2,0,3,2,0,0,0,0,1,8,PGC Ryk
+Female,18,3,0,2,2,3,1,1,1,1,14,PGC Ryk
+Female,18,2,1,0,3,0,1,2,1,2,12,PGC Ryk
+Female,21,1,0,1,1,3,0,2,2,3,13,UCP RYK
+Female,24,3,2,1,0,1,3,2,1,2,15,UCP RYK
+Female,17,0,1,0,3,0,3,0,0,3,10,UCP RYK
+Female,20,2,1,0,0,2,1,0,0,0,6,UCP RYK
+Female,18,1,2,1,0,1,1,1,0,3,10,UCP RYK
+Female,19,0,1,0,2,2,1,0,0,1,7,PGC Ryk
+Female,17,0,3,0,0,3,0,0,0,0,6,PGC Ryk
+Female,17,3,3,2,0,1,0,3,3,2,17,PGC Ryk
+Female,18,0,1,0,2,2,0,0,0,1,6,PGC Ryk
+Female,17,0,1,0,0,1,0,2,0,0,4,PGC Ryk
+Female,19,1,0,1,0,1,1,1,1,2,8,PGC Ryk
+Female,18,0,1,0,1,2,0,1,2,0,7,PGC Ryk
+Female,19,1,1,0,1,0,1,0,0,0,4,PGC Ryk
+Female,18,1,1,0,1,1,1,0,1,0,6,PGC Ryk
+Female,19,3,1,2,1,0,3,2,2,2,16,PGC Ryk
+Female,17,2,3,2,3,3,2,0,2,2,19,PGC Ryk
+Female,18,1,0,3,0,0,1,0,2,3,10,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,19,3,0,0,0,0,0,1,0,0,4,KFUEIT
+Male,24,3,0,0,0,1,0,1,0,0,5,KFUEIT
+Male,21,1,1,1,1,1,1,1,1,0,8,KFUEIT
+Male,23,3,3,3,3,3,0,3,0,0,18,KFUEIT
+Male,23,0,3,2,0,0,0,0,0,0,5,KFUEIT
+Male,21,3,0,1,0,0,1,0,2,0,7,KFUEIT
+Male,20,2,0,0,2,0,0,0,0,0,4,KFUEIT
+Female,23,1,1,2,2,3,0,2,2,1,14,KFUEIT
+Female,20,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Male,19,3,0,1,1,0,0,0,0,0,5,KFUEIT
+Male,23,0,3,0,3,0,0,0,0,0,6,KFUEIT
+Male,19,2,3,1,1,1,3,1,0,3,15,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,21,0,1,1,1,0,3,2,1,0,9,KFUEIT
+Male,23,1,2,1,3,0,3,3,0,3,16,KFUEIT
+Male,22,3,0,3,3,3,1,0,1,0,14,KFUEIT
+Male,21,1,3,3,3,3,3,3,0,2,21,KFUEIT
+Female,16,3,2,1,0,0,0,0,1,0,7,PGC Ryk
+Female,16,1,0,1,0,0,0,0,0,2,4,PGC Ryk
+Female,17,0,2,0,0,0,0,1,2,2,7,PGC Ryk
+Female,17,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,17,0,0,1,2,1,0,1,1,2,8,PGC Ryk
+Female,15,1,0,0,0,0,0,0,0,0,1,PGC Ryk
+Female,16,0,0,1,0,0,0,0,0,1,2,PGC Ryk
+Female,17,3,0,1,0,1,0,3,1,1,10,PGC Ryk
+Female,16,3,0,2,0,0,0,3,1,1,10,PGC Ryk
+Female,18,0,2,1,3,0,1,0,3,0,10,PGC Ryk
+Male,21,1,1,3,0,0,0,0,2,3,10,Oxbridge College
+Male,20,2,1,0,0,3,3,2,3,1,15,Oxbridge College
+Male,21,0,0,0,0,0,0,0,0,0,0,Oxbridge College
+Male,24,2,0,1,2,0,1,1,2,2,11,Oxbridge College
+Male,22,2,1,0,2,3,2,1,1,2,14,Oxbridge College
+Male,21,0,1,2,0,2,3,1,3,1,13,Oxbridge College
+Male,20,0,0,0,1,0,0,0,1,0,2,Oxbridge College
+Male,23,0,0,0,1,2,1,3,1,1,9,Oxbridge College
+Male,21,1,2,0,2,0,1,2,3,2,13,Oxbridge College
+Male,21,1,0,1,3,2,3,3,0,1,14,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,20,3,2,0,3,3,0,0,2,0,13,Superior University
+Male,24,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,23,3,2,1,2,2,2,3,1,1,17,KFUEIT
+Female,21,3,1,1,1,0,0,1,0,0,7,KFUEIT
+Female,17,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,22,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Male,14,3,3,3,3,3,3,3,3,3,27,KFUEIT
+Male,21,1,1,0,0,0,1,1,3,0,7,KFUEIT
+Male,19,2,2,2,2,0,2,2,0,0,12,KFUEIT
+Female,23,2,0,3,1,0,1,1,1,1,10,KFUEIT
+Male,21,0,0,0,1,0,0,0,0,0,1,KFUEIT
+Male,18,1,0,1,1,1,0,0,1,0,5,KFUEIT
+Female,20,1,0,0,0,0,0,0,0,0,1,KFUEIT
+Female,19,1,1,0,1,0,0,1,0,0,4,KFUEIT
+Male,21,2,1,3,0,1,3,0,3,3,16,KFUEIT
+Male,19,2,1,1,1,0,1,2,0,1,9,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,18,3,2,0,2,2,0,2,0,0,11,KFUEIT
+Male,20,1,0,0,1,0,0,0,1,1,4,KFUEIT
+Female,18,1,1,1,1,3,1,1,2,0,11,KFUEIT
+Female,17,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,3,2,1,3,3,3,3,3,0,21,KFUEIT
+Female,17,3,0,0,2,0,0,2,0,0,7,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,19,0,1,1,0,1,3,1,1,3,11,Oxbridge College
+Male,20,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,3,3,1,3,3,3,3,3,3,25,KFUEIT
+Female,15,0,0,0,0,1,0,0,0,0,1,KFUEIT
+Female,18,1,1,1,3,1,1,1,2,1,12,KFUEIT
+Male,21,2,2,2,2,0,2,2,0,0,12,KFUEIT
+Female,19,3,2,1,3,3,1,0,0,2,15,KFUEIT
+Male,20,1,2,1,0,1,0,2,1,1,9,Oxbridge College
+Male,18,2,1,1,0,1,0,2,0,1,8,Oxbridge College
+Male,20,3,2,1,0,1,1,1,1,3,13,Oxbridge College
+Male,20,0,2,3,3,1,0,3,0,2,14,Oxbridge College
+Male,19,1,3,0,0,1,1,0,0,1,7,Oxbridge College
+Male,21,0,1,3,3,3,0,2,0,3,15,Oxbridge College
+Male,18,3,1,3,1,2,3,1,1,3,18,Oxbridge College
+Male,21,3,1,1,1,1,2,1,3,1,14,Oxbridge College
+Female,19,3,0,3,2,3,3,1,3,2,20,Oxbridge College
+Female,19,2,0,3,3,0,0,0,0,1,9,Oxbridge College
+Female,21,0,1,1,1,1,0,0,1,1,6,Oxbridge College
+Male,19,0,0,0,0,1,1,0,1,0,3,Oxbridge College
+Male,18,0,0,0,1,0,0,1,1,0,3,Oxbridge College
+Male,18,0,1,0,3,1,0,2,0,0,7,Oxbridge College
+Male,17,0,2,0,0,0,0,0,0,0,2,Oxbridge College
+Male,18,2,1,2,2,2,1,2,0,3,15,Oxbridge College
+Male,16,3,2,1,1,1,0,1,3,0,12,Oxbridge College
+Male,21,1,0,3,0,3,1,0,0,0,8,Oxbridge College
+Female,20,0,1,0,2,3,2,1,2,1,12,Oxbridge College
+Male,18,0,3,0,0,1,0,0,0,0,4,Oxbridge College
+Female,17,1,1,0,0,2,0,0,0,1,5,Oxbridge College
+Female,17,3,0,3,2,3,3,1,3,2,20,Oxbridge College
+Male,16,0,3,0,3,2,0,0,2,3,13,Oxbridge College
+Female,16,3,1,3,3,3,3,3,1,3,23,Oxbridge College
+Male,17,2,2,1,2,2,2,2,2,2,17,Oxbridge College
+Male,17,1,1,1,1,0,1,1,0,1,7,Oxbridge College
+Male,18,1,1,1,2,2,1,1,1,2,12,Oxbridge College
+Male,20,2,1,0,1,2,2,1,1,2,12,Oxbridge College
+Male,20,3,0,1,1,2,2,1,3,1,14,Oxbridge College
+Male,19,3,1,0,0,0,0,0,0,1,5,Oxbridge College
+Male,21,3,1,2,1,3,0,2,1,2,15,Oxbridge College
+Male,19,2,0,1,1,2,1,3,1,1,12,Oxbridge College
+Male,20,1,3,0,0,1,0,1,0,0,6,Oxbridge College
+Female,19,2,1,1,0,0,0,0,1,1,6,Oxbridge College
+Male,19,3,1,1,3,2,1,0,1,0,12,Oxbridge College
+Male,18,3,3,2,3,1,0,2,3,3,20,Oxbridge College
+Male,18,3,3,3,2,2,0,3,3,3,22,Oxbridge College
+Female,18,0,1,3,2,1,2,3,0,0,12,Oxbridge College
+Male,19,1,0,0,0,2,0,0,0,0,3,Oxbridge College
+Male,17,3,2,1,2,3,0,1,0,0,12,Oxbridge College
+Male,16,1,1,0,2,1,0,0,1,1,7,Oxbridge College
+Male,17,1,2,1,1,2,1,3,1,1,13,Oxbridge College
+Male,20,2,1,1,1,0,2,0,3,2,12,Oxbridge College
+Male,16,0,1,0,0,0,0,0,0,1,2,Oxbridge College
+Male,18,0,1,1,1,2,2,2,0,2,11,Oxbridge College
+Male,20,0,1,0,3,0,0,0,2,3,9,Oxbridge College
+Male,19,1,1,3,0,0,0,0,2,3,10,Oxbridge College
+Male,18,2,1,0,0,3,3,2,1,3,15,Oxbridge College
+Male,19,0,0,0,0,0,1,0,0,0,1,Oxbridge College
+Male,19,1,0,1,0,1,0,0,1,1,5,Oxbridge College
+Male,20,2,0,0,2,1,0,0,1,3,9,Oxbridge College
+Male,19,0,0,2,0,1,1,0,1,0,5,Oxbridge College
+Male,21,0,2,1,1,0,1,3,2,0,10,Oxbridge College
+Male,18,0,0,0,0,0,0,0,1,0,1,Oxbridge College
+Male,21,0,0,0,1,2,1,0,1,0,5,Oxbridge College
+Male,19,3,2,0,2,1,3,2,1,0,14,Oxbridge College
+Male,16,2,1,0,0,0,0,3,3,0,9,Oxbridge College
+Male,17,0,3,1,1,0,1,0,0,0,6,Oxbridge College
+Male,18,0,3,2,3,1,0,0,3,3,15,Oxbridge College
+Male,18,1,0,3,0,1,0,0,1,1,7,Oxbridge College
+Female,20,0,0,1,1,0,0,0,0,0,2,KFUEIT
+Female,21,2,1,0,3,0,0,1,1,0,8,KFUEIT
+Female,20,2,1,0,3,0,0,1,1,0,8,KFUEIT
+Female,20,2,1,0,3,0,0,1,1,0,8,KFUEIT
+Male,19,2,0,0,1,0,0,1,0,0,4,KFUEIT
+Female,19,3,1,1,1,1,0,1,0,0,8,KFUEIT
+Male,18,1,0,1,3,1,0,0,0,0,6,KFUEIT
+Female,19,3,1,2,2,2,1,3,1,0,15,KFUEIT
+Female,22,1,1,1,1,3,2,1,1,1,12,KFUEIT
+Male,22,1,1,0,0,1,2,1,1,1,8,KFUEIT
+Male,18,1,1,1,1,0,3,0,3,0,10,KFUEIT
+Male,18,2,0,0,2,3,0,0,3,0,10,KFUEIT
+Female,19,3,2,1,3,0,3,3,1,0,16,KFUEIT
+Female,19,0,1,1,2,0,0,1,0,0,5,KFUEIT
+Female,19,0,1,1,2,3,3,2,0,2,14,KFUEIT
+Female,19,1,3,0,1,1,1,1,1,0,9,KFUEIT
+Female,18,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Male,21,1,0,2,1,0,0,0,2,0,6,UCP RYK
+Female,19,0,0,0,0,0,0,0,0,0,0,Oxbridge College
+Female,20,0,0,0,0,0,0,0,0,0,0,Oxbridge College
+Female,17,0,0,1,0,0,1,0,2,0,4,Oxbridge College
+Female,17,0,0,2,0,0,0,0,0,3,5,Oxbridge College
+Female,18,0,1,0,2,0,0,1,0,0,4,Oxbridge College
+Female,16,0,0,1,0,0,0,0,0,0,1,Oxbridge College
+Female,18,0,0,1,0,1,0,0,1,0,3,Oxbridge College
+Female,18,0,0,1,2,0,0,1,1,0,5,Oxbridge College
+Female,17,0,0,0,0,0,0,0,0,1,1,Oxbridge College
+Female,16,3,2,1,2,0,1,3,0,1,13,Oxbridge College
+Female,19,3,2,1,0,0,0,0,0,0,6,Oxbridge College
+Female,17,0,0,1,0,0,0,0,0,0,1,Oxbridge College
+Female,19,3,2,1,0,0,0,0,0,0,6,Oxbridge College
+Female,17,2,3,2,3,3,2,2,1,3,21,Oxbridge College
+Female,20,1,0,3,0,2,1,0,2,1,10,Oxbridge College
+Female,17,1,0,3,1,1,3,0,1,0,10,Oxbridge College
+Female,16,0,0,3,0,0,0,0,0,0,3,Oxbridge College
+Male,18,2,1,0,1,1,1,1,3,2,12,PGC Ryk
+Male,19,0,3,1,1,0,1,0,0,0,6,PGC Ryk
+Male,20,0,3,2,3,3,0,0,3,3,17,PGC Ryk
+Male,20,1,0,3,0,1,0,0,1,1,7,PGC Ryk
+Male,20,1,1,3,0,1,0,0,1,1,8,PGC Ryk
+Female,18,3,0,0,2,2,1,0,3,2,13,Oxbridge College
+Female,18,1,2,1,3,2,0,2,2,3,16,Oxbridge College
+Female,16,1,2,1,3,2,0,2,2,3,16,Oxbridge College
+Female,17,0,2,1,1,1,1,2,2,1,11,Oxbridge College
+Male,18,0,1,0,1,0,1,1,0,3,7,PGC Ryk
+Male,16,1,0,0,0,3,0,2,1,1,8,Oxbridge College
+Male,17,1,2,1,0,2,0,0,1,0,7,Oxbridge College
+Male,18,1,2,0,0,0,0,0,1,0,4,Oxbridge College
+Male,20,2,2,2,3,2,1,2,1,0,15,PGC Ryk
+Male,16,1,2,1,3,0,1,3,3,0,14,Oxbridge College
+Male,16,1,3,2,3,2,2,2,1,0,16,Oxbridge College
+Male,21,2,1,1,3,2,1,0,2,1,13,PGC Ryk
+Male,16,0,1,2,3,1,0,0,0,0,7,Oxbridge College
+Male,20,2,1,1,3,2,1,0,2,1,13,PGC Ryk
+Male,20,1,0,1,0,0,1,2,0,0,5,PGC Ryk
+Male,20,2,0,1,0,1,0,1,1,1,7,PGC Ryk
+Male,17,0,1,1,1,3,3,2,0,1,12,KFUEIT
+Male,16,1,0,1,2,2,1,3,2,1,13,Oxbridge College
+Male,17,1,0,0,1,0,1,0,0,0,3,PGC Ryk
+Male,17,3,1,1,3,3,1,0,0,0,12,Oxbridge College
+Male,19,1,2,3,1,1,0,2,2,0,12,PGC Ryk
+Male,16,2,1,1,3,2,0,1,3,3,16,Oxbridge College
+Male,18,0,1,0,1,2,0,1,2,0,7,Oxbridge College
+Male,17,1,1,0,1,0,1,0,0,0,4,Oxbridge College
+Male,19,2,1,1,1,2,0,2,1,3,13,PGC Ryk
+Male,16,1,1,0,1,1,1,0,1,0,6,Oxbridge College
+Male,16,3,1,2,1,0,3,2,2,2,16,Oxbridge College
+Male,18,2,3,2,3,3,2,0,2,2,19,Oxbridge College
+Male,17,1,0,3,0,0,1,0,2,3,10,Oxbridge College
+Male,17,0,1,3,0,1,1,1,3,0,10,Oxbridge College
+Male,19,3,0,3,1,2,0,1,0,0,10,Oxbridge College
+Female,19,0,0,3,3,1,0,1,1,0,9,PGC Ryk
+Male,19,1,3,1,2,3,0,2,3,1,16,PGC Ryk
+Male,17,0,0,1,1,1,1,0,0,0,4,Oxbridge College
+Female,19,2,2,1,2,0,1,0,0,0,8,Oxbridge College
+Male,20,0,1,2,1,3,1,1,1,3,13,PGC Ryk
+Female,18,3,0,3,2,3,0,1,0,2,14,Oxbridge College
+Female,19,2,3,1,0,0,0,1,2,1,10,PGC Ryk
+Male,18,0,1,1,0,0,0,0,0,0,2,Oxbridge College
+Male,17,0,3,1,2,0,0,0,0,2,8,Oxbridge College
+Male,21,0,1,3,1,1,0,3,2,0,11,PGC Ryk
+Female,20,0,2,2,0,0,0,0,0,0,4,PGC Ryk
+Male,18,0,1,1,0,1,0,0,2,3,8,Oxbridge College
+Male,17,3,2,3,3,1,0,0,3,1,16,Oxbridge College
+Female,19,1,0,1,1,0,0,1,1,2,7,PGC Ryk
+Female,17,0,1,2,2,0,0,3,0,2,10,PGC Ryk
+Male,16,3,1,0,0,3,0,3,1,0,11,Oxbridge College
+Female,18,0,1,1,2,1,0,1,0,1,7,PGC Ryk
+Male,16,0,0,1,1,0,0,1,0,0,3,Oxbridge College
+Male,16,0,0,1,1,0,1,1,0,0,4,Oxbridge College
+Female,19,2,2,3,2,2,1,2,3,3,20,PGC Ryk
+Male,17,0,0,1,1,0,1,1,0,0,4,Oxbridge College
+Male,17,1,3,1,0,3,0,3,0,0,11,Oxbridge College
+Female,19,2,2,1,2,1,0,0,0,0,8,PGC Ryk
+Female,20,0,3,0,2,0,0,0,0,1,6,PGC Ryk
+Male,16,0,0,0,0,0,0,0,0,0,0,Oxbridge College
+Female,19,1,2,1,1,3,1,2,3,3,17,PGC Ryk
+Female,19,0,1,0,0,0,1,0,0,1,3,PGC Ryk
+Male,19,2,2,1,3,2,0,2,2,3,17,Oxbridge College
+Female,19,0,1,3,0,1,0,1,2,1,9,PGC Ryk
+Female,17,0,0,0,0,0,0,0,0,1,1,Oxbridge College
+Female,16,0,1,1,0,0,0,0,0,0,2,PGC Ryk
+Male,14,0,0,0,1,2,0,0,2,1,6,Oxbridge College
+Male,17,1,1,0,3,0,0,0,2,0,7,Oxbridge College
+Female,19,0,1,0,0,0,0,0,0,0,1,PGC Ryk
+Male,17,1,0,0,0,2,0,0,0,0,3,Oxbridge College
+Female,20,0,1,1,3,1,0,2,2,0,10,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,17,0,0,1,1,0,1,0,2,0,5,Oxbridge College
+Male,16,0,0,1,1,0,1,0,2,0,5,Oxbridge College
+Male,16,2,0,1,1,0,1,0,0,0,5,Oxbridge College
+Female,20,3,1,3,0,1,0,0,0,2,10,PGC Ryk
+Female,18,3,1,1,0,3,2,3,3,3,19,PGC Ryk
+Male,16,0,0,1,1,0,1,0,2,0,5,Oxbridge College
+Female,19,0,0,0,0,0,0,1,0,0,1,UCP RYK
+Male,15,0,0,1,0,0,0,0,0,2,3,Oxbridge College
+Female,21,2,1,1,1,2,2,1,0,1,11,PGC Ryk
+Female,19,3,3,3,0,1,0,0,3,0,13,PGC Ryk
+Female,17,0,1,0,3,0,2,1,2,0,9,Oxbridge College
+Female,18,2,1,0,0,0,0,0,0,2,5,PGC Ryk
+Female,18,2,1,1,0,2,3,0,0,2,11,PGC Ryk
+Female,20,2,2,3,0,2,0,1,0,3,13,PGC Ryk
+Female,17,0,1,1,0,1,0,0,2,1,6,Oxbridge College
+Female,15,1,0,0,0,3,0,0,0,3,7,Oxbridge College
+Female,19,0,1,0,1,1,1,1,0,1,6,PGC Ryk
+Female,16,1,0,0,0,3,1,0,2,1,8,Oxbridge College
+Female,20,2,2,2,3,2,2,3,3,2,21,PGC Ryk
+Female,16,1,1,0,1,0,2,0,3,2,10,Oxbridge College
+Female,19,2,3,0,2,0,1,0,2,2,12,PGC Ryk
+Female,16,0,0,2,2,1,2,0,0,2,9,Oxbridge College
+Female,17,0,0,0,2,1,2,0,0,2,7,Oxbridge College
+Female,19,2,0,0,0,2,0,1,0,0,5,PGC Ryk
+Female,22,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,15,2,0,0,2,0,2,0,2,0,8,Oxbridge College
+Female,19,3,0,0,0,3,0,0,0,3,9,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,15,2,3,0,0,0,0,1,0,1,7,Oxbridge College
+Female,18,0,0,0,0,0,0,0,0,1,1,PGC Ryk
+Female,17,0,0,0,0,1,0,0,0,1,2,Oxbridge College
+Female,18,2,1,0,3,3,0,0,3,3,15,PGC Ryk
+Female,18,1,0,0,0,0,1,0,0,0,2,Oxbridge College
+Female,18,1,0,1,0,0,0,0,1,1,4,Oxbridge College
+Female,18,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,17,3,1,0,1,0,1,0,0,0,6,Oxbridge College
+Female,18,1,2,3,2,3,1,2,0,1,15,PGC Ryk
+Female,17,1,2,3,2,2,1,1,0,1,13,PGC Ryk
+Female,20,1,1,0,0,0,0,0,0,0,2,PGC Ryk
+Female,19,3,2,1,0,1,0,1,1,2,11,PGC Ryk
+Female,18,1,1,0,1,2,1,0,2,0,8,PGC Ryk
+Female,18,1,3,1,0,3,1,0,2,2,13,PGC Ryk
+Female,21,0,3,3,0,2,0,2,0,2,12,PGC Ryk
+Male,16,0,1,0,1,3,1,0,2,0,8,Oxbridge College
+Female,18,0,3,1,2,1,3,0,0,3,13,PGC Ryk
+Female,17,0,0,0,0,0,0,0,0,1,1,PGC Ryk
+Male,17,0,0,1,0,0,0,0,0,1,2,Oxbridge College
+Female,21,3,2,1,0,1,3,0,1,2,13,PGC Ryk
+Female,18,0,1,1,1,3,0,0,0,1,7,PGC Ryk
+Female,19,0,2,1,1,2,0,2,2,0,10,PGC Ryk
+Female,18,2,0,0,1,0,0,0,1,3,7,PGC Ryk
+Male,17,3,3,2,0,1,0,3,3,2,17,Oxbridge College
+Female,20,1,3,1,3,2,3,2,2,2,19,PGC Ryk
+Female,18,1,0,3,3,1,3,0,0,1,12,PGC Ryk
+Male,16,2,0,1,3,2,0,0,3,1,12,Oxbridge College
+Female,19,3,1,1,1,2,1,0,1,1,11,PGC Ryk
+Female,19,0,1,0,1,3,0,0,1,2,8,PGC Ryk
+Male,18,0,2,0,3,0,1,0,0,1,7,Oxbridge College
+Female,19,3,1,1,1,0,0,1,2,1,10,PGC Ryk
+Male,17,2,0,3,0,2,0,0,0,1,8,Oxbridge College
+Female,18,0,1,0,2,1,0,0,0,0,4,PGC Ryk
+Female,19,0,1,3,0,1,0,0,2,0,7,PGC Ryk
+Female,21,0,0,0,0,0,0,0,1,0,1,PGC Ryk
+Male,16,3,1,2,3,1,1,0,2,0,13,Oxbridge College
+Female,21,0,2,1,0,1,3,0,0,2,9,PGC Ryk
+Female,21,0,2,1,2,1,0,1,1,0,8,PGC Ryk
+Male,16,2,1,0,3,0,2,1,1,2,12,Oxbridge College
+Male,19,1,0,1,1,3,0,2,2,3,13,Oxbridge College
+Male,22,2,2,3,0,1,1,1,2,1,13,PGC Ryk
+Male,21,1,2,1,3,0,2,1,2,0,12,PGC Ryk
+Female,22,3,2,1,0,1,3,2,1,2,15,GCW
+Male,24,3,1,2,0,0,0,1,2,1,10,PGC Ryk
+Female,16,0,1,0,3,3,0,0,0,0,7,Oxbridge College
+Female,20,2,1,0,1,2,1,2,1,2,12,PGC Ryk
+Male,17,2,1,0,2,0,0,1,0,0,6,Oxbridge College
+Female,19,1,0,1,2,0,1,1,0,2,8,PGC Ryk
+Male,22,0,1,1,0,3,3,0,1,0,9,PGC Ryk
+Male,16,1,2,1,0,1,1,1,0,3,10,Oxbridge College
+Male,21,0,0,2,0,2,0,1,0,0,5,PGC Ryk
+Male,17,0,0,1,2,2,1,0,0,1,7,Oxbridge College
+Male,22,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,16,0,3,0,0,3,0,0,0,0,6,Oxbridge College
+Male,17,3,3,2,0,1,0,3,3,2,17,Oxbridge College
+Male,21,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Male,18,0,1,0,2,2,1,0,0,1,7,Oxbridge College
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,17,0,1,0,1,2,1,0,0,0,5,Oxbridge College
+Male,22,1,1,1,1,1,0,0,1,1,7,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Male,19,0,0,3,0,0,1,3,0,2,9,PGC Ryk
+Male,18,0,0,0,1,1,0,1,0,1,4,Oxbridge College
+Male,21,0,0,3,0,1,0,0,1,0,5,PGC Ryk
+Male,18,0,2,1,0,0,1,0,1,0,5,Oxbridge College
+Male,21,1,0,1,1,1,0,1,0,1,6,PGC Ryk
+Male,23,2,1,0,1,2,2,1,1,1,11,PGC Ryk
+Female,19,3,2,0,0,0,0,0,0,0,5,Superior University
+Male,23,2,1,1,2,1,2,2,0,3,14,Superior University
+Male,22,1,3,1,3,3,0,2,3,0,16,Superior University
+Female,21,0,2,3,2,0,0,1,1,1,10,Superior University
+Female,17,3,0,1,1,2,0,3,1,0,11,Superior University
+Female,19,2,0,1,3,0,0,0,2,1,9,Superior University
+Female,22,1,0,0,0,0,0,0,1,2,4,Superior University
+Female,18,2,0,3,3,0,0,1,1,0,10,Superior University
+Female,20,0,1,3,2,1,0,1,1,0,9,Oxbridge College
+Female,18,2,3,0,0,1,1,0,1,0,8,Superior University
+Female,18,1,3,2,0,1,0,1,0,0,8,Superior University
+Female,18,1,1,3,2,1,0,1,0,0,9,Superior University
+Female,20,2,1,3,1,0,1,2,3,3,16,Oxbridge College
+Male,21,1,0,2,0,0,0,1,2,0,6,Superior University
+Female,17,1,0,2,2,2,0,0,0,0,7,Superior University
+Female,20,0,0,3,1,2,3,2,2,0,13,Superior University
+Female,18,0,0,0,0,1,0,0,0,0,1,Superior University
+Female,18,0,1,2,2,1,3,0,2,1,12,Superior University
+Female,17,3,0,2,2,3,0,1,2,1,14,Superior University
+Female,20,0,0,3,0,0,0,0,0,0,3,Superior University
+Male,20,0,1,1,0,1,1,1,1,0,6,Superior University
+Female,19,1,0,0,0,1,0,0,0,2,4,Superior University
+Female,18,2,2,2,2,2,2,0,2,2,16,Superior University
+Female,20,0,0,1,2,1,1,0,0,0,5,Superior University
+Female,17,2,1,1,2,2,3,3,2,1,17,Superior University
+Male,19,1,2,2,1,1,2,1,2,0,12,Superior University
+Female,19,0,0,1,0,2,0,2,0,0,5,Superior University
+Male,22,0,0,0,2,0,0,0,2,0,4,Superior University
+Female,20,0,0,1,0,1,0,1,2,0,5,Superior University
+Female,17,2,1,0,1,2,0,0,3,1,10,Superior University
+Female,20,0,0,2,1,0,0,0,0,0,3,Superior University
+Female,19,0,1,0,0,0,2,2,1,0,6,Superior University
+Female,20,0,0,2,2,0,0,0,0,0,4,Superior University
+Female,18,3,0,1,2,1,0,3,2,1,13,Superior University
+Male,21,0,3,2,1,0,0,1,3,3,13,Superior University
+Female,18,1,1,3,1,0,0,1,0,0,7,Superior University
+Female,17,2,1,3,3,2,3,1,1,3,19,Superior University
+Female,20,0,0,0,0,0,1,0,1,1,3,Superior University
+Female,18,0,1,3,3,1,1,2,2,2,15,Superior University
+Female,18,1,0,0,1,0,0,0,1,2,5,Superior University
+Male,19,1,0,1,0,1,1,1,1,2,8,Superior University
+Female,18,0,0,0,1,0,1,1,2,1,6,Superior University
+Female,20,0,1,0,3,1,0,1,3,3,12,Superior University
+Male,21,1,1,3,0,0,0,0,2,3,10,Superior University
+Male,20,2,1,0,0,3,3,2,1,3,15,Superior University
+Female,18,1,3,1,3,2,0,0,1,3,14,Superior University
+Male,21,0,0,0,0,0,0,0,0,0,0,Superior University
+Female,18,0,3,2,0,0,0,0,0,1,6,Superior University
+Female,19,1,0,0,0,1,0,0,0,1,3,Superior University
+Female,18,3,2,1,3,3,2,3,0,3,20,Superior University
+Male,22,1,0,1,0,1,0,0,1,1,5,Superior University
+Male,20,2,0,0,2,1,0,0,1,3,9,Superior University
+Male,21,1,0,3,0,0,0,0,0,0,4,Superior University
+Female,17,2,1,2,3,1,3,0,3,3,18,Superior University
+Male,21,0,0,3,0,0,0,0,0,0,3,Superior University
+Male,21,0,0,2,0,1,1,0,1,0,5,Superior University
+Male,21,0,2,1,1,0,1,3,2,0,10,Superior University
+Male,20,0,0,0,0,0,0,0,1,0,1,Superior University
+Male,19,3,2,1,1,0,0,1,2,2,12,Superior University
+Male,21,0,0,0,0,2,2,0,1,0,5,Superior University
+Female,17,1,1,0,1,0,0,1,1,0,5,KFUEIT
+Female,18,0,1,1,0,0,0,0,0,0,2,KFUEIT
+Female,21,1,1,0,1,1,1,1,1,1,8,KFUEIT
+Male,18,0,0,0,2,3,0,1,0,0,6,KFUEIT
+Female,19,1,1,0,1,2,0,0,0,0,5,KFUEIT
+Female,18,3,1,0,0,0,0,1,0,2,7,KFUEIT
+Female,18,3,1,0,1,0,0,0,0,0,5,KFUEIT
+Female,21,2,1,1,1,1,1,2,1,0,10,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,20,2,0,1,0,0,0,0,0,0,3,KFUEIT
+Male,22,1,2,1,1,3,2,2,2,0,14,KFUEIT
+Male,24,2,2,2,2,2,2,2,2,2,18,KFUEIT
+Male,22,0,2,3,3,3,3,2,1,1,18,KFUEIT
+Male,19,1,1,1,1,0,0,1,1,0,6,KFUEIT
+Female,21,1,0,3,3,0,1,0,3,1,12,KFUEIT
+Male,17,3,0,0,0,0,0,0,0,0,3,KFUEIT
+Male,20,0,1,0,3,0,1,2,3,0,10,KFUEIT
+Male,20,2,0,0,0,0,0,1,0,0,3,KFUEIT
+Male,22,3,1,0,1,1,0,2,0,1,9,KFUEIT
+Male,23,1,2,1,2,0,2,0,2,3,13,KFUEIT
+Male,22,0,0,2,3,3,3,3,0,3,17,KFUEIT
+Male,19,0,1,0,1,0,0,0,0,0,2,KFUEIT
+Male,23,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,21,3,3,2,1,1,1,1,2,2,16,KFUEIT
+Male,21,2,2,0,2,0,0,0,3,1,10,KFUEIT
+Male,22,1,0,3,2,2,0,1,1,2,12,KFUEIT
+Male,19,1,0,3,3,3,3,3,0,0,16,KFUEIT
+Male,20,3,1,0,3,2,3,2,1,1,16,KFUEIT
+Male,21,3,0,0,1,1,0,1,0,1,7,KFUEIT
+Male,21,2,3,1,1,1,1,2,1,1,13,KFUEIT
+Male,21,0,1,1,0,1,0,0,0,0,3,KFUEIT
+Male,21,2,2,1,1,1,1,3,0,0,11,KFUEIT
+Male,20,2,0,1,0,1,0,1,0,0,5,KFUEIT
+Male,22,0,0,1,0,0,0,0,0,1,2,KFUEIT
+Male,21,2,1,2,1,0,1,0,0,0,7,KFUEIT
+Female,18,1,0,0,1,0,0,1,0,0,3,KFUEIT
+Male,24,1,0,0,0,0,0,0,3,0,4,KFUEIT
+Male,24,0,1,1,0,0,1,1,2,0,6,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,24,1,0,1,0,1,0,1,1,0,5,KFUEIT
+Male,22,1,1,0,1,0,1,0,0,0,4,KFUEIT
+Male,22,2,1,1,2,0,2,3,2,1,14,KFUEIT
+Male,21,1,1,2,1,0,0,0,0,0,5,KFUEIT
+Male,20,1,0,2,2,3,1,2,3,1,15,KFUEIT
+Male,17,1,0,0,2,0,0,0,0,0,3,KFUEIT
+Male,24,1,1,0,1,1,0,1,0,0,5,KFUEIT
+Male,23,0,1,0,1,0,1,1,0,0,4,KFUEIT
+Male,18,0,3,3,3,0,3,0,0,0,12,KFUEIT
+Male,21,0,0,0,0,3,0,2,1,0,6,KFUEIT
+Male,22,1,0,3,3,2,0,0,0,0,9,KFUEIT
+Male,18,2,1,2,3,3,1,2,0,2,16,KFUEIT
+Male,19,1,1,0,1,0,0,3,2,2,10,KFUEIT
+Male,22,1,0,1,1,1,1,0,0,0,5,KFUEIT
+Male,20,1,1,0,1,0,0,1,0,0,4,KFUEIT
+Male,19,0,1,0,1,0,1,0,3,0,6,KFUEIT
+Female,20,1,2,1,3,2,3,1,1,0,14,KFUEIT
+Male,18,0,1,1,0,2,0,1,1,1,7,KFUEIT
+Female,18,2,2,0,3,3,3,1,1,0,15,KFUEIT
+Female,17,2,2,2,2,0,2,0,3,2,15,KFUEIT
+Female,19,1,2,0,3,3,3,1,1,0,14,KFUEIT
+Female,18,1,2,1,1,0,1,1,0,0,7,KFUEIT
+Male,18,1,0,0,1,0,0,1,0,0,3,KFUEIT
+Male,18,1,0,0,0,0,0,1,0,0,2,KFUEIT
+Male,19,1,3,0,3,0,2,2,1,2,14,KFUEIT
+Male,19,2,1,1,2,1,2,2,2,1,14,KFUEIT
+Male,22,0,2,0,2,0,1,2,1,0,8,KFUEIT
+Female,18,3,0,0,0,1,0,1,0,0,5,KFUEIT
+Female,19,0,1,1,1,0,3,1,1,0,8,KFUEIT
+Female,18,0,1,0,1,0,0,1,0,1,4,KFUEIT
+Female,20,0,3,2,1,3,2,0,0,0,11,KFUEIT
+Female,17,0,1,0,1,2,3,2,3,2,14,KFUEIT
+Female,20,1,1,3,2,1,2,2,2,1,15,KFUEIT
+Female,20,1,1,2,1,0,0,0,0,0,5,KFUEIT
+Male,20,0,2,1,0,3,1,0,1,2,10,KFUEIT
+Male,20,0,1,3,2,1,0,1,2,2,12,KFUEIT
+Male,20,1,1,3,3,2,1,3,1,2,17,KFUEIT
+Male,22,0,2,0,2,0,1,2,1,0,8,KFUEIT
+Male,19,0,2,0,3,1,2,0,2,3,13,KFUEIT
+Female,19,1,0,0,2,0,2,0,0,0,5,KFUEIT
+Male,19,0,1,3,0,2,1,1,2,0,10,KFUEIT
+Male,22,1,1,0,0,0,0,1,2,1,6,KFUEIT
+Female,19,0,1,1,1,3,0,0,1,1,8,KFUEIT
+Male,22,0,2,0,3,2,0,1,3,0,11,KFUEIT
+Male,20,1,1,3,1,1,1,1,1,2,12,KFUEIT
+Male,19,0,0,0,1,1,1,1,1,0,5,KFUEIT
+Female,20,3,0,3,2,3,0,0,3,3,17,UCP RYK
+Male,20,1,2,1,3,2,1,3,1,1,15,KFUEIT
+Female,18,3,3,3,3,0,1,0,2,3,18,KFUEIT
+Male,21,1,0,2,3,1,2,0,2,1,12,KFUEIT
+Female,19,0,2,2,1,1,0,0,3,0,9,KFUEIT
+Male,18,0,1,2,1,3,0,1,2,0,10,KFUEIT
+Male,18,0,1,2,3,1,3,2,0,3,15,KFUEIT
+Female,19,0,1,0,1,1,1,1,1,0,6,KFUEIT
+Female,18,0,0,0,0,3,0,0,0,0,3,KFUEIT
+Male,20,0,3,1,2,3,3,1,2,0,15,KFUEIT
+Female,18,1,0,0,1,1,0,3,0,0,6,KFUEIT
+Female,18,0,1,1,1,0,1,3,3,1,11,KFUEIT
+Female,18,0,1,2,1,0,0,1,0,0,5,KFUEIT
+Male,22,1,0,0,1,0,0,1,2,0,5,KFUEIT
+Female,23,0,1,2,1,1,3,0,1,3,12,UCP RYK
+Female,19,1,2,1,2,2,2,2,1,1,14,KFUEIT
+Female,18,0,1,1,2,0,1,0,2,3,10,KFUEIT
+Male,18,0,1,0,2,1,3,1,2,3,13,KFUEIT
+Female,18,0,1,2,1,0,0,1,0,0,5,KFUEIT
+Female,22,3,1,0,1,0,0,2,1,1,9,KFUEIT
+Male,21,0,1,0,1,1,2,1,2,0,8,KFUEIT
+Female,18,3,0,3,0,0,1,2,0,0,9,KFUEIT
+Female,20,1,3,2,1,0,1,3,0,0,11,UCP RYK
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,1,1,2,2,0,1,1,1,1,10,KFUEIT
+Female,19,0,1,2,0,1,3,1,2,1,11,KFUEIT
+Male,19,0,0,0,0,1,1,1,2,1,6,KFUEIT
+Male,17,0,0,1,1,0,1,0,0,0,3,KFUEIT
+Female,20,3,1,3,1,0,0,0,0,0,8,UCP RYK
+Male,18,0,2,1,1,2,2,1,0,0,9,KFUEIT
+Female,19,3,1,1,3,2,2,1,0,0,13,KFUEIT
+Male,22,1,2,1,2,0,0,2,2,3,13,KFUEIT
+Female,18,2,2,1,2,1,0,2,3,2,15,KFUEIT
+Male,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,0,0,0,0,1,0,0,1,2,KFUEIT
+Male,23,1,0,2,1,0,0,1,1,0,6,KFUEIT
+Female,19,2,1,2,3,2,0,0,0,0,10,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,20,2,2,2,2,2,3,3,1,0,17,KFUEIT
+Male,18,0,0,1,1,2,0,0,0,0,4,UCP RYK
+Female,20,0,2,1,0,1,2,0,1,1,8,KFUEIT
+Female,18,1,2,0,1,3,1,1,0,0,9,KFUEIT
+Female,20,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,23,1,0,1,2,3,0,2,2,1,12,KFUEIT
+Female,19,1,1,2,1,2,3,1,1,2,14,KFUEIT
+Female,18,0,0,0,0,0,0,1,0,0,1,KFUEIT
+Female,19,2,1,3,2,0,0,0,0,2,10,KFUEIT
+Male,22,1,2,2,2,2,1,0,0,0,10,KFUEIT
+Male,21,0,0,1,1,0,0,1,1,0,4,KFUEIT
+Male,21,1,3,3,0,2,0,0,1,0,10,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,18,0,0,0,0,1,1,0,1,0,3,KFUEIT
+Male,18,0,1,1,0,2,0,2,0,2,8,KFUEIT
+Female,19,0,1,0,0,0,0,0,0,1,2,KFUEIT
+Male,22,0,0,0,0,0,0,2,0,0,2,KFUEIT
+Male,24,1,1,1,1,1,1,2,1,1,10,KFUEIT
+Male,22,2,2,3,3,3,3,3,3,1,23,KFUEIT
+Female,23,1,0,1,2,3,0,1,1,1,10,KFUEIT
+Male,19,0,1,0,1,0,1,0,1,0,4,KFUEIT
+Male,23,2,1,1,3,1,3,0,2,1,14,KFUEIT
+Male,22,1,0,1,1,1,3,2,1,2,12,KFUEIT
+Female,22,0,2,3,2,1,0,2,1,0,11,KFUEIT
+Female,22,0,1,1,3,2,2,1,0,2,12,KFUEIT
+Male,20,1,0,2,1,3,0,1,1,3,12,KFUEIT
+Female,23,0,1,1,1,1,3,0,0,2,9,KFUEIT
+Female,20,3,0,0,2,0,0,2,0,0,7,KFUEIT
+Female,19,2,1,3,3,0,1,1,0,0,11,KFUEIT
+Female,18,0,0,1,0,0,1,1,1,0,4,KFUEIT
+Female,19,2,1,0,2,1,3,1,1,1,12,KFUEIT
+Male,21,0,1,2,0,1,2,0,2,1,9,KFUEIT
+Female,19,1,3,0,0,0,1,1,0,0,6,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,22,1,1,2,3,1,2,2,3,3,18,KFUEIT
+Male,21,2,0,0,0,0,0,0,0,0,2,KFUEIT
+Female,19,0,0,0,1,0,2,2,0,1,6,KFUEIT
+Male,21,0,1,2,3,2,1,0,2,0,11,KFUEIT
+Male,21,2,1,3,0,2,1,0,0,2,11,KFUEIT
+Female,17,0,1,0,0,3,0,2,1,1,8,KFUEIT
+Female,18,0,1,2,1,1,2,1,2,1,11,KFUEIT
+Female,19,0,1,2,0,1,2,0,2,3,11,KFUEIT
+Male,22,1,0,2,0,3,0,1,2,3,12,KFUEIT
+Female,19,3,3,0,1,3,0,1,2,0,13,KFUEIT
+Female,23,2,1,2,1,3,3,3,0,0,15,KFUEIT
+Male,20,3,3,3,3,1,3,3,3,3,25,KFUEIT
+Female,19,1,0,1,2,3,1,3,0,3,14,KFUEIT
+Male,21,0,1,1,2,2,2,2,0,0,10,KFUEIT
+Male,22,1,2,2,2,2,2,2,1,0,14,KFUEIT
+Female,19,3,0,1,2,0,1,2,0,3,12,KFUEIT
+Male,22,1,2,3,1,1,1,2,3,3,17,KFUEIT
+Female,22,1,2,2,1,3,3,1,2,2,17,KFUEIT
+Female,21,1,2,1,0,1,1,0,0,0,6,KFUEIT
+Female,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,0,1,1,2,1,2,2,2,0,11,KFUEIT
+Male,20,1,1,0,1,1,0,1,2,1,8,KFUEIT
+Female,22,2,1,1,2,1,1,2,1,1,12,KFUEIT
+Female,22,1,3,0,2,1,1,0,2,3,13,KFUEIT
+Male,19,0,2,1,3,0,1,2,0,1,10,KFUEIT
+Male,22,1,3,3,2,2,3,1,2,3,20,KFUEIT
+Female,19,1,1,2,3,0,0,2,0,2,11,KFUEIT
+Male,23,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,20,1,0,2,0,2,0,3,1,2,11,KFUEIT
+Female,21,1,1,2,1,3,2,2,1,1,14,KFUEIT
+Male,21,2,1,1,1,1,3,2,2,2,15,KFUEIT
+Female,18,3,0,0,0,0,2,1,1,3,10,KFUEIT
+Female,24,1,0,1,2,3,0,0,1,1,9,KFUEIT
+Female,22,2,3,3,3,2,3,3,3,2,24,KFUEIT
+Female,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,18,0,1,2,1,2,1,0,1,0,8,KFUEIT
+Female,23,0,1,1,2,2,2,1,3,2,14,KFUEIT
+Male,22,0,1,2,3,1,0,1,2,0,10,KFUEIT
+Male,21,1,2,3,2,1,3,1,3,1,17,KFUEIT
+Female,20,1,3,0,1,1,2,0,1,0,9,KFUEIT
+Female,19,0,1,1,2,2,1,1,1,2,11,KFUEIT
+Male,19,1,2,3,3,2,3,0,2,3,19,KFUEIT
+Female,18,3,2,2,1,0,0,2,1,2,13,KFUEIT
+Male,21,2,1,1,1,2,1,0,2,2,12,KFUEIT
+Female,22,3,3,3,1,3,3,3,3,3,25,KFUEIT
+Male,20,0,0,0,1,1,0,0,1,0,3,KFUEIT
+Female,21,0,3,2,1,1,2,3,2,3,17,KFUEIT
+Male,18,2,0,0,2,1,0,0,0,0,5,KFUEIT
+Male,20,0,0,0,3,0,1,0,1,2,7,KFUEIT
+Male,20,0,1,2,3,3,0,0,2,0,11,KFUEIT
+Female,21,2,3,1,2,2,0,1,2,2,15,KFUEIT
+Male,23,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,22,0,0,0,0,0,1,1,1,1,4,KFUEIT
+Male,21,0,3,1,2,3,2,1,1,2,15,KFUEIT
+Male,19,1,0,2,3,3,2,1,1,0,13,KFUEIT
+Female,20,2,0,1,1,1,2,3,0,0,10,KFUEIT
+Female,20,0,1,2,3,2,1,0,0,1,10,KFUEIT
+Female,23,1,3,3,3,3,0,1,2,2,18,KFUEIT
+Male,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,21,1,2,0,2,3,0,1,0,2,11,KFUEIT
+Male,20,3,3,1,2,0,0,0,1,1,11,KFUEIT
+Male,18,1,0,2,0,2,0,3,2,1,11,KFUEIT
+Male,23,1,0,2,1,3,0,1,3,1,12,KFUEIT
+Female,20,2,0,1,1,0,1,1,0,1,7,KFUEIT
+Male,20,0,0,1,1,0,1,0,1,2,6,KFUEIT
+Female,23,2,1,2,1,2,2,3,0,0,13,KFUEIT
+Female,22,1,1,2,1,3,3,1,0,0,12,KFUEIT
+Male,19,3,1,0,0,1,3,3,2,3,16,KFUEIT
+Male,21,3,1,2,1,1,1,3,1,0,13,KFUEIT
+Male,23,0,0,0,0,0,0,0,1,1,2,KFUEIT
+Male,23,0,3,0,1,0,3,2,2,2,13,KFUEIT
+Male,21,2,2,1,1,2,2,1,2,3,16,KFUEIT
+Female,17,0,0,0,1,1,2,1,2,1,8,KFUEIT
+Female,20,1,0,0,1,2,0,1,2,2,9,KFUEIT
+Female,17,2,1,2,0,0,1,2,1,0,9,KFUEIT
+Female,21,0,3,3,2,3,3,2,1,3,20,KFUEIT
+Male,20,1,1,1,2,2,1,2,1,1,12,KFUEIT
+Male,23,0,1,2,1,0,2,3,0,1,10,KFUEIT
+Female,20,0,0,0,1,1,1,0,1,0,4,KFUEIT
+Female,20,1,2,2,3,3,1,2,0,0,14,KFUEIT
+Female,18,1,0,2,3,3,2,1,0,1,13,KFUEIT
+Male,22,0,1,2,3,3,2,0,0,3,14,KFUEIT
+Female,23,0,1,1,2,0,0,1,0,1,6,PGC Ryk
+Female,22,2,1,0,1,2,0,0,0,0,6,KFUEIT
+Female,21,1,2,0,1,3,1,0,2,2,12,KFUEIT
+Male,19,0,1,2,3,2,1,0,0,0,9,KFUEIT
+Female,20,0,3,3,1,3,1,1,2,1,15,KFUEIT
+Female,20,1,2,2,3,0,1,1,2,0,12,KFUEIT
+Female,21,1,0,1,2,1,0,0,0,0,5,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,21,0,3,2,2,2,2,1,0,1,13,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,24,0,1,2,3,0,2,0,3,0,11,KFUEIT
+Male,23,1,0,3,2,3,1,3,0,0,13,KFUEIT
+Female,21,0,1,3,0,1,2,0,1,3,11,KFUEIT
+Male,21,1,0,1,1,1,1,1,1,1,8,KFUEIT
+Female,18,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,20,2,0,3,3,1,0,1,0,0,10,KFUEIT
+Female,24,2,2,3,0,1,1,2,2,2,15,KFUEIT
+Female,22,1,1,1,1,2,1,2,2,2,13,KFUEIT
+Female,21,1,0,3,1,0,2,0,1,2,10,KFUEIT
+Male,17,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,23,0,1,1,1,1,1,0,0,0,5,KFUEIT
+Female,19,1,2,3,2,2,1,2,2,0,15,KFUEIT
+Female,22,0,0,1,2,1,0,2,1,2,9,KFUEIT
+Female,23,0,0,0,0,0,1,0,1,1,3,KFUEIT
+Male,19,2,1,3,2,0,1,2,0,1,12,KFUEIT
+Male,23,0,0,0,0,0,1,1,1,1,4,KFUEIT
+Male,21,2,1,0,2,1,3,2,2,3,16,KFUEIT
+Male,19,0,1,2,1,1,0,2,0,2,9,KFUEIT
+Male,21,1,0,2,0,1,0,3,0,1,8,KFUEIT
+Female,18,0,1,1,2,2,0,2,0,2,10,KFUEIT
+Female,18,1,1,2,0,1,2,3,0,2,12,KFUEIT
+Female,17,1,2,0,2,2,2,2,2,2,15,KFUEIT
+Female,19,2,0,1,1,3,0,1,1,0,9,KFUEIT
+Female,19,1,1,2,2,2,2,1,1,2,14,KFUEIT
+Male,18,2,2,2,3,2,1,1,2,3,18,KFUEIT
+Female,20,3,3,0,1,0,0,1,1,0,9,KFUEIT
+Male,20,1,0,2,1,0,2,1,1,2,10,KFUEIT
+Male,24,1,0,1,0,0,0,0,0,1,3,KFUEIT
+Male,19,3,2,2,3,2,3,3,2,0,20,KFUEIT
+Female,19,1,2,1,2,1,1,1,1,3,13,KFUEIT
+Female,20,1,0,0,0,0,1,0,0,0,2,KFUEIT
+Female,20,1,0,2,2,3,1,0,1,2,12,KFUEIT
+Female,19,1,0,2,0,1,2,0,2,0,8,KFUEIT
+Female,22,1,1,1,3,3,1,2,1,2,15,KFUEIT
+Male,20,2,1,2,2,2,0,3,2,0,14,KFUEIT
+Male,18,3,2,0,2,3,1,0,1,1,13,KFUEIT
+Male,20,1,1,3,0,2,0,0,1,0,8,KFUEIT
+Male,21,2,2,2,1,2,3,2,1,2,17,KFUEIT
+Female,18,3,3,3,3,0,3,3,3,3,24,KFUEIT
+Male,19,2,2,3,2,1,1,2,0,2,15,KFUEIT
+Female,21,1,2,3,3,3,1,3,1,0,17,KFUEIT
+Female,21,0,0,0,0,0,1,1,1,1,4,KFUEIT
+Male,22,2,3,1,1,2,2,1,2,2,16,KFUEIT
+Male,20,0,1,2,1,2,2,2,0,2,12,KFUEIT
+Female,19,1,0,2,1,3,1,3,2,1,14,KFUEIT
+Female,20,2,3,3,3,3,2,3,3,3,25,KFUEIT
+Female,20,2,1,3,2,1,0,3,1,2,15,KFUEIT
+Female,21,3,0,1,1,0,2,1,1,0,9,KFUEIT
+Female,21,0,2,2,2,3,2,0,3,2,16,KFUEIT
+Female,19,2,3,3,3,0,3,3,2,2,21,KFUEIT
+Female,20,1,0,1,2,0,0,1,0,2,7,KFUEIT
+Female,21,1,1,1,2,1,1,2,1,2,12,KFUEIT
+Male,22,0,0,0,0,0,1,1,1,0,3,KFUEIT
+Male,20,1,0,2,2,0,1,0,2,0,8,KFUEIT
+Female,23,0,3,1,1,2,1,2,2,2,14,KFUEIT
+Male,22,3,0,1,1,2,0,2,1,0,10,KFUEIT
+Male,22,2,0,0,2,0,0,1,0,0,5,KFUEIT
+Male,21,1,0,0,0,0,0,0,1,1,3,KFUEIT
+Female,23,0,0,1,1,1,1,1,1,1,7,KFUEIT
+Male,24,3,3,2,2,2,2,2,2,2,20,KFUEIT
+Male,19,1,1,2,1,3,3,2,2,1,16,KFUEIT
+Female,21,1,0,2,1,0,1,0,2,0,7,KFUEIT
+Female,21,0,0,0,0,0,0,1,0,1,2,KFUEIT
+Male,22,2,2,2,1,1,1,1,0,1,11,KFUEIT
+Female,20,3,0,3,1,3,2,3,1,3,19,KFUEIT
+Male,22,0,0,1,1,0,0,0,0,1,3,KFUEIT
+Female,23,0,0,0,2,2,2,2,2,2,12,KFUEIT
+Female,17,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Male,22,2,0,1,2,0,0,1,0,0,6,KFUEIT
+Male,19,0,0,1,1,0,1,0,2,2,7,KFUEIT
+Male,23,2,0,1,0,0,1,0,0,1,5,KFUEIT
+Female,23,0,1,0,1,0,1,0,1,3,7,KFUEIT
+Female,20,3,2,0,3,2,2,2,1,2,17,KFUEIT
+Female,21,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,19,0,2,0,2,1,0,1,0,1,7,KFUEIT
+Male,24,0,1,0,1,0,1,0,1,0,4,KFUEIT
+Male,21,0,0,0,0,0,1,1,1,1,4,KFUEIT
+Female,21,3,1,3,2,3,1,2,3,3,21,KFUEIT
+Male,20,0,0,2,0,0,2,0,0,2,6,KFUEIT
+Female,19,1,1,2,2,0,0,0,0,0,6,KFUEIT
+Female,22,1,1,0,2,0,1,2,0,2,9,KFUEIT
+Male,22,3,1,2,0,0,0,3,1,1,11,KFUEIT
+Female,17,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,22,1,0,0,1,1,0,1,0,0,4,KFUEIT
+Male,22,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,2,1,1,1,1,1,0,0,0,7,KFUEIT
+Female,19,1,1,2,2,1,1,1,1,0,10,KFUEIT
+Female,19,1,3,2,1,1,3,1,0,3,15,Oxbridge College
+Female,19,1,3,3,3,0,1,1,0,1,13,KFUEIT
+Male,19,2,1,1,2,0,1,1,0,1,9,KFUEIT
+Female,17,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Female,19,1,0,0,0,1,0,0,0,0,2,KFUEIT
+Male,18,1,0,3,2,1,2,2,3,2,16,Oxbridge College
+Male,19,0,0,0,0,0,0,0,1,0,1,KFUEIT
+Male,18,3,0,2,0,2,3,3,3,2,18,Oxbridge College
+Male,19,0,0,0,0,1,0,0,0,0,1,KFUEIT
+Male,19,2,0,0,1,1,0,1,2,0,7,PGC Ryk
+Female,18,1,1,1,1,3,0,0,2,3,12,PGC Ryk
+Male,18,3,2,2,1,2,2,3,3,2,20,Oxbridge College
+Female,18,1,1,0,2,1,0,2,3,2,12,KFUEIT
+Female,19,2,1,1,1,1,1,1,1,2,11,KFUEIT
+Female,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,1,1,3,0,2,0,1,0,3,11,KFUEIT
+Female,18,1,1,1,1,1,1,1,0,1,8,PGC Ryk
+Male,18,1,0,2,2,2,0,3,3,2,15,Oxbridge College
+Female,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,1,0,3,0,1,1,2,2,1,11,UCP RYK
+Female,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,19,0,1,1,2,1,1,1,0,0,7,KFUEIT
+Male,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,0,1,0,1,0,1,3,1,2,9,UCP RYK
+Male,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,18,0,1,2,1,1,0,1,0,0,6,KFUEIT
+Male,19,0,0,0,0,0,0,0,0,0,0,KFUEIT
+Male,18,3,0,2,3,2,0,2,3,3,18,KFUEIT
+Female,19,2,1,2,2,3,1,1,2,0,14,KFUEIT
+Female,17,1,3,1,3,3,2,1,3,2,19,KFUEIT
+Male,18,0,3,2,1,3,2,3,3,1,18,KFUEIT
+Male,19,1,3,0,1,2,2,3,1,2,15,Superior University
+Female,20,0,2,0,1,1,0,2,0,2,8,GCW
+Female,19,1,1,1,1,1,1,1,1,1,9,KFUEIT
+Female,19,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Male,19,3,1,2,1,2,0,0,0,0,9,PGC Ryk
+Female,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,21,2,3,2,3,2,3,2,2,3,22,Oxbridge College
+Female,19,2,0,3,2,1,0,1,3,1,13,PGC Ryk
+Male,19,3,1,0,2,0,0,0,1,0,7,PGC Ryk
+Female,16,1,0,0,0,3,1,1,0,0,6,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,18,1,0,2,3,1,0,2,0,0,9,PGC Ryk
+Female,17,2,0,3,2,1,0,1,3,1,13,PGC Ryk
+Male,18,1,0,1,1,0,1,0,0,0,4,PGC Ryk
+Male,18,0,1,0,2,0,1,2,1,0,7,PGC Ryk
+Female,21,0,0,0,1,0,0,3,1,0,5,PGC Ryk
+Female,20,2,3,3,2,1,3,1,3,1,19,PGC Ryk
+Female,17,1,0,1,0,0,3,3,1,2,11,PGC Ryk
+Female,16,1,1,0,0,0,1,0,1,0,4,PGC Ryk
+Female,19,0,0,0,1,0,0,0,1,0,2,PGC Ryk
+Female,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,18,2,1,2,0,1,0,0,0,0,6,PGC Ryk
+Female,22,1,1,0,0,0,1,0,0,1,4,PGC Ryk
+Male,19,0,3,2,3,1,2,2,0,1,14,PGC Ryk
+Female,19,1,1,2,0,0,1,1,1,1,8,PGC Ryk
+Male,21,0,1,1,2,1,1,0,1,2,9,PGC Ryk
+Female,17,1,1,0,0,0,1,0,1,0,4,PGC Ryk
+Female,23,0,0,0,0,0,0,1,1,0,2,PGC Ryk
+Female,19,0,0,2,0,1,0,0,0,0,3,UCP RYK
+Female,19,0,1,0,1,0,0,1,0,1,4,PGC Ryk
+Female,17,0,0,0,0,3,3,1,1,3,11,PGC Ryk
+Female,18,3,0,1,0,0,1,2,3,0,10,PGC Ryk
+Female,19,1,0,0,0,1,0,1,2,1,6,PGC Ryk
+Female,19,1,2,3,2,3,1,3,2,2,19,PGC Ryk
+Female,18,2,1,2,0,1,0,0,0,0,6,PGC Ryk
+Female,18,0,1,0,0,1,1,1,1,1,6,PGC Ryk
+Female,20,1,3,3,0,1,1,2,0,2,13,PGC Ryk
+Female,16,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,18,1,2,3,3,1,0,2,0,1,13,PGC Ryk
+Female,18,1,2,1,0,1,2,0,0,0,7,PGC Ryk
+Female,20,1,1,3,3,2,0,2,1,2,15,PGC Ryk
+Male,18,0,0,2,0,0,0,1,0,0,3,PGC Ryk
+Male,18,0,1,1,1,0,1,3,2,1,10,PGC Ryk
+Female,18,0,0,1,0,3,2,2,0,0,8,PGC Ryk
+Male,23,2,2,1,0,1,1,2,0,2,11,PGC Ryk
+Female,18,2,1,0,0,1,1,0,0,0,5,PGC Ryk
+Female,20,1,0,1,1,0,0,0,0,1,4,PGC Ryk
+Female,20,1,1,3,1,2,0,2,1,2,13,PGC Ryk
+Female,20,0,0,0,0,0,0,0,1,0,1,PGC Ryk
+Female,17,2,0,0,0,0,0,1,2,2,7,PGC Ryk
+Female,18,1,1,0,2,1,0,1,0,0,6,PGC Ryk
+Male,23,1,1,3,0,1,3,2,0,2,13,PGC Ryk
+Male,17,1,3,3,2,1,0,1,1,2,14,PGC Ryk
+Female,18,1,2,2,0,0,1,2,0,1,9,PGC Ryk
+Female,22,0,3,3,3,2,3,2,1,3,20,PGC Ryk
+Female,17,1,1,0,0,0,0,0,1,0,3,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Female,17,1,0,1,1,3,3,1,1,0,11,PGC Ryk
+Male,21,0,2,2,3,3,2,0,0,3,15,PGC Ryk
+Female,22,1,1,0,2,2,3,2,0,0,11,PGC Ryk
+Male,19,0,1,0,0,0,1,0,0,1,3,PGC Ryk
+Female,20,1,3,3,0,1,1,2,0,2,13,PGC Ryk
+Male,22,0,0,0,0,0,1,0,3,2,6,PGC Ryk
+Female,16,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,21,1,2,1,3,2,2,0,1,0,12,PGC Ryk
+Female,20,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,1,1,PGC Ryk
+Female,20,0,0,1,0,0,0,0,1,1,3,PGC Ryk
+Male,21,0,0,1,0,0,1,1,0,1,4,PGC Ryk
+Female,19,1,0,1,0,0,1,0,0,0,3,PGC Ryk
+Male,23,2,2,1,2,2,0,1,1,3,14,PGC Ryk
+Female,18,0,0,2,0,0,0,0,1,1,4,PGC Ryk
+Female,18,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Female,17,2,0,2,1,0,1,3,2,3,14,PGC Ryk
+Male,21,2,2,3,2,1,0,2,0,3,15,SZPS
+Female,20,1,3,1,2,0,1,0,1,0,9,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,18,3,1,2,2,1,0,2,0,0,11,PGC Ryk
+Male,19,2,2,1,0,3,0,0,1,1,10,PGC Ryk
+Female,19,1,1,2,2,2,2,1,1,2,14,PGC Ryk
+Male,20,0,2,2,3,1,0,0,0,2,10,PGC Ryk
+Female,19,3,2,2,3,2,2,2,1,3,20,PGC Ryk
+Female,18,1,0,1,1,1,1,1,0,1,7,PGC Ryk
+Male,20,0,3,1,0,2,2,3,1,0,12,PGC Ryk
+Female,20,0,0,0,0,1,0,3,3,0,7,PGC Ryk
+Female,18,2,2,2,2,2,0,2,2,2,16,PGC Ryk
+Female,19,0,0,1,1,1,0,1,0,1,5,PGC Ryk
+Female,19,0,0,2,0,1,0,0,0,0,3,UCP RYK
+Female,23,1,1,1,0,0,0,1,2,1,7,PGC Ryk
+Female,18,1,0,1,1,1,0,1,0,0,5,PGC Ryk
+Female,18,1,0,3,3,1,3,2,0,0,13,PGC Ryk
+Male,21,2,0,2,3,3,0,1,0,0,11,PGC Ryk
+Female,18,3,1,3,2,2,0,3,0,2,16,PGC Ryk
+Female,20,0,2,0,0,0,0,1,1,1,5,PGC Ryk
+Female,16,1,1,0,1,1,0,1,0,0,5,PGC Ryk
+Male,19,0,1,2,1,2,1,2,3,0,12,PGC Ryk
+Female,20,1,0,1,0,3,0,2,1,3,11,PGC Ryk
+Female,18,0,0,0,1,0,1,0,1,0,3,PGC Ryk
+Female,17,1,3,2,2,2,2,1,2,2,17,PGC Ryk
+Male,21,1,1,0,1,1,1,1,2,3,11,PGC Ryk
+Female,16,0,0,0,1,0,0,0,0,1,2,PGC Ryk
+Female,18,1,0,1,0,1,1,0,0,1,5,PGC Ryk
+Female,20,1,0,2,2,0,0,2,2,3,12,PGC Ryk
+Female,19,0,2,0,1,0,0,0,1,1,5,PGC Ryk
+Female,22,0,0,0,3,3,3,0,1,1,11,PGC Ryk
+Female,16,1,2,1,3,3,3,2,2,0,17,PGC Ryk
+Female,18,1,1,3,0,1,0,2,0,0,8,PGC Ryk
+Female,18,2,3,0,1,1,0,3,2,1,13,PGC Ryk
+Female,22,0,0,2,0,1,0,0,0,3,6,PGC Ryk
+Female,21,1,0,0,0,0,0,0,1,0,2,PGC Ryk
+Female,20,0,1,2,1,0,2,1,0,1,8,PGC Ryk
+Male,20,1,0,3,1,0,2,1,2,0,10,PGC Ryk
+Female,14,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,21,1,3,3,2,1,1,2,0,3,16,PGC Ryk
+Male,23,0,0,1,3,1,3,2,0,1,11,PGC Ryk
+Female,20,1,0,3,0,0,2,2,1,2,11,PGC Ryk
+Male,22,3,3,3,0,3,2,3,3,1,21,PGC Ryk
+Female,24,2,0,2,0,2,0,3,2,2,13,PGC Ryk
+Female,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,20,1,2,1,1,1,2,1,2,1,12,PGC Ryk
+Female,17,1,0,3,1,1,0,2,0,2,10,PGC Ryk
+Male,20,0,1,1,1,0,1,1,0,1,6,PGC Ryk
+Male,19,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Female,22,3,2,3,3,3,2,3,0,3,22,PGC Ryk
+Male,17,2,2,2,3,2,3,1,1,0,16,PGC Ryk
+Female,20,0,0,3,0,1,0,2,3,3,12,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,19,1,0,1,0,1,1,0,0,0,4,PGC Ryk
+Male,19,0,0,2,1,0,0,1,0,0,4,PGC Ryk
+Male,21,2,1,1,3,1,2,2,1,1,14,PGC Ryk
+Female,18,2,0,2,1,0,3,3,2,1,14,PGC Ryk
+Male,19,0,0,2,0,1,0,3,2,1,9,PGC Ryk
+Female,19,1,1,3,0,1,0,1,0,0,7,PGC Ryk
+Female,17,2,0,2,0,2,1,2,1,1,11,PGC Ryk
+Female,19,1,0,1,0,1,0,0,0,0,3,PGC Ryk
+Female,20,2,0,0,0,0,0,0,0,0,2,PGC Ryk
+Male,20,2,3,1,3,3,1,0,2,0,15,PGC Ryk
+Male,20,0,1,0,1,1,1,1,1,0,6,Superior University
+Female,18,0,0,1,0,0,0,0,0,0,1,PGC Ryk
+Female,19,0,2,0,0,3,0,0,0,0,5,PGC Ryk
+Male,22,2,3,3,3,1,0,2,0,0,14,PGC Ryk
+Female,19,0,0,1,1,0,1,0,0,0,3,PGC Ryk
+Female,17,3,3,1,3,1,1,2,3,2,19,PGC Ryk
+Female,17,0,0,2,1,1,0,1,0,3,8,PGC Ryk
+Male,16,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Female,18,1,0,3,0,2,0,0,1,1,8,PGC Ryk
+Female,19,3,2,0,3,1,2,2,0,1,14,PGC Ryk
+Male,19,2,0,0,2,0,1,1,0,3,9,PGC Ryk
+Male,22,2,2,2,1,0,2,2,1,1,13,PGC Ryk
+Female,21,1,0,1,1,1,1,0,0,1,6,PGC Ryk
+Female,17,2,0,1,0,2,2,1,3,0,11,PGC Ryk
+Male,21,1,0,1,1,1,1,2,3,3,13,PGC Ryk
+Female,18,3,2,2,2,1,1,0,3,2,16,PGC Ryk
+Male,20,0,0,1,1,0,0,0,0,1,3,PGC Ryk
+Male,23,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Male,23,2,2,2,3,0,1,1,2,0,13,PGC Ryk
+Female,23,1,0,1,1,1,0,0,0,0,4,PGC Ryk
+Male,21,0,0,0,0,0,0,1,0,0,1,PGC Ryk
+Female,22,1,0,0,0,0,1,0,0,1,3,PGC Ryk
+Female,17,0,0,2,1,1,0,1,0,3,8,PGC Ryk
+Female,18,0,2,3,1,1,2,3,2,0,14,PGC Ryk
+Male,23,0,2,0,0,1,1,2,0,1,7,Superior University
+Male,19,3,3,0,0,1,0,0,1,1,9,PGC Ryk
+Female,20,2,0,1,0,1,0,3,0,1,8,PGC Ryk
+Female,17,2,1,1,2,1,0,1,0,0,8,PGC Ryk
+Female,18,2,0,1,2,0,0,1,0,1,7,PGC Ryk
+Female,18,1,1,0,1,0,1,0,1,2,7,PGC Ryk
+Female,19,0,0,0,0,0,0,0,3,0,3,PGC Ryk
+Female,21,0,2,1,2,0,0,1,3,1,10,PGC Ryk
+Female,23,0,1,1,0,2,3,2,1,0,10,GCW
+Female,20,1,0,3,0,3,0,1,2,0,10,PGC Ryk
+Male,21,1,0,3,0,1,0,3,2,3,13,PGC Ryk
+Female,19,0,1,2,3,2,3,1,1,1,14,PGC Ryk
+Female,18,1,1,2,1,0,1,0,0,0,6,PGC Ryk
+Female,20,1,3,1,0,0,0,1,3,1,10,PGC Ryk
+Female,18,1,1,2,2,1,2,3,0,2,14,PGC Ryk
+Male,22,1,2,1,1,1,1,1,1,1,10,PGC Ryk
+Male,24,0,2,0,3,0,3,1,2,1,12,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,22,1,2,1,1,0,0,1,0,1,7,PGC Ryk
+Female,19,1,1,2,1,1,0,2,0,0,8,PGC Ryk
+Female,21,1,0,3,0,1,3,2,0,2,12,PGC Ryk
+Female,18,3,0,0,3,3,0,0,1,2,12,PGC Ryk
+Female,20,1,2,2,0,0,0,1,3,2,11,PGC Ryk
+Female,21,1,3,2,0,0,3,0,2,0,11,PGC Ryk
+Female,17,2,2,1,3,0,1,2,0,0,11,PGC Ryk
+Male,20,0,0,0,1,0,0,0,0,1,2,PGC Ryk
+Male,19,1,1,1,0,3,1,1,0,2,10,PGC Ryk
+Female,21,1,3,2,0,0,0,0,2,1,9,PGC Ryk
+Female,20,1,0,0,0,1,0,0,0,0,2,PGC Ryk
+Male,17,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,22,1,2,2,1,1,1,1,1,2,12,PGC Ryk
+Female,19,1,3,0,1,0,0,0,0,1,6,PGC Ryk
+Male,21,3,2,0,2,2,1,1,0,2,13,PGC Ryk
+Female,21,3,1,1,3,2,1,1,1,3,16,PGC Ryk
+Male,21,1,0,2,1,2,1,2,1,1,11,PGC Ryk
+Male,19,1,1,2,3,1,2,2,0,2,14,PGC Ryk
+Female,18,0,0,0,1,3,0,0,2,0,6,PGC Ryk
+Male,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,18,3,3,3,0,1,1,2,0,2,15,PGC Ryk
+Male,19,0,0,0,0,0,1,0,0,0,1,PGC Ryk
+Female,24,0,1,1,0,3,0,0,0,0,5,PGC Ryk
+Female,19,0,0,1,3,2,0,2,1,0,9,PGC Ryk
+Male,23,2,2,2,3,1,1,3,2,3,19,PGC Ryk
+Female,18,3,1,2,3,1,1,2,0,0,13,PGC Ryk
+Female,18,0,0,1,0,1,0,1,0,1,4,PGC Ryk
+Female,19,0,0,0,0,2,0,3,1,0,6,PGC Ryk
+Female,16,1,1,0,0,0,0,0,0,0,2,PGC Ryk
+Female,21,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,24,0,1,0,3,1,3,2,0,2,12,PGC Ryk
+Female,18,3,2,0,3,2,3,3,1,3,20,PGC Ryk
+Female,19,1,0,3,0,1,3,2,0,2,12,PGC Ryk
+Male,21,0,3,2,2,2,0,1,1,1,12,PGC Ryk
+Male,21,3,2,0,0,1,1,0,2,1,10,PGC Ryk
+Female,20,0,0,0,0,0,0,0,1,0,1,PGC Ryk
+Female,19,0,0,0,0,2,1,1,0,1,5,PGC Ryk
+Female,16,0,0,0,3,0,0,0,1,0,4,PGC Ryk
+Female,22,1,2,1,1,0,1,3,2,1,12,PGC Ryk
+Female,19,0,0,0,1,0,0,0,0,0,1,PGC Ryk
+Female,17,3,3,3,3,1,0,2,2,1,18,PGC Ryk
+Male,22,3,3,2,2,3,2,3,1,1,20,PGC Ryk
+Female,16,3,3,1,0,2,3,2,1,0,15,PGC Ryk
+Female,22,0,2,1,0,0,3,2,0,3,11,PGC Ryk
+Female,18,3,2,3,2,3,0,1,3,0,17,PGC Ryk
+Female,20,2,0,2,0,2,3,0,1,2,12,PGC Ryk
+Male,17,1,1,1,1,1,1,1,1,1,9,PGC Ryk
+Female,23,3,2,0,1,1,1,2,0,0,10,PGC Ryk
+Male,19,1,1,2,1,1,0,1,0,0,7,PGC Ryk
+Male,19,1,0,1,1,1,0,1,1,0,6,PGC Ryk
+Female,23,0,0,0,0,0,1,1,0,0,2,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,23,2,1,0,1,1,2,3,1,2,13,PGC Ryk
+Female,19,1,1,2,2,2,2,1,1,2,14,PGC Ryk
+Female,19,1,1,0,0,0,0,1,3,1,7,PGC Ryk
+Male,23,2,0,0,0,0,2,0,0,2,6,PGC Ryk
+Female,14,1,0,3,0,1,3,2,0,2,12,PGC Ryk
+Female,19,0,0,0,0,2,0,0,1,0,3,PGC Ryk
+Female,23,0,0,0,0,1,0,0,0,0,1,PGC Ryk
+Female,20,1,0,3,1,1,1,0,2,2,11,PGC Ryk
+Male,20,1,3,0,3,1,1,1,0,2,12,PGC Ryk
+Female,20,1,1,1,2,1,2,2,0,2,12,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Male,19,1,2,3,0,1,3,2,0,2,14,PGC Ryk
+Female,21,1,3,3,0,0,1,3,2,2,15,PGC Ryk
+Female,19,0,1,3,0,0,1,1,0,2,8,PGC Ryk
+Male,23,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,20,0,2,2,0,1,1,3,0,3,12,PGC Ryk
+Male,20,2,2,2,1,2,2,1,1,1,14,PGC Ryk
+Female,20,2,1,0,1,2,3,3,2,0,14,PGC Ryk
+Male,15,1,0,3,0,1,3,2,0,2,12,PGC Ryk
+Female,17,2,2,1,0,0,2,2,3,3,15,PGC Ryk
+Male,21,1,1,1,1,0,2,2,0,1,9,PGC Ryk
+Female,18,1,1,2,3,3,2,3,0,1,16,PGC Ryk
+Female,18,1,3,0,0,1,0,0,2,1,8,PGC Ryk
+Female,21,0,1,1,1,1,1,1,0,1,7,PGC Ryk
+Male,19,2,0,3,3,1,1,0,1,3,14,PGC Ryk
+Female,19,0,0,0,1,0,0,0,0,0,1,PGC Ryk
+Female,20,1,1,1,1,2,0,1,0,0,7,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,21,1,3,0,3,1,0,3,1,1,13,PGC Ryk
+Female,21,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,16,3,0,1,2,3,0,1,2,1,13,PGC Ryk
+Female,18,1,0,0,1,0,1,0,1,2,6,PGC Ryk
+Female,19,1,1,2,0,1,2,0,0,1,8,PGC Ryk
+Female,20,1,3,1,0,3,2,3,2,2,17,PGC Ryk
+Female,19,0,2,0,2,0,1,1,1,1,8,PGC Ryk
+Female,18,0,1,2,2,2,0,3,1,3,14,PGC Ryk
+Male,24,0,0,1,1,0,0,0,0,0,2,PGC Ryk
+Female,20,0,0,1,0,0,0,0,1,1,3,UCP RYK
+Female,19,0,1,1,3,0,2,2,2,3,14,PGC Ryk
+Male,21,3,1,3,2,0,0,0,1,0,10,PGC Ryk
+Male,20,1,1,2,1,2,0,1,0,0,8,PGC Ryk
+Female,19,2,2,2,1,1,1,1,0,3,13,PGC Ryk
+Male,19,0,0,0,0,0,0,0,0,0,0,UCP RYK
+Female,16,0,3,3,0,1,1,0,2,0,10,PGC Ryk
+Female,20,1,1,1,3,1,1,0,1,1,10,GCW
+Male,21,0,0,0,0,0,1,0,2,2,5,PGC Ryk
+Male,21,0,0,0,0,0,1,0,2,2,5,PGC Ryk
+Female,19,1,2,0,0,2,1,3,1,3,13,PGC Ryk
+Male,14,1,0,3,0,1,3,2,0,2,12,PGC Ryk
+Male,19,1,1,2,1,3,1,2,2,0,13,KFUEIT
+Female,18,1,1,0,3,2,0,0,3,0,10,PGC Ryk
+Male,19,0,2,2,3,1,1,1,2,1,13,PGC Ryk
+Female,18,1,3,0,2,1,0,0,1,1,9,PGC Ryk
+Male,18,1,3,1,3,1,2,3,2,0,16,KFUEIT
+Female,19,3,2,1,3,3,1,0,3,0,16,PGC Ryk
+Male,20,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,19,0,1,0,1,1,1,1,1,1,7,PGC Ryk
+Male,20,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,18,1,1,1,1,2,0,1,0,0,7,PGC Ryk
+Male,23,1,1,3,1,1,0,0,1,1,9,PGC Ryk
+Female,21,3,2,1,2,2,1,3,0,0,14,PGC Ryk
+Female,21,2,1,2,2,1,2,1,2,2,15,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,20,1,0,1,2,2,0,3,0,3,12,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,18,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Female,19,1,3,0,1,3,3,0,1,1,13,PGC Ryk
+Female,22,0,0,0,0,0,0,0,1,0,1,PGC Ryk
+Female,20,0,1,3,1,2,1,3,3,2,16,PGC Ryk
+Female,21,0,0,2,0,0,0,1,1,0,4,PGC Ryk
+Female,19,0,0,1,0,0,0,1,0,0,2,PGC Ryk
+Female,17,3,2,0,1,2,1,0,0,2,11,PGC Ryk
+Male,20,2,1,0,1,3,1,1,0,2,11,KFUEIT
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Male,19,0,0,0,1,0,1,1,2,1,6,PGC Ryk
+Female,21,0,0,0,0,1,0,0,2,0,3,PGC Ryk
+Female,20,0,2,0,1,1,0,2,0,2,8,PGC Ryk
+Female,20,1,3,0,2,2,2,1,1,1,13,PGC Ryk
+Female,19,3,0,0,1,0,3,1,1,0,9,KFUEIT
+Female,20,1,0,0,2,0,3,0,3,0,9,PGC Ryk
+Female,17,3,1,2,2,2,0,3,3,1,17,PGC Ryk
+Female,21,2,3,0,0,1,2,1,0,1,10,PGC Ryk
+Male,22,3,3,3,3,3,3,3,3,3,27,PGC Ryk
+Female,19,1,2,3,3,2,0,1,1,3,16,PGC Ryk
+Female,18,2,2,1,1,2,0,2,3,2,15,PGC Ryk
+Male,21,0,0,1,0,0,0,0,3,1,5,PGC Ryk
+Female,18,0,1,1,1,0,2,2,2,3,12,PGC Ryk
+Female,18,0,2,0,2,1,3,2,0,1,11,PGC Ryk
+Male,21,0,2,2,0,2,2,0,2,3,13,PGC Ryk
+Male,21,3,1,0,2,0,1,1,3,0,11,KFUEIT
+Male,18,0,1,2,3,0,1,1,1,1,10,KFUEIT
+Male,23,0,2,2,2,2,2,0,2,1,13,PGC Ryk
+Female,24,3,1,2,3,0,0,1,1,2,13,PGC Ryk
+Female,20,0,0,0,0,0,0,0,0,0,0,PGC Ryk
+Male,23,1,2,0,3,1,1,2,2,2,14,PGC Ryk
+Male,18,0,0,1,1,1,1,0,0,0,4,KFUEIT
+Male,19,3,0,1,1,1,0,0,1,0,7,KFUEIT
+Male,19,1,0,1,1,0,0,1,0,0,4,KFUEIT
+Male,20,1,0,3,0,1,3,2,0,2,12,PGC Ryk
