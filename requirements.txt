@@ -1,12 +1,13 @@
-asgiref
+# Django related
 Django
 django-cors-headers
-djangorestframework
-djangorestframework-simplejwt
-PyJWT
-pytz
-sqlparse
-psycopg2-binary
-python-dotenv
 django-rest-swagger
 django-extensions
+
+# Testing related
+coverage
+
+# Others
+pytz
+python-dotenv
+pep8
