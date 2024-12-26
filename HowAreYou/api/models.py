@@ -10,7 +10,7 @@ from django.db.models.functions import Length
 models.CharField.register_lookup(Length)
 
 
-class students(models.Model):
+class Student(models.Model):
     """
     Normalized data model for students
     """
@@ -23,8 +23,13 @@ class students(models.Model):
         (FEMALE, "Female"),
         (OTHERS, "Others"),
     ]
-    id = models.UUIDField(
-        primary_key=True, db_index=True, blank=False, null=False, default=uuid4()
+    id = models.CharField(
+        max_length=100,
+        primary_key=True,
+        db_index=True,
+        blank=False,
+        null=False,
+        default=uuid4(),
     )
     gender = models.CharField(
         max_length=1, choices=GENDER_CHOICES, blank=False, null=False
@@ -58,7 +63,7 @@ class students(models.Model):
         ]
 
 
-class responses(models.Model):
+class StudentResponse(models.Model):
     """
     Normalized responses model
     """
@@ -76,7 +81,7 @@ class responses(models.Model):
     q9_resp = models.IntegerField()
     score = models.PositiveSmallIntegerField()
     student = models.ForeignKey(
-        students, related_name="student", on_delete=models.CASCADE
+        Student, related_name="student", on_delete=models.CASCADE
     )
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -152,20 +157,17 @@ class responses(models.Model):
         ]
 
 
-class resources(models.Model):
+class Resource(models.Model):
     """
     Normalized data model for resources
     """
-
-    ARTICLE = ""
-    VIDEO = "v"
 
     TYPE_CHOICES = [
         ("article", "Article"),
         ("video", "Video"),
     ]
 
-    url = models.CharField(max_length=255, blank=False, null=False)
+    url = models.CharField(max_length=255, blank=False, null=False, unique=True)
     type = models.CharField(
         max_length=10, choices=TYPE_CHOICES, blank=False, null=False
     )
@@ -178,6 +180,7 @@ class resources(models.Model):
     class Meta:
         """
         1. type_constraint: age is in ["article", "video"]
+        2. url_constraint: url cannot be null or empty string
         """
 
         constraints = [

@@ -1,10 +1,11 @@
-from ..models import students, responses, resources
+from ..models import Student, Resource, StudentResponse
 from uuid import uuid4
+import pandas as pd
 
 
 def create_response():
     """Insert single record into the responses table"""
-    student = students.objects.create(id=uuid4(), gender="M", age=22)
+    student = Student.objects.create(id=uuid4(), gender="M", age=22)
 
     resp_obj = {
         "q1_resp": 2,
@@ -19,7 +20,7 @@ def create_response():
         "score": 2,
     }
 
-    response = responses.objects.create(**resp_obj, student=student)
+    response = StudentResponse.objects.create(**resp_obj, student=student)
     print(response)
 
 
@@ -33,9 +34,37 @@ def create_resource():
     resp_obj_article_fail = {
         "type": "article",
     }
-    created_resource = resources.objects.create(**resp_obj_article_pass)
+    created_resource = Resource.objects.create(**resp_obj_article_pass)
+
+
+def create_single_student():
+    student_obj = {"gender": "M", "age": 24}
+
+    for i in range(10):
+        id = uuid4()
+        created_student = Student.objects.create(**student_obj, id=id)
+        print(created_student)
+
+
+def get_students():
+    student_records = len(Student.objects.all())
+    print(student_records)
+
+
+def deduplicate():
+    resource_df = pd.read_csv(
+        "/Users/bobby/uol/advanced_web_dev/dev/data/resources.csv"
+    )
+    # print(resource_df.head())
+    urls = resource_df["url"].to_list()
+    urls_set = set(urls)
+
+    print(len(urls), len(urls_set))
 
 
 def run():
+    deduplicate()
     # create_response()
-    create_resource()
+    # create_resource()
+    # create_single_student()
+    # get_students()

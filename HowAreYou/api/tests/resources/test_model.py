@@ -3,7 +3,7 @@ Test resources model
 """
 
 from django.test import TestCase
-from ...models import responses, students, resources
+from ...models import Resource
 from django.db.utils import IntegrityError
 from copy import deepcopy
 
@@ -30,7 +30,7 @@ class ResourcesModelTests(TestCase):
         Pass criteria:
             - foreign key of response record should be equal to primary key of student record
         """
-        created_resource = resources.objects.create(**resp_obj_article)
+        created_resource = Resource.objects.create(**resp_obj_article)
         print(f"created_resource:: {created_resource}")
         self.assertEqual(created_resource.type, resp_obj_article["type"])
 
@@ -40,7 +40,7 @@ class ResourcesModelTests(TestCase):
         Pass criteria:
             - foreign key of response record should be equal to primary key of student record
         """
-        created_resource = resources.objects.create(**resp_obj_video)
+        created_resource = Resource.objects.create(**resp_obj_video)
 
         self.assertEqual(created_resource.type, resp_obj_video["type"])
 
@@ -54,7 +54,7 @@ class ResourcesModelTests(TestCase):
         resp_obj_article_copy["type"] = "articl"
 
         with self.assertRaises(IntegrityError):
-            resources.objects.create(**resp_obj_article_copy)
+            Resource.objects.create(**resp_obj_article_copy)
 
     def test_create_resource_should_fail_due_to_missing_url(self):
         """
@@ -66,4 +66,4 @@ class ResourcesModelTests(TestCase):
         resp_obj_article_copy.pop("url")
 
         with self.assertRaises(IntegrityError):
-            resources.objects.create(**resp_obj_article_copy)
+            Resource.objects.create(**resp_obj_article_copy)

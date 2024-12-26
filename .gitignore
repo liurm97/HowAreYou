@@ -9,3 +9,4 @@ __pycache__
 
 # others
 ../start.sh
+.DS_Store

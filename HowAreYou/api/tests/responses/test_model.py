@@ -3,7 +3,7 @@ Test responses model
 """
 
 from django.test import TestCase
-from ...models import responses, students
+from ...models import Student, StudentResponse
 from django.core.exceptions import ValidationError
 from django.db.utils import IntegrityError
 from copy import deepcopy
@@ -36,12 +36,12 @@ class ResponsesModelTests(TestCase):
         """
         gender = "M"
         age = 20
-        created_student = students.objects.create(gender=gender, age=age)
+        created_student = Student.objects.create(gender=gender, age=age)
         self.assertEqual(created_student.age, age)
         self.assertEqual(created_student.gender, gender)
 
         resp_obj_copy_1 = deepcopy(resp_obj)
-        created_response = responses.objects.create(
+        created_response = StudentResponse.objects.create(
             **resp_obj_copy_1,
             student=created_student,
         )
@@ -56,7 +56,7 @@ class ResponsesModelTests(TestCase):
         """
         gender = "M"
         age = 20
-        created_student = students.objects.create(gender=gender, age=age)
+        created_student = Student.objects.create(gender=gender, age=age)
 
         self.assertEqual(created_student.age, age)
         self.assertEqual(created_student.gender, gender)
@@ -64,7 +64,7 @@ class ResponsesModelTests(TestCase):
         resp_obj_copy_2 = deepcopy(resp_obj)
         resp_obj_copy_2["q1_resp"] = -1
         with self.assertRaises(IntegrityError):
-            responses.objects.create(**resp_obj_copy_2, student=created_student)
+            StudentResponse.objects.create(**resp_obj_copy_2, student=created_student)
 
     def test_create_response_should_fail_score_less_than_zero(self):
         """
@@ -75,7 +75,7 @@ class ResponsesModelTests(TestCase):
 
         gender = "M"
         age = 20
-        created_student = students.objects.create(gender=gender, age=age)
+        created_student = Student.objects.create(gender=gender, age=age)
 
         self.assertEqual(created_student.age, age)
         self.assertEqual(created_student.gender, gender)
@@ -84,4 +84,4 @@ class ResponsesModelTests(TestCase):
         resp_obj_copy_3["score"] = -27
 
         with self.assertRaises(IntegrityError):
-            responses.objects.create(**resp_obj_copy_3, student=created_student)
+            StudentResponse.objects.create(**resp_obj_copy_3, student=created_student)

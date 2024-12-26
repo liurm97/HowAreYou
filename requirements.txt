@@ -7,6 +7,9 @@ django-extensions
 # Testing related
 coverage
 
+# Seed data
+pandas
+
 # Others
 pytz
 python-dotenv
