@@ -34,7 +34,7 @@ class ResponsesModelTests(TestCase):
         Pass criteria:
             - foreign key of response record should be equal to primary key of student record
         """
-        gender = "M"
+        gender = "m"
         age = 20
         created_student = Student.objects.create(gender=gender, age=age)
         self.assertEqual(created_student.age, age)
@@ -54,7 +54,7 @@ class ResponsesModelTests(TestCase):
         Fail criteria:
             - response to any one of the queston is less than 0
         """
-        gender = "M"
+        gender = "m"
         age = 20
         created_student = Student.objects.create(gender=gender, age=age)
 
@@ -73,7 +73,7 @@ class ResponsesModelTests(TestCase):
             - overall score of the response is less than 0
         """
 
-        gender = "M"
+        gender = "m"
         age = 20
         created_student = Student.objects.create(gender=gender, age=age)
 

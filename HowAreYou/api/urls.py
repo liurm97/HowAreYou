@@ -10,16 +10,16 @@ urlpatterns = [
     path(
         "resources/create", views.CreateResourceView.as_view(), name="create-resources"
     ),
-    # path("students", views.GetStudentView.as_view(), name="get-students"),
-    # path("students/create", views.CreateStudentView.as_view(), name="create-students"),
-    # path(
-    #     "students/response/evaluate",
-    #     views.CreateStudentResponseView.as_view(),
-    #     name="create-student-responses",
-    # ),
-    # path(
-    #     "students/response/delete",
-    #     views.DeleteStudentView.as_view(),
-    #     name="delete-student",
-    # ),
+    path("students", views.GetStudentView.as_view(), name="get-students"),
+    path("students/create", views.CreateStudentView.as_view(), name="create-students"),
+    path(
+        "students/stats",
+        views.GetStudentStatisticsView.as_view(),
+        name="get-student-statistics",
+    ),
+    path(
+        "students/delete",
+        views.DeleteStudentView.as_view(),
+        name="delete-student",
+    ),
 ]

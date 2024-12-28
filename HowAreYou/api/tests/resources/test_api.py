@@ -1,10 +1,8 @@
 """
-Test Resources API endpoints
+Test Resources endpoint
 """
 
 from django.test import TestCase, SimpleTestCase
-
-# import requests as re
 from rest_framework.test import RequestsClient, APITestCase
 from rest_framework import status
 from ...models import Resource, Student, StudentResponse
@@ -27,7 +25,8 @@ class ResourceAPITests(APITestCase):
 
     def test_get_resources_no_params_should_return_all_output(self):
         """
-        Test GET /resources should return article and video resources
+        Test GET api/v1/resources
+            should return article and video resources
         """
         expected_resources_records = len(Resource.objects.all())
 
@@ -37,8 +36,8 @@ class ResourceAPITests(APITestCase):
 
     def test_get_resources_type_param_should_return_filtered_output(self):
         """
-        Test GET /resources?type={article, video}
-        should return only article or video resources
+        Test GET api/v1/resources?type={article, video}
+            should return filtered resources
         """
 
         type_value = "article"
@@ -51,7 +50,8 @@ class ResourceAPITests(APITestCase):
 
     def test_get_resources_unacceptable_param_should_return_400(self):
         """
-        Test unacceptable params should return 400 status code
+        Test GET api/v1/resources
+            unacceptable params should return 400 status code
         """
 
         invalid_requests = [
@@ -72,8 +72,9 @@ class ResourceAPITests(APITestCase):
 
     def test_create_resources_with_valid_body_should_return_201_created(self):
         """
-        Test valid request body should create resources successfully and
-        return 201 status code
+        Test POST api/v1/resources
+            valid request body should create resources successfully and
+            return 201 status code
         """
         valid_request_body = {"type": "article", "url": "https://www.mindline.sg"}
         created_resource_status_code = self.client.post(
@@ -86,7 +87,8 @@ class ResourceAPITests(APITestCase):
         self,
     ):
         """
-        Test invalid formatted value passed to 'url' field should return 400 status code
+        Test POST api/v1/resources
+            invalid formatted value passed to 'url' field should return 400 status code
         """
         invalid_url_values = [
             "www.com",
@@ -108,7 +110,8 @@ class ResourceAPITests(APITestCase):
 
     def test_create_resources_with_inactive_url_should_return_400_bad_request(self):
         """
-        Test value passed to 'url' field url that does not return 200
+        Test POST api/v1/resources
+            value passed to 'url' field that does not return 200
         should return 400 status code
         """
         invalid_url_values = [
@@ -131,8 +134,9 @@ class ResourceAPITests(APITestCase):
         self,
     ):
         """
-        Test value passsed to 'url' field that is a duplicate
-        should return 400 status code
+        Test POST api/v1/resources
+            value passsed to 'url' field that is a duplicate
+            should return 400 status code
         """
         existing_url_in_db = Resource.objects.first().url
         print(f"existing_url_in_db:: {existing_url_in_db}")
@@ -147,8 +151,9 @@ class ResourceAPITests(APITestCase):
         self,
     ):
         """
-        Test value passsed to 'type' field that is invalid
-        should return 400 status code
+        Test api/v1/resources
+            value passsed to 'type' field that is invalid
+            should return 400 status code
         """
         invalid_type_requests = [
             {"url": "https://www.mindline.com", "type": "articl"},

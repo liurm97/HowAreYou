@@ -17,7 +17,7 @@ class StudentModelTests(TestCase):
         """
         Test create student record is successful
         """
-        gender = "M"
+        gender = "m"
         age = 20
         created_student = Student.objects.create(gender=gender, age=age)
         self.assertEqual(created_student.age, age)
@@ -36,7 +36,7 @@ class StudentModelTests(TestCase):
         """
         Test create student record fails due to incorrect age input
         """
-        gender = "F"
+        gender = "f"
         age = 25
         with self.assertRaises(IntegrityError):
             Student.objects.create(gender=gender, age=age)

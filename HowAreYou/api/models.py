@@ -15,14 +15,14 @@ class Student(models.Model):
     Normalized data model for students
     """
 
-    MALE = "M"
-    FEMALE = "F"
-    OTHERS = "O"
-    GENDER_CHOICES = [
-        (MALE, "Male"),
-        (FEMALE, "Female"),
-        (OTHERS, "Others"),
-    ]
+    # MALE = "m"
+    # FEMALE = "f"
+    # OTHERS = "o"
+    # GENDER_CHOICES = [
+    #     (MALE, "Male"),
+    #     (FEMALE, "Female"),
+    #     (OTHERS, "Others"),
+    # ]
     id = models.CharField(
         max_length=100,
         primary_key=True,
@@ -32,7 +32,10 @@ class Student(models.Model):
         default=uuid4(),
     )
     gender = models.CharField(
-        max_length=1, choices=GENDER_CHOICES, blank=False, null=False
+        max_length=1,
+        # choices=GENDER_CHOICES,
+        blank=False,
+        null=False,
     )
     age = models.IntegerField(blank=False, null=False)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -44,7 +47,7 @@ class Student(models.Model):
     class Meta:
         """
         1. age_constraint: age >=12 and age <= 24
-        2. gender_constraint: age is in ["M", "F", "O"]
+        2. gender_constraint: age is in ["m", "f", "o"]
         """
 
         constraints = [
@@ -54,11 +57,11 @@ class Student(models.Model):
                 violation_error_message="Age must be between 12 (inclusive) and 24 (inclusive).",
             ),
             models.CheckConstraint(
-                check=models.Q(gender="M")
-                | models.Q(gender="F")
-                | models.Q(gender="O"),
+                check=models.Q(gender="m")
+                | models.Q(gender="f")
+                | models.Q(gender="o"),
                 name="Gender constraint",
-                violation_error_message="Gender must be one of 'M', 'F', 'O'.",
+                violation_error_message="Gender must be one of 'm', 'f', 'o'.",
             ),
         ]
 

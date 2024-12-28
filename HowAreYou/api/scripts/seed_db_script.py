@@ -41,7 +41,7 @@ def prepare_data(filename: str) -> list[dict]:
             "q9": "q9_resp",
         }
 
-        gender_mapping = {"Female": "F", "Male": "M"}
+        gender_mapping = {"Female": "f", "Male": "m"}
 
         data_df_copy = df.copy()
         data_df_copy.drop(["Institute"], axis=1, inplace=True)
