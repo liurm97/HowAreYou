@@ -15,14 +15,6 @@ class Student(models.Model):
     Normalized data model for students
     """
 
-    # MALE = "m"
-    # FEMALE = "f"
-    # OTHERS = "o"
-    # GENDER_CHOICES = [
-    #     (MALE, "Male"),
-    #     (FEMALE, "Female"),
-    #     (OTHERS, "Others"),
-    # ]
     id = models.CharField(
         max_length=100,
         primary_key=True,

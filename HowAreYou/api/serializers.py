@@ -403,3 +403,28 @@ class CreateStudentRequestBodySerializer(serializers.ModelSerializer):
         )
 
         return created_studentResponse
+
+
+class StudentStatisticsModel(serializers.ModelSerializer):
+
+    gender = serializers.CharField(read_only=True)
+
+    class Meta:
+        model = Student
+        fields = ["gender"]
+
+
+class StudentResponseStatisticsModel(serializers.ModelSerializer):
+    """
+    Serializer for Student Response statistics model
+    """
+
+    # student = StudentStatisticsModel(read_only=True)
+    score = serializers.IntegerField(read_only=True)
+
+    class Meta:
+        model = StudentResponse
+        fields = [
+            "score",
+            # "student",
+        ]

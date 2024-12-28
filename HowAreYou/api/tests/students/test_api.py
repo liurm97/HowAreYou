@@ -255,3 +255,24 @@ class StudentsAPITests(APITestCase):
             invalid_response_status_codes.append(response_status_code)
 
         self.assertNotIn(200, invalid_response_status_codes)
+
+    def test_get_student_statistics_return_correct_total_students(self):
+        """
+        Test GET /api/v1/students/stats
+            The sum of students should be equal to the total number of students
+        """
+
+        expected_total_students = len(Student.objects.all())
+
+        response = self.client.get(self.BASE_URL + "/stats", format="json")
+        response_data = response.data
+
+        statistics = response_data["statistics"]
+
+        actual_student_counter = 0
+
+        for s in statistics:
+            for k, v in s.items():
+                for _k, _v in v.items():
+                    actual_student_counter += _v
+        self.assertEqual(actual_student_counter, expected_total_students)

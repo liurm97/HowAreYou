@@ -7,6 +7,8 @@ from rest_framework import status
 from rest_framework.exceptions import ValidationError
 from rest_framework.views import APIView
 from rest_framework.pagination import PageNumberPagination
+from django.db.models import Count, Avg, Sum
+from django.db import connection
 
 
 from .serializers import (
@@ -17,6 +19,7 @@ from .serializers import (
     GetStudentResponseModelSerializer,
     CreateStudentRequestBodySerializer,
     StudentModelSerializer,
+    StudentResponseStatisticsModel,
 )
 from .models import Resource, Student, StudentResponse
 
@@ -335,7 +338,67 @@ class CreateStudentView(APIView):
 
 
 class GetStudentStatisticsView(APIView):
-    pass
+    """
+    View to generate statistics of the range of depression among students
+
+    Score interpretation:
+        > 0 - 4: None-minimal
+        > 5 - 9: Mild
+        > 10 - 14: Moderate
+        > 15 - 19: Moderately Severe
+        > 20 - 27: Severe
+    """
+
+    def get(self, request, format=None):
+        categories = {
+            "None - Minimal": {},
+            "Mild": {},
+            "Moderate": {},
+            "Moderately Severe": {},
+            "Severe": {},
+        }
+
+        gender_mapping = {"m": "Male", "f": "Female", "o": "Others"}
+        print(f"StudentResponse.objects.all()::: {len(StudentResponse.objects.all())}")
+
+        for o in StudentResponse.objects.all():
+            gender = o.student.gender  # m, f, o
+            score = o.score
+            if score >= 20:
+                if gender_mapping[gender] not in categories["Severe"]:
+                    categories["Severe"][gender_mapping[gender]] = 1
+                else:
+                    categories["Severe"][gender_mapping[gender]] += 1
+
+            if score >= 15 and score <= 19:
+                if gender_mapping[gender] not in categories["Moderately Severe"]:
+                    categories["Moderately Severe"][gender_mapping[gender]] = 1
+                else:
+                    categories["Moderately Severe"][gender_mapping[gender]] += 1
+
+            if score >= 10 and score <= 14:
+                if gender_mapping[gender] not in categories["Moderate"]:
+                    categories["Moderate"][gender_mapping[gender]] = 1
+                else:
+                    categories["Moderate"][gender_mapping[gender]] += 1
+
+            if score >= 5 and score <= 9:
+                if gender_mapping[gender] not in categories["Mild"]:
+                    categories["Mild"][gender_mapping[gender]] = 1
+                else:
+                    categories["Mild"][gender_mapping[gender]] += 1
+
+            if score <= 4:
+                if gender_mapping[gender] not in categories["None - Minimal"]:
+                    categories["None - Minimal"][gender_mapping[gender]] = 1
+                else:
+                    categories["None - Minimal"][gender_mapping[gender]] += 1
+
+        print(f"categories:: {categories}")
+
+        statistics_output = {"category": "depression", "statistics": [categories]}
+
+        return Response(statistics_output, status=status.HTTP_200_OK)
 
 
 class DeleteStudentView(APIView):
