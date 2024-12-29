@@ -47,6 +47,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -127,7 +128,6 @@ SPECTACULAR_SETTINGS = {
     charset-normalizer        3.4.0
     coreapi                   2.3.3
     coreschema                0.0.4
-    coverage                  7.6.9
     Django                    5.1.4
     django-cors-headers       4.6.0
     django-extensions         3.2.3
@@ -144,11 +144,8 @@ SPECTACULAR_SETTINGS = {
     numpy                     2.2.1
     openapi-codec             1.3.2
     pandas                    2.2.3
-    pep8                      1.7.1
     pip                       24.3.1
     python-dateutil           2.9.0.post0
-    python-dotenv             1.0.1
-    pytz                      2024.2
     PyYAML                    6.0.2
     referencing               0.35.1
     requests                  2.32.3
@@ -185,6 +182,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = "static/"
+
+STORAGES = {
+    "staticfiles": {
+        "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
+    },
+}
+
+STATIC_ROOT = BASE_DIR / "staticfiles"
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
