@@ -15,7 +15,7 @@ class Student(models.Model):
     Normalized data model for students
     """
 
-    id = models.CharField(
+    id = models.UUIDField(
         max_length=100,
         primary_key=True,
         db_index=True,
@@ -25,7 +25,6 @@ class Student(models.Model):
     )
     gender = models.CharField(
         max_length=1,
-        # choices=GENDER_CHOICES,
         blank=False,
         null=False,
     )

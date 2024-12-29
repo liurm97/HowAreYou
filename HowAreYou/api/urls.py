@@ -18,7 +18,7 @@ urlpatterns = [
         name="get-student-statistics",
     ),
     path(
-        "students/delete",
+        "students/delete/<str:student_id>",
         views.DeleteStudentView.as_view(),
         name="delete-student",
     ),

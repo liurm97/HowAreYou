@@ -9,6 +9,8 @@ from rest_framework.views import APIView
 from rest_framework.pagination import PageNumberPagination
 from django.db.models import Count, Avg, Sum
 from django.db import connection
+import uuid
+from random import randint
 
 
 from .serializers import (
@@ -18,6 +20,7 @@ from .serializers import (
     GetStudentParamSerializer,
     GetStudentResponseModelSerializer,
     CreateStudentRequestBodySerializer,
+    StudentDeleteSerializer,
     StudentModelSerializer,
     StudentResponseStatisticsModel,
 )
@@ -65,7 +68,6 @@ class GetResourceView(APIView):
         Return a list of all resources.
         """
 
-        print("----- start ------")
         unaccepted_params, isOnlyTypeParamValidated = (
             self.validate_getResourcesParamHasOnlyType(request.query_params)
         )
@@ -105,7 +107,6 @@ class GetResourceView(APIView):
             else:
                 output = resources
 
-            print(f"output:: {output}")
             resourceOutputSerializer = ResourceModelSerializer(output, many=True)
             return Response(resourceOutputSerializer.data, status=status.HTTP_200_OK)
 
@@ -156,9 +157,15 @@ class CreateResourceView(APIView):
         serializer = CreateResourceRequestBodySerializer(data=request.data)
 
         if serializer.is_valid():
-            serializer.save()
-            return Response(serializer.data, status=status.HTTP_201_CREATED)
+            try:
+                serializer.save()
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
 
+            except Exception as e:
+                return Response(
+                    "Something wrong happened. Please try again.",
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                )
         else:
             return Response(
                 serializer.errors,
@@ -316,21 +323,66 @@ class CreateStudentView(APIView):
     View to create student and response
     """
 
+    def get_message(self, score: int) -> dict[str, str]:
+        resources: list[str] = []
+
+        if score >= 20:
+            message = "Thanks for sharing what you are feeling. Given your current emotional state, we would ask that you seek immediate help"
+
+        if score >= 15 and score <= 19:
+            message = "Thanks for sharing what you are feeling. Given your current emotional state, we would ask that you seek active treatment with psychotherapy as soon as possible."
+
+        if score >= 10 and score <= 14:
+            message = "Thanks for sharing what you are feeling. You seem to be facing some challenges in maintaining a positive emotional state.  Having someone to talk to might be beneficial for you."
+
+        if score >= 5 and score <= 9:
+            message = "Thanks for sharing what you are feeling. You seem to be coping well. Remember to take time to relax during the day."
+
+        if score <= 4:
+            message = "Thanks for sharing what you are feeling. You seem to be coping well. Remember to take time to relax during the day."
+
+        num_resource = len(Resource.objects.all())
+        resource_ids = Resource.objects.values_list("id", flat=True)
+        for i in range(3):
+            random_index = randint(0, num_resource - 1)
+            random_resource_id = resource_ids[random_index]
+
+            random_url = Resource.objects.get(pk=random_resource_id).url
+            random_type = Resource.objects.get(pk=random_resource_id).type
+            resources.append({"url": random_url, "type": random_type})
+
+        return {
+            "message": message,
+            "resources": resources,
+        }
+
     def post(self, request, format=None):
 
         studentRequestBodySerializer = CreateStudentRequestBodySerializer(
             data=request.data
         )
         if studentRequestBodySerializer.is_valid():
-            created_student = studentRequestBodySerializer.save()
-            # print(f"created_student:: {created_student['score']}")
-            print(
-                f"studentRequestBodySerializer.student:: {studentRequestBodySerializer['score']}"
-            )
-            print(f"created_student:: {created_student}")
-            return Response(
-                studentRequestBodySerializer.data, status=status.HTTP_201_CREATED
-            )
+
+            try:
+                studentRequestBodySerializer.save()
+
+                score = studentRequestBodySerializer.data["score"]
+
+                message = self.get_message(score)
+
+                return Response(
+                    {
+                        **message,
+                        **studentRequestBodySerializer.data,
+                    },
+                    status=status.HTTP_201_CREATED,
+                )
+
+            except Exception as e:
+                return Response(
+                    "Something wrong happened. Please try again.",
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                )
         else:
             return Response(
                 studentRequestBodySerializer.errors, status=status.HTTP_400_BAD_REQUEST
@@ -359,7 +411,6 @@ class GetStudentStatisticsView(APIView):
         }
 
         gender_mapping = {"m": "Male", "f": "Female", "o": "Others"}
-        print(f"StudentResponse.objects.all()::: {len(StudentResponse.objects.all())}")
 
         for o in StudentResponse.objects.all():
             gender = o.student.gender  # m, f, o
@@ -394,12 +445,47 @@ class GetStudentStatisticsView(APIView):
                 else:
                     categories["None - Minimal"][gender_mapping[gender]] += 1
 
-        print(f"categories:: {categories}")
-
         statistics_output = {"category": "depression", "statistics": [categories]}
 
         return Response(statistics_output, status=status.HTTP_200_OK)
 
 
 class DeleteStudentView(APIView):
-    pass
+    """
+    View to delete single student and response record by student id
+    """
+
+    def check_student_id_exists(self, student_id: str) -> bool:
+        students = Student.objects.all()
+        filtered_student = students.filter(id=student_id)
+
+        if not filtered_student:
+            return False
+
+        return True
+
+    def delete(self, request, student_id, format=None):
+        student_id = {"student_id": student_id}
+
+        serializer = StudentDeleteSerializer(data=student_id)
+
+        if serializer.is_valid():
+            validated_student_id = serializer.validated_data["student_id"]
+            student_id_exists = self.check_student_id_exists(validated_student_id)
+
+            if student_id_exists:
+                try:
+                    Student.objects.get(pk=validated_student_id).delete()
+                    return Response(None, status=status.HTTP_204_NO_CONTENT)
+                except Exception as e:
+                    return Response(
+                        "Something wrong happened. Please try again.",
+                        status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                    )
+            else:
+                return Response(
+                    f"({validated_student_id}) cannot be found",
+                    status=status.HTTP_404_NOT_FOUND,
+                )
+        else:
+            return Response("NOT OK", status=status.HTTP_400_BAD_REQUEST)

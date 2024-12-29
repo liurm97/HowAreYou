@@ -428,3 +428,11 @@ class StudentResponseStatisticsModel(serializers.ModelSerializer):
             "score",
             # "student",
         ]
+
+
+class StudentDeleteSerializer(serializers.Serializer):
+    """
+    Serializer to validate delete student
+    """
+
+    student_id = serializers.UUIDField()

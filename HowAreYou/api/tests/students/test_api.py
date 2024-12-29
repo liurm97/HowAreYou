@@ -7,7 +7,7 @@ from rest_framework.test import RequestsClient, APITestCase
 from rest_framework import status
 from ...models import Resource, Student, StudentResponse
 from django.core.management import call_command
-from ...scripts.seed_db_script import seed_students_and_responses_db
+from ...scripts.seed_db_script import seed_students_and_responses_db, seed_resources_db
 
 
 class StudentsAPITests(APITestCase):
@@ -19,10 +19,12 @@ class StudentsAPITests(APITestCase):
 
     def setUp(self) -> None:
         seed_students_and_responses_db()
+        seed_resources_db()
 
     def tearDown(self) -> None:
         Student.objects.all().delete()
         StudentResponse.objects.all().delete()
+        Resource.objects.all().delete()
 
     def test_get_students_valid_params_should_return_200_ok(self):
         """
@@ -80,6 +82,50 @@ class StudentsAPITests(APITestCase):
             invalid_params_responses.append(status_code)
 
         self.assertIn(400, invalid_params_responses)
+
+    def test_create_students_valid_request_body_should_return_score_evaluation_message(
+        self,
+    ):
+        valid_request_body = {
+            "student": {"age": 12, "gender": "f"},
+            "q1_resp": 2,
+            "q2_resp": 3,
+            "q3_resp": 2,
+            "q4_resp": 3,
+            "q5_resp": 3,
+            "q6_resp": 3,
+            "q7_resp": 3,
+            "q8_resp": 3,
+            "q9_resp": 0,
+        }
+
+        response = self.client.post(
+            self.BASE_URL + "/create", valid_request_body, format="json"
+        )
+        expected_message = response.data["message"]
+
+        self.assertNotEqual("", expected_message)
+
+    def test_create_students_valid_request_body_should_return_3_resources(self):
+        valid_request_body = {
+            "student": {"age": 12, "gender": "f"},
+            "q1_resp": 2,
+            "q2_resp": 3,
+            "q3_resp": 2,
+            "q4_resp": 3,
+            "q5_resp": 3,
+            "q6_resp": 3,
+            "q7_resp": 3,
+            "q8_resp": 3,
+            "q9_resp": 0,
+        }
+
+        response = self.client.post(
+            self.BASE_URL + "/create", valid_request_body, format="json"
+        )
+        expected_resource_length = len(response.data["resources"])
+
+        self.assertEqual(3, expected_resource_length)
 
     def test_create_students_valid_request_body_should_return_201_ok(self):
         """
@@ -276,3 +322,54 @@ class StudentsAPITests(APITestCase):
                 for _k, _v in v.items():
                     actual_student_counter += _v
         self.assertEqual(actual_student_counter, expected_total_students)
+
+    def test_delete_students_valid_student_id_should_return_204_no_content(self):
+        """
+        Test DELETE /api/v1/students/<student_id>
+            valid student id should be deleted and returned 204
+        """
+        valid_student_id = Student.objects.first().id
+
+        response = self.client.delete(
+            f"{self.BASE_URL}/delete/{valid_student_id}", format="json"
+        )
+
+        response_status_code = response.status_code
+
+        self.assertEqual(response_status_code, 204)
+
+    def test_delete_students_invalid_UUID_student_id_should_return_400_bad_request(
+        self,
+    ):
+        """
+        Test DELETE /api/v1/students/<student_id>
+            student id that is not in UUID format should return 400
+        """
+
+        invalid_student_id = ["123", 123]
+
+        response_status_codes: list[int] = []
+
+        for id in invalid_student_id:
+            response = self.client.delete(f"{self.BASE_URL}/delete/{id}", format="json")
+            response_status_code = response.status_code
+            response_status_codes.append(response_status_code)
+
+        self.assertEqual([400, 400], response_status_codes)
+
+    def test_delete_students_not_found_student_id_should_return_404_not_found(self):
+        """
+        Test DELETE /api/v1/students/<student_id>
+            student id that is not found in db should return 404
+        """
+        from uuid import uuid4
+
+        random_student_id = uuid4()
+
+        response = self.client.delete(
+            f"{self.BASE_URL}/delete/{random_student_id}", format="json"
+        )
+
+        response_status_code = response.status_code
+
+        self.assertEqual(response_status_code, 404)
