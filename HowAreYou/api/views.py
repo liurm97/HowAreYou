@@ -7,11 +7,8 @@ from rest_framework import status
 from rest_framework.exceptions import ValidationError
 from rest_framework.views import APIView
 from rest_framework.pagination import PageNumberPagination
-from django.db.models import Count, Avg, Sum
-from django.db import connection
-import uuid
 from random import randint
-
+from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
 
 from .serializers import (
     ResourceModelSerializer,
@@ -28,6 +25,8 @@ from .models import Resource, Student, StudentResponse
 
 
 #  ----------- Resource ------------ #
+
+
 class GetResourceView(APIView):
     """
     View to get resources
@@ -63,6 +62,14 @@ class GetResourceView(APIView):
             return False
         return True
 
+    @extend_schema(
+        request=GetResourceParamSerializer,
+        methods=["GET"],
+        description="Return a list of all resources. Accept optional `type` parameter, values: [`video`, `article`]",
+        parameters=[
+            OpenApiParameter(name="type", description="Filter by type", required=False)
+        ],
+    )
     def get(self, request, format=None):
         """
         Return a list of all resources.
@@ -99,7 +106,7 @@ class GetResourceView(APIView):
 
         # Check value passed to 'type' field is either 'article' or 'video'
         if resourceParamSerializer.is_valid():
-            resources = Resource.objects.all()
+            resources = Resource.objects.all().order_by("-created_at")
             acceptable_param = request.query_params.get("type")
 
             if acceptable_param:
@@ -117,17 +124,18 @@ class GetResourceView(APIView):
             )
 
 
+@extend_schema(request=CreateResourceRequestBodySerializer, methods=["POST"])
 class CreateResourceView(APIView):
     """
-    View to create resources
+    Create new resource
     """
 
     def validate_postResourcesValidParams(self, data: dict):
         """
-        Validate that 'type' is the only accepted optional parameter.
-        Fail if any thing other than 'type' is used.
+        Validate that accepted optional parameter.
+        Fail if any thing other than 'type', 'url', 'csrfmiddlewaretoken'  is used.
         """
-        ACCEPTABLE_PARAMS = ["type", "url"]
+        ACCEPTABLE_PARAMS = ["type", "url", "csrfmiddlewaretoken"]
         provided_param_keys: list[str] = list(data.keys())
         unacceptable_params = []
 
@@ -174,6 +182,28 @@ class CreateResourceView(APIView):
 
 
 #  ----------- Students ------------ #
+@extend_schema(
+    request=GetStudentParamSerializer,
+    methods=["GET"],
+    description="Return information and responses to questions of all students. Accept optional `gender`, `agegte`, `agelte` parameter",
+    parameters=[
+        OpenApiParameter(
+            name="gender",
+            description="Filter by gender. Accepted values: [`m`, `f`, `o`]",
+            required=False,
+        ),
+        OpenApiParameter(
+            name="agelte",
+            description="Must be between 12(inclusive) and 24(inclusive). `agelte` must be greater or equal to `agegte`",
+            required=False,
+        ),
+        OpenApiParameter(
+            name="agegte",
+            description="Must be between 12(inclusive) and 24(inclusive). `agegte` must be lesser or equal to `agelte`",
+            required=False,
+        ),
+    ],
+)
 class GetStudentView(APIView, PageNumberPagination):
     """
     View to get student and response
@@ -318,9 +348,10 @@ class GetStudentView(APIView, PageNumberPagination):
                 return Response(getstudentParamSerializer.errors)
 
 
+@extend_schema(request=CreateStudentRequestBodySerializer, methods=["POST"])
 class CreateStudentView(APIView):
     """
-    View to create student and response
+    Create new student, evaluate responses to questions, and return message and resources.
     """
 
     def get_message(self, score: int) -> dict[str, str]:
@@ -391,14 +422,14 @@ class CreateStudentView(APIView):
 
 class GetStudentStatisticsView(APIView):
     """
-    View to generate statistics of the range of depression among students
+    Generate statistics of the range of depression among students and return statistics.
 
-    Score interpretation:
-        > 0 - 4: None-minimal
-        > 5 - 9: Mild
-        > 10 - 14: Moderate
-        > 15 - 19: Moderately Severe
-        > 20 - 27: Severe
+    Depression Score interpretation (PHQ-9):
+    - None-minimal: 0 - 4
+    - Mild: 5 - 9
+    - Moderate: 10 - 14
+    - Moderately Severe: 15 - 19
+    - Severe: 20 - 27
     """
 
     def get(self, request, format=None):
@@ -452,7 +483,7 @@ class GetStudentStatisticsView(APIView):
 
 class DeleteStudentView(APIView):
     """
-    View to delete single student and response record by student id
+    Delete single student and response record by unique student id
     """
 
     def check_student_id_exists(self, student_id: str) -> bool:
@@ -484,8 +515,11 @@ class DeleteStudentView(APIView):
                     )
             else:
                 return Response(
-                    f"({validated_student_id}) cannot be found",
+                    f"(The student id ({validated_student_id}) provided cannot be found.",
                     status=status.HTTP_404_NOT_FOUND,
                 )
         else:
-            return Response("NOT OK", status=status.HTTP_400_BAD_REQUEST)
+            return Response(
+                f"The student id ({student_id['student_id']}) provided is invalid.",
+                status=status.HTTP_400_BAD_REQUEST,
+            )

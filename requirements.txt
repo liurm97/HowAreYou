@@ -3,14 +3,7 @@ Django
 django-cors-headers
 django-rest-swagger
 django-extensions
-
-# Testing related
-coverage
+drf-spectacular
 
 # Seed data
 pandas
-
-# Others
-pytz
-python-dotenv
-pep8

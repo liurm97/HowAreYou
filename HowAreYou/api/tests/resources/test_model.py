@@ -31,7 +31,6 @@ class ResourcesModelTests(TestCase):
             - foreign key of response record should be equal to primary key of student record
         """
         created_resource = Resource.objects.create(**resp_obj_article)
-        print(f"created_resource:: {created_resource}")
         self.assertEqual(created_resource.type, resp_obj_article["type"])
 
     def test_create_video_resource_should_pass(self):

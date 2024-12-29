@@ -21,7 +21,6 @@ def create_response():
     }
 
     response = StudentResponse.objects.create(**resp_obj, student=student)
-    print(response)
 
 
 def create_resource():
@@ -43,23 +42,18 @@ def create_single_student():
     for i in range(10):
         id = uuid4()
         created_student = Student.objects.create(**student_obj, id=id)
-        print(created_student)
 
 
 def get_students():
     student_records = len(Student.objects.all())
-    print(student_records)
 
 
 def deduplicate():
     resource_df = pd.read_csv(
         "/Users/bobby/uol/advanced_web_dev/dev/data/resources.csv"
     )
-    # print(resource_df.head())
     urls = resource_df["url"].to_list()
     urls_set = set(urls)
-
-    print(len(urls), len(urls_set))
 
 
 def run():

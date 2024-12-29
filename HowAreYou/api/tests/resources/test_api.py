@@ -139,7 +139,6 @@ class ResourceAPITests(APITestCase):
             should return 400 status code
         """
         existing_url_in_db = Resource.objects.first().url
-        print(f"existing_url_in_db:: {existing_url_in_db}")
 
         resp_status_code: int = self.client.post(
             self.BASE_URL + "/create", data={"url": existing_url_in_db, type: "article"}

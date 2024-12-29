@@ -1,0 +1,110 @@
+openapi: 3.0.3
+info:
+  title: HowAreYou API
+  version: 1.0.0
+  description: HowAreYou
+paths:
+  /api/v1/resources:
+    get:
+      operationId: resources_retrieve
+      description: Return a list of all resources.
+      tags:
+        - resources
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "200":
+          description: No response body
+  /api/v1/resources/create:
+    post:
+      operationId: resources_create_create
+      description: View to create resources
+      tags:
+        - resources
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "200":
+          description: No response body
+  /api/v1/students:
+    get:
+      operationId: students_retrieve
+      description: |-
+        Get student and student response records.
+        Allowed optional parameters: [age_gte, age_lte, gender, page]
+        Eg: http://127.0.0.1:8000/api/v1/students?agegte=14&agelte=14&gender=m&page=2
+      tags:
+        - students
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "200":
+          description: No response body
+  /api/v1/students/create:
+    post:
+      operationId: students_create_create
+      description: View to create student and response
+      tags:
+        - students
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "200":
+          description: No response body
+  /api/v1/students/delete/{student_id}:
+    delete:
+      operationId: students_delete_destroy
+      description: View to delete single student and response record by student id
+      parameters:
+        - in: path
+          name: student_id
+          schema:
+            type: string
+          required: true
+      tags:
+        - students
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "204":
+          description: No response body
+  /api/v1/students/stats:
+    get:
+      operationId: students_stats_retrieve
+      description: |-
+        View to generate statistics of the range of depression among students
+
+        Score interpretation:
+            > 0 - 4: None-minimal
+            > 5 - 9: Mild
+            > 10 - 14: Moderate
+            > 15 - 19: Moderately Severe
+            > 20 - 27: Severe
+      tags:
+        - students
+      security:
+        - cookieAuth: []
+        - basicAuth: []
+        - {}
+      responses:
+        "200":
+          description: No response body
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+    cookieAuth:
+      type: apiKey
+      in: cookie
+      name: sessionid

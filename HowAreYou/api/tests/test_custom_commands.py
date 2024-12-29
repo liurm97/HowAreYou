@@ -49,10 +49,6 @@ class CustomCommandTest(TestCase):
         actual_responses_created_records = len(StudentResponse.objects.all())
         actual_resources_created_records = len(Resource.objects.all())
 
-        print(f"actual_students_created_records:: {actual_students_created_records}")
-        print(f"actual_responses_created_records:: {actual_responses_created_records}")
-        print(f"actual_resources_created_records:: {actual_resources_created_records}")
-
         self.assertEqual(
             expected_students_and_responses_rows, actual_students_created_records
         )

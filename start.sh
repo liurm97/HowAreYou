@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Project set up
 
 ## Set up virtual environment
@@ -18,9 +20,15 @@ django-admin startproject HowAreYou
 # Create application named `api`
 python manage.py startapp api
 
-# Add api into project > settings.py
+# Create admin user
+python manage.py createsuperuser
 
-# Set up tests/ folder
 
 # Run test in verbose mode
 python manage.py test -v 3
+
+
+# Admin credentials
+username: admin
+password: admin123
+

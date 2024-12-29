@@ -73,8 +73,6 @@ def prepare_data(filename: str) -> list[dict]:
                     student=student_obj,
                 )
             )
-        print(f"students_output:: {len(students_output)}")
-        print(f"responses_output:: {len(responses_output)}")
         return students_output, responses_output
 
     # prepare resources.csv
@@ -93,8 +91,6 @@ def seed_students_and_responses_db() -> None:
     Seed students and responses database
     """
     processed_data_students, processed_data_responses = prepare_data("data")
-    print(f"processed_data_students", len(processed_data_students))
-    print(f"processed_data_responses", len(processed_data_responses))
     Student.objects.bulk_create(processed_data_students)
 
     StudentResponse.objects.bulk_create(processed_data_responses)

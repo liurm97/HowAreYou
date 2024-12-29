@@ -23,7 +23,6 @@ class GetResourceParamSerializer(serializers.Serializer):
         Validate that value passed into 'type' param is in {article, video}
         """
 
-        print(f"GetResourceParamSerializer - validate_type - {data}")
         if data not in ["article", "video"]:
             raise serializers.ValidationError(
                 {
@@ -187,20 +186,19 @@ class StudentModelSerializer(serializers.ModelSerializer):
     """
 
     id = serializers.CharField(read_only=True)
+    age = serializers.IntegerField()
+    gender = serializers.CharField()
 
     class Meta:
         model = Student
         fields = ["id", "age", "gender"]
 
     def validate_gender(self, data):
-        print(f"StudentModelSerializer - validate_gender called")
-        print("data", data)
         if data not in ["m", "f", "o"]:
             raise serializers.ValidationError("Value must be in ['f' , 'm', 'o']")
         return data
 
     def validate_age(self, data):
-        print("StudentModelSerializer - validate_age called")
         if data < 12 or data > 24:
             raise serializers.ValidationError(
                 "Value must be between 12(inclusive) and 24(inclusive)."
@@ -240,6 +238,15 @@ class CreateStudentRequestBodySerializer(serializers.ModelSerializer):
 
     created_at = serializers.DateTimeField(read_only=True)
     score = serializers.IntegerField(read_only=True)
+    q1_resp = serializers.IntegerField()
+    q2_resp = serializers.IntegerField()
+    q3_resp = serializers.IntegerField()
+    q4_resp = serializers.IntegerField()
+    q5_resp = serializers.IntegerField()
+    q6_resp = serializers.IntegerField()
+    q7_resp = serializers.IntegerField()
+    q8_resp = serializers.IntegerField()
+    q9_resp = serializers.IntegerField()
 
     student = StudentModelSerializer()
 

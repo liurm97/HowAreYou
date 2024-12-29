@@ -11,6 +11,8 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+import sys
+import django
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -38,7 +40,9 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django_extensions",
+    "drf_spectacular",
     "api",
+    # "frontend",
 ]
 
 MIDDLEWARE = [
@@ -105,9 +109,66 @@ REST_FRAMEWORK = {
     "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
     "PAGE_SIZE": 10,
     "EXCEPTION_HANDLER": "api.exceptions.custom_exception_handler",
+    "DEFAULT_RENDERER_CLASSES": ("rest_framework.renderers.JSONRenderer",),
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
 }
 
+SPECTACULAR_SETTINGS = {
+    "TITLE": "HowAreYou API",
+    "DESCRIPTION": f"""
+    Python Version: {sys.version}
 
+    Django Version: {django.get_version()}
+
+    Packages used for application (Refer to requirements.txt):
+    asgiref                   3.8.1
+    attrs                     24.3.0
+    certifi                   2024.12.14
+    charset-normalizer        3.4.0
+    coreapi                   2.3.3
+    coreschema                0.0.4
+    coverage                  7.6.9
+    Django                    5.1.4
+    django-cors-headers       4.6.0
+    django-extensions         3.2.3
+    django-rest-swagger       2.2.0
+    djangorestframework       3.15.2
+    drf-spectacular           0.28.0
+    idna                      3.10
+    inflection                0.5.1
+    itypes                    1.2.0
+    Jinja2                    3.1.5
+    jsonschema                4.23.0
+    jsonschema-specifications 2024.10.1
+    MarkupSafe                3.0.2
+    numpy                     2.2.1
+    openapi-codec             1.3.2
+    pandas                    2.2.3
+    pep8                      1.7.1
+    pip                       24.3.1
+    python-dateutil           2.9.0.post0
+    python-dotenv             1.0.1
+    pytz                      2024.2
+    PyYAML                    6.0.2
+    referencing               0.35.1
+    requests                  2.32.3
+    rpds-py                   0.22.3
+    setuptools                65.5.0
+    simplejson                3.19.3
+    six                       1.17.0
+    sqlparse                  0.5.3
+    tzdata                    2024.2
+    uritemplate               4.1.1
+    urllib3                   2.3.0
+
+    Django Admin username = admin | password = admin123
+
+""",
+    "VERSION": "v1",
+    "SERVE_INCLUDE_SCHEMA": False,
+    "url": "/Users/bobby/uol/advanced_web_dev/dev/HowAreYou/schema.yml",
+    # OTHER SETTINGS
+}
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
 
