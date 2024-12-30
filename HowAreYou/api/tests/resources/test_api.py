@@ -2,11 +2,8 @@
 Test Resources endpoint
 """
 
-from django.test import TestCase, SimpleTestCase
-from rest_framework.test import RequestsClient, APITestCase
-from rest_framework import status
-from ...models import Resource, Student, StudentResponse
-from django.core.management import call_command
+from rest_framework.test import APITestCase
+from ...models import Resource
 from ...scripts.seed_db_script import seed_resources_db
 
 
