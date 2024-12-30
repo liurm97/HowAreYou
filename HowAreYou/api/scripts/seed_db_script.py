@@ -19,13 +19,18 @@ RELATIVE_CSV_PATHS = {
 
 
 def prepare_data(filename: str) -> list[dict]:
+    """
+    Reads CSV file path, prepares data and
+      returns list of objects suitable for `bulk_create()`
+    """
     df = pd.read_csv(RELATIVE_CSV_PATHS[filename])
 
-    # prepare data.csv
+    # prepare `data.csv`
     if filename == "data":
         students_output: list[Student] = []
         responses_output: list[StudentResponse] = []
 
+        # map existing csv column names to column names suitable for model
         column_rename_mapping = {
             "PHQ9 score": "score",
             "Gender": "gender",
@@ -41,6 +46,7 @@ def prepare_data(filename: str) -> list[dict]:
             "q9": "q9_resp",
         }
 
+        # map existing csv column values to values suitable for model
         gender_mapping = {"Female": "f", "Male": "m"}
 
         data_df_copy = df.copy()
@@ -50,6 +56,8 @@ def prepare_data(filename: str) -> list[dict]:
         # iterate through data
         for ind, _ in data_df_copy.iterrows():
             r = data_df_copy.iloc[ind,]
+
+            # format json
             json_r = json.loads(r.to_json())
             json_r["gender"] = gender_mapping[json_r["gender"]]
             json_r["id"] = str(uuid4())
@@ -57,7 +65,10 @@ def prepare_data(filename: str) -> list[dict]:
                 id=json_r["id"], age=json_r["age"], gender=json_r["gender"]
             )
 
+            # Add Student object
             students_output.append(student_obj)
+
+            # Add StudentResponse object
             responses_output.append(
                 StudentResponse(
                     q1_resp=json_r["q1_resp"],
@@ -103,10 +114,3 @@ def seed_resources_db() -> None:
 
     processed_data_resources: list[Resource] = prepare_data("resources")
     Resource.objects.bulk_create(processed_data_resources)
-
-
-def run():
-    pass
-    # seed_students_and_responses_db()
-    # seed_resources_db()
-    # prepare_data()

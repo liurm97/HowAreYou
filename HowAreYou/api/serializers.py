@@ -8,7 +8,7 @@ from datetime import datetime
 from uuid import uuid4
 from rest_framework.exceptions import ValidationError
 import requests as re
-import os
+from rest_framework.validators import UniqueValidator
 
 
 class GetResourceParamSerializer(serializers.Serializer):
@@ -38,12 +38,15 @@ class ResourceModelSerializer(serializers.ModelSerializer):
     Serializer for Resource model
     """
 
-    url = serializers.URLField(read_only=True)
+    url = serializers.URLField(
+        read_only=True, validators=[UniqueValidator(queryset=Resource.objects.all())]
+    )
     type = serializers.CharField(read_only=True)
+    created_at_utc = serializers.DateTimeField(read_only=True)
 
     class Meta:
         model = Resource
-        fields = ["url", "type"]
+        fields = ["url", "type", "created_at_utc"]
 
 
 class CreateResourceRequestBodySerializer(serializers.ModelSerializer):
@@ -54,12 +57,12 @@ class CreateResourceRequestBodySerializer(serializers.ModelSerializer):
     id = serializers.IntegerField(read_only=True)
     type = serializers.CharField(required=True)
     url = serializers.URLField(required=True)
-    created_at = serializers.DateTimeField(read_only=True)
-    updated_at = serializers.DateTimeField(read_only=True)
+    created_at_utc = serializers.DateTimeField(read_only=True)
+    updated_at_utc = serializers.DateTimeField(read_only=True)
 
     class Meta:
         model = Resource
-        fields = ["id", "type", "url", "created_at", "updated_at"]
+        fields = ["id", "type", "url", "created_at_utc", "updated_at_utc"]
 
     def check_url_is_valid(self, url: str):
         """
@@ -228,6 +231,7 @@ class GetStudentResponseModelSerializer(serializers.ModelSerializer):
             "q9_resp",
             "score",
             "student",
+            "created_at_utc",
         ]
 
 
@@ -236,7 +240,7 @@ class CreateStudentRequestBodySerializer(serializers.ModelSerializer):
     Serializer to validate request body passed into POST /api/v1/students/create
     """
 
-    created_at = serializers.DateTimeField(read_only=True)
+    created_at_utc = serializers.DateTimeField(read_only=True)
     score = serializers.IntegerField(read_only=True)
     q1_resp = serializers.IntegerField()
     q2_resp = serializers.IntegerField()
@@ -264,7 +268,7 @@ class CreateStudentRequestBodySerializer(serializers.ModelSerializer):
             "q9_resp",
             "score",
             "student",
-            "created_at",
+            "created_at_utc",
         ]
 
     def validate_q1_resp(self, data):

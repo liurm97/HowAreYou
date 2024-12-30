@@ -18,8 +18,6 @@ from .serializers import (
     GetStudentResponseModelSerializer,
     CreateStudentRequestBodySerializer,
     StudentDeleteSerializer,
-    StudentModelSerializer,
-    StudentResponseStatisticsModel,
 )
 from .models import Resource, Student, StudentResponse
 
@@ -106,7 +104,7 @@ class GetResourceView(APIView):
 
         # Check value passed to 'type' field is either 'article' or 'video'
         if resourceParamSerializer.is_valid():
-            resources = Resource.objects.all().order_by("-created_at")
+            resources = Resource.objects.all().order_by("-created_at_utc")
             acceptable_param = request.query_params.get("type")
 
             if acceptable_param:
@@ -309,6 +307,7 @@ class GetStudentView(APIView, PageNumberPagination):
                 validated_data = getstudentParamSerializer.validated_data
 
                 studentResponses = StudentResponse.objects.all()
+                ordered_studentResponses = studentResponses.order_by("-created_at_utc")
 
                 # if no param is passed in
                 # or if 'page' is the only param
@@ -317,14 +316,14 @@ class GetStudentView(APIView, PageNumberPagination):
                     len(query_params.keys()) == 1 and "page" in query_params.keys()
                 ):
                     results = self.paginate_queryset(
-                        studentResponses, request, view=self
+                        ordered_studentResponses, request, view=self
                     )
 
                 # if any one of accepted param is passed in
                 # return filtered responses
                 elif len(query_params.keys()) > 0:
                     filtered_studentResponses = self.return_filtered_data(
-                        validated_data, studentResponses
+                        validated_data, ordered_studentResponses
                     )
 
                     results = self.paginate_queryset(

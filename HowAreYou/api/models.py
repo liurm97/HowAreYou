@@ -29,8 +29,8 @@ class Student(models.Model):
         null=False,
     )
     age = models.IntegerField(blank=False, null=False)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    created_at_utc = models.DateTimeField(auto_now_add=True)
+    updated_at_utc = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return f"id: {self.id} | gender: {self.gender} | age: {self.age}"
@@ -77,8 +77,8 @@ class StudentResponse(models.Model):
     student = models.ForeignKey(
         Student, related_name="student", on_delete=models.CASCADE
     )
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    created_at_utc = models.DateTimeField(auto_now_add=True)
+    updated_at_utc = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return f"score: {self.score}"
@@ -165,8 +165,8 @@ class Resource(models.Model):
     type = models.CharField(
         max_length=10, choices=TYPE_CHOICES, blank=False, null=False
     )
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    created_at_utc = models.DateTimeField(auto_now_add=True)
+    updated_at_utc = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return f"resource url: {self.url} | type: {self.type}"
