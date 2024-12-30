@@ -86,6 +86,10 @@ class StudentsAPITests(APITestCase):
     def test_create_students_valid_request_body_should_return_score_evaluation_message(
         self,
     ):
+        """
+        Test POST /api/v1/students
+            Evaluation message should be returned on successful student creation
+        """
         valid_request_body = {
             "student": {"age": 12, "gender": "f"},
             "q1_resp": 2,
@@ -107,6 +111,10 @@ class StudentsAPITests(APITestCase):
         self.assertNotEqual("", expected_message)
 
     def test_create_students_valid_request_body_should_return_3_resources(self):
+        """
+        Test POST /api/v1/students
+            Successful student creation should return links to 3 resource urls
+        """
         valid_request_body = {
             "student": {"age": 12, "gender": "f"},
             "q1_resp": 2,
