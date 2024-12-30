@@ -9,6 +9,7 @@ class StudentResponseInline(admin.StackedInline):
 
     model = StudentResponse
     extra = 0
+    exclude = ["score"]
 
 
 class StudentAdmin(admin.ModelAdmin):
