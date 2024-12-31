@@ -105,6 +105,7 @@ def seed_students_and_responses_db() -> None:
     Student.objects.bulk_create(processed_data_students)
 
     StudentResponse.objects.bulk_create(processed_data_responses)
+    print("seed_students_and_responses_db:: completed!")
 
 
 def seed_resources_db() -> None:
@@ -114,3 +115,4 @@ def seed_resources_db() -> None:
 
     processed_data_resources: list[Resource] = prepare_data("resources")
     Resource.objects.bulk_create(processed_data_resources)
+    print("seed_resources_db:: completed!")

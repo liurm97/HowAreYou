@@ -4,9 +4,7 @@ Serializer for API
 
 from rest_framework import serializers
 from .models import Student, StudentResponse, Resource
-from datetime import datetime
 from uuid import uuid4
-from rest_framework.exceptions import ValidationError
 import requests as re
 from rest_framework.validators import UniqueValidator
 

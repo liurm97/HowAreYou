@@ -4,10 +4,6 @@ Api endpoint urls
 
 from django.urls import path
 from . import views
-from drf_spectacular.views import (
-    SpectacularAPIView,
-    SpectacularSwaggerView,
-)
 
 urlpatterns = [
     path("resources", views.GetResourceView.as_view(), name="get-resources"),

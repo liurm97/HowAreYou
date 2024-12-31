@@ -12,3 +12,4 @@ class Command(BaseCommand):
     def handle(self, *args: Any, **options: Any) -> str | None:
         seed_students_and_responses_db()
         seed_resources_db()
+        print("seed_db completed!")

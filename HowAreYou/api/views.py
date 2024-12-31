@@ -1,15 +1,15 @@
-# from django.shortcuts import render
-from rest_framework.decorators import api_view
+# drf framework
 from rest_framework.response import Response
-from django.http import JsonResponse
 from rest_framework.response import Response
 from rest_framework import status
-from rest_framework.exceptions import ValidationError
 from rest_framework.views import APIView
 from rest_framework.pagination import PageNumberPagination
-from random import randint
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
+from django.http import JsonResponse
 
+# swagger
+from drf_spectacular.utils import extend_schema, OpenApiParameter
+
+# serializers
 from .serializers import (
     ResourceModelSerializer,
     GetResourceParamSerializer,
@@ -19,8 +19,11 @@ from .serializers import (
     CreateStudentRequestBodySerializer,
     StudentDeleteSerializer,
 )
+
+# models
 from .models import Resource, Student, StudentResponse
 
+from random import randint
 
 #  ----------- Resource ------------ #
 
@@ -104,13 +107,20 @@ class GetResourceView(APIView):
 
         # Check value passed to 'type' field is either 'article' or 'video'
         if resourceParamSerializer.is_valid():
-            resources = Resource.objects.all().order_by("-created_at_utc")
-            acceptable_param = request.query_params.get("type")
+            try:
+                resources = Resource.objects.all().order_by("-created_at_utc")
+                acceptable_param = request.query_params.get("type")
 
-            if acceptable_param:
-                output = resources.filter(type=acceptable_param)
-            else:
-                output = resources
+                if acceptable_param:
+                    output = resources.filter(type=acceptable_param)
+                else:
+                    output = resources
+
+            except Exception:
+                return Response(
+                    "Something wrong happened. Please try again.",
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                )
 
             resourceOutputSerializer = ResourceModelSerializer(output, many=True)
             return Response(resourceOutputSerializer.data, status=status.HTTP_200_OK)
@@ -225,6 +235,9 @@ class GetStudentView(APIView, PageNumberPagination):
         return True, None
 
     def return_filtered_data(self, validated_data, studentResponses):
+        """
+        filter by provided parameter and return filtered data
+        """
         ## if agelt, agegt, gender are present
         if (
             "agelte" in validated_data
